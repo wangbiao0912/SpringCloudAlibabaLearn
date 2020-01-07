@@ -1,0 +1,16 @@
+*.class
+.classpath
+.project
+.settings
+*.jar
+*.war
+*.ear
+target/
+lomback/
+/lomback/
+.idea/
+/.idea
+/target
+/logback
+logback/
+*.iml
