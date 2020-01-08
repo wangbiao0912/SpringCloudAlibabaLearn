@@ -18,7 +18,7 @@
                      `=---='
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
          	佛祖保佑       永不宕机       永无Bug
-         	SOURCE　CODE BY XC LICENSE
+         	SOURCE　CODE BY WangBiao LICENSE
          Spring Boot version: ${spring-boot.version}
 ==================================================
 
