@@ -27,6 +27,7 @@ import java.net.URI;
 class AlibabaNacosProviderServerApplication {
 
     public static void main(String[] args) {
+        System.setProperty("nacos.standalone", "true");
         SpringApplication.run(AlibabaNacosProviderServerApplication.class, args);
     }
 
