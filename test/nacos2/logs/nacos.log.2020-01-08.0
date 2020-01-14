@@ -1,0 +1,166 @@
+2020-01-08 23:55:25,989 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 5261 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-08 23:55:25,993 INFO The following profiles are active: standalone
+
+2020-01-08 23:55:28,003 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$4db75775] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-08 23:55:28,089 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-08 23:55:28,091 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@2b30a42c' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-08 23:55:28,092 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$728bfa27] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-08 23:55:28,096 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-08 23:55:28,554 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-08 23:55:28,580 INFO Starting service [Tomcat]
+
+2020-01-08 23:55:28,581 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-08 23:55:28,594 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-08 23:55:28,682 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-08 23:55:28,682 INFO Root WebApplicationContext: initialization completed in 2574 ms
+
+2020-01-08 23:55:31,585 INFO Use Mysql as the driver
+
+2020-01-08 23:55:32,357 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-08 23:55:32,647 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-08 23:55:33,213 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-08 23:55:33,214 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-08 23:55:33,221 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-08 23:55:33,221 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-08 23:55:33,222 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-08 23:55:33,222 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-08 23:55:33,222 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-08 23:55:33,222 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-08 23:55:33,224 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-08 23:55:33,224 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-08 23:55:33,224 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-08 23:55:33,229 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-08 23:55:33,229 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-08 23:55:33,229 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-08 23:55:33,229 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-08 23:55:33,230 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-08 23:55:33,290 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@184497d1, org.springframework.security.web.context.SecurityContextPersistenceFilter@30ea8c23, org.springframework.security.web.header.HeaderWriterFilter@751d3241, org.springframework.security.web.authentication.logout.LogoutFilter@53e211ee, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@f9d87b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4e76dac, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6273c5a4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6ffab045, org.springframework.security.web.session.SessionManagementFilter@64337702, org.springframework.security.web.access.ExceptionTranslationFilter@756cf158, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2289aca5]
+
+2020-01-08 23:55:33,457 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-08 23:55:33,506 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-08 23:55:33,698 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-08 23:55:33,703 INFO Started Nacos in 8.56 seconds (JVM running for 9.263)
+
+2020-01-08 23:55:33,704 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-08 23:55:33,704 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-08 23:55:33,704 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-08 23:55:33,704 INFO Nacos started successfully in stand alone mode.
+
+2020-01-08 23:55:36,373 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-08 23:55:36,374 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-08 23:55:36,383 INFO Completed initialization in 9 ms
+
+2020-01-08 23:55:44,341 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:55:45,125 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:55:45,195 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:55:45,300 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:27,626 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:29,926 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:30,776 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:31,554 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:31,621 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:32,132 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:32,377 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:32,471 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:32,886 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:33,413 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:33,685 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:33,765 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:34,298 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:34,588 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:34,981 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:36,758 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:36,824 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:37,652 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:39,188 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:39,259 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:40,880 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:41,507 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:41,943 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:42,005 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:43,039 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:43,607 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:44,135 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:44,202 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:45,234 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:47,745 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:47,811 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:47,911 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:50,555 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:54,283 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-08 23:56:54,402 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+

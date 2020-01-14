@@ -1,0 +1,660 @@
+2020-01-10 09:54:28,480 ERROR db.url.2 is null
+
+2020-01-10 09:54:28,483 ERROR [db-load-error]load jdbc.properties error
+
+java.lang.IllegalArgumentException: null
+	at com.alibaba.nacos.config.server.service.BasicDataSourceServiceImpl.reload(BasicDataSourceServiceImpl.java:162)
+	at com.alibaba.nacos.config.server.service.BasicDataSourceServiceImpl.init(BasicDataSourceServiceImpl.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:363)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:307)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:136)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1737)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)
+	at com.alibaba.nacos.config.server.service.DynamicDataSource.getDataSource(DynamicDataSource.java:54)
+	at com.alibaba.nacos.config.server.service.PersistService.init(PersistService.java:91)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:363)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:307)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:136)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1737)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1237)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1378)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:575)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1237)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1378)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:575)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.alibaba.nacos.Nacos.main(Nacos.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50)
+	at org.springframework.boot.loader.PropertiesLauncher.main(PropertiesLauncher.java:593)
+2020-01-10 09:55:40,947 ERROR db.url.2 is null
+
+2020-01-10 09:55:40,957 ERROR [db-load-error]load jdbc.properties error
+
+java.lang.IllegalArgumentException: null
+	at com.alibaba.nacos.config.server.service.BasicDataSourceServiceImpl.reload(BasicDataSourceServiceImpl.java:162)
+	at com.alibaba.nacos.config.server.service.BasicDataSourceServiceImpl.init(BasicDataSourceServiceImpl.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:363)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:307)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:136)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1737)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)
+	at com.alibaba.nacos.config.server.service.DynamicDataSource.getDataSource(DynamicDataSource.java:54)
+	at com.alibaba.nacos.config.server.service.PersistService.init(PersistService.java:91)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:363)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:307)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:136)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1737)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1237)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1378)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:575)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1237)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1378)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:575)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.alibaba.nacos.Nacos.main(Nacos.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50)
+	at org.springframework.boot.loader.PropertiesLauncher.main(PropertiesLauncher.java:593)
+2020-01-10 09:56:40,415 ERROR [master-db] master db not found.
+
+2020-01-10 09:56:44,459 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:56:51,486 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:56:52,337 WARN useAddressServer:true
+
+2020-01-10 09:56:52,338 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:52,340 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:52,467 WARN isQuickStart:false
+
+2020-01-10 09:56:52,530 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 09:56:57,345 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:02,348 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:07,353 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:09,548 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:57:12,359 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:12,559 ERROR [master-db] master db not found.
+
+2020-01-10 09:57:17,364 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:19,580 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:57:22,365 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:27,369 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:32,370 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:33,597 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:57:33,600 ERROR [master-db] master db not found.
+
+2020-01-10 09:57:37,375 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:40,626 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:57:42,377 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:47,381 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:52,383 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:54,647 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:57:54,650 ERROR [master-db] master db not found.
+
+2020-01-10 09:57:57,389 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:23,069 ERROR [master-db] master db not found.
+
+2020-01-10 09:58:27,087 ERROR [db-error] master db  down.
+
+2020-01-10 09:58:34,113 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:58:34,712 WARN useAddressServer:true
+
+2020-01-10 09:58:34,722 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:34,725 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:34,853 WARN isQuickStart:false
+
+2020-01-10 09:58:34,984 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 09:58:39,726 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:44,731 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:49,734 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:52,154 ERROR [db-error] master db  down.
+
+2020-01-10 09:58:54,739 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:55,165 ERROR [master-db] master db not found.
+
+2020-01-10 09:58:59,742 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:02,185 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:59:04,744 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:09,753 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:14,754 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:16,212 ERROR [db-error] master db  down.
+
+2020-01-10 09:59:16,246 ERROR [master-db] master db not found.
+
+2020-01-10 09:59:19,765 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:23,285 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:59:24,769 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:29,772 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:34,774 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:37,297 ERROR [master-db] master db not found.
+
+2020-01-10 09:59:37,314 ERROR [db-error] master db  down.
+
+2020-01-10 09:59:39,781 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:44,344 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:59:44,785 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:49,791 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:54,794 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:58,347 ERROR [master-db] master db not found.
+
+2020-01-10 09:59:58,369 ERROR [db-error] master db  down.
+
+2020-01-10 09:59:59,801 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:04,802 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:05,402 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:00:09,807 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:14,810 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:19,400 ERROR [master-db] master db not found.
+
+2020-01-10 10:00:19,427 ERROR [db-error] master db  down.
+
+2020-01-10 10:00:19,819 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:24,821 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:26,462 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:00:29,828 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:34,832 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:39,835 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:40,472 ERROR [master-db] master db not found.
+
+2020-01-10 10:00:40,476 ERROR [db-error] master db  down.
+
+2020-01-10 10:00:44,836 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:47,510 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:00:49,843 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:54,844 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:59,851 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:01,526 ERROR [master-db] master db not found.
+
+2020-01-10 10:01:01,528 ERROR [db-error] master db  down.
+
+2020-01-10 10:01:04,852 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:08,545 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:01:09,860 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:14,864 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:19,869 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:22,565 ERROR [db-error] master db  down.
+
+2020-01-10 10:01:22,574 ERROR [master-db] master db not found.
+
+2020-01-10 10:01:24,874 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:29,592 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:01:29,878 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:34,883 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:39,892 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:43,609 ERROR [db-error] master db  down.
+
+2020-01-10 10:01:43,621 ERROR [master-db] master db not found.
+
+2020-01-10 10:01:44,896 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:49,900 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:50,643 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:01:54,906 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:59,911 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:04,661 ERROR [db-error] master db  down.
+
+2020-01-10 10:02:04,664 ERROR [master-db] master db not found.
+
+2020-01-10 10:02:04,915 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:09,919 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:11,683 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:02:14,924 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:19,928 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:24,932 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:25,705 ERROR [db-error] master db  down.
+
+2020-01-10 10:02:25,710 ERROR [master-db] master db not found.
+
+2020-01-10 10:02:29,938 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:32,726 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:02:34,941 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:39,944 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:44,949 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:46,745 ERROR [db-error] master db  down.
+
+2020-01-10 10:02:46,759 ERROR [master-db] master db not found.
+
+2020-01-10 10:02:49,955 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:53,775 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:02:54,959 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:59,962 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:04,965 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:07,794 ERROR [db-error] master db  down.
+
+2020-01-10 10:03:07,801 ERROR [master-db] master db not found.
+
+2020-01-10 10:03:09,967 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:14,816 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:03:14,973 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:19,975 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:24,982 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:28,843 ERROR [db-error] master db  down.
+
+2020-01-10 10:03:28,851 ERROR [master-db] master db not found.
+
+2020-01-10 10:03:29,983 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:34,988 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:35,870 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:03:39,994 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:44,998 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:49,884 ERROR [master-db] master db not found.
+
+2020-01-10 10:03:49,895 ERROR [db-error] master db  down.
+
+2020-01-10 10:03:50,003 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:55,007 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:56,913 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:04:00,011 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:05,016 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:10,019 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:10,928 ERROR [master-db] master db not found.
+
+2020-01-10 10:04:10,932 ERROR [db-error] master db  down.
+
+2020-01-10 10:04:15,022 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:17,949 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:04:20,027 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:25,030 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:30,034 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:44,360 ERROR [master-db] master db not found.
+
+2020-01-10 10:04:48,380 ERROR [db-error] master db  down.
+
+2020-01-10 10:04:48,844 WARN useAddressServer:true
+
+2020-01-10 10:04:48,845 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:48,846 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:49,039 WARN isQuickStart:false
+
+2020-01-10 10:04:49,096 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 10:04:53,879 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:58,884 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:02,407 ERROR [master-db] master db not found.
+
+2020-01-10 10:05:03,887 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:06,420 ERROR [db-error] master db  down.
+
+2020-01-10 10:05:08,890 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:13,895 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:17,450 ERROR [master-db] master db not found.
+
+2020-01-10 10:05:18,897 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:21,462 ERROR [db-error] master db  down.
+
+2020-01-10 10:05:23,897 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:28,903 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:31,471 ERROR [master-db] master db not found.
+
+2020-01-10 10:05:33,906 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:35,485 ERROR [db-error] master db  down.
+
+2020-01-10 10:05:38,909 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:43,912 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:45,499 ERROR [master-db] master db not found.
+
+2020-01-10 10:05:48,917 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:49,512 ERROR [db-error] master db  down.
+
+2020-01-10 10:05:53,921 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:58,922 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:59,521 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:03,536 ERROR [db-error] master db  down.
+
+2020-01-10 10:06:03,927 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:08,931 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:13,542 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:13,936 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:17,557 ERROR [db-error] master db  down.
+
+2020-01-10 10:06:18,937 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:23,942 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:27,563 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:28,944 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:31,577 ERROR [db-error] master db  down.
+
+2020-01-10 10:06:33,950 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:38,951 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:41,596 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:43,957 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:45,613 ERROR [db-error] master db  down.
+
+2020-01-10 10:06:48,960 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:53,965 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:55,620 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:58,969 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:59,634 ERROR [db-error] master db  down.
+
+2020-01-10 10:07:03,970 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:08,974 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:09,634 ERROR [master-db] master db not found.
+
+2020-01-10 10:07:13,651 ERROR [db-error] master db  down.
+
+2020-01-10 10:07:13,979 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:18,984 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:48,021 ERROR [master-db] master db not found.
+
+2020-01-10 10:07:52,043 ERROR [db-error] master db  down.
+
+2020-01-10 10:07:59,066 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:07:59,806 WARN useAddressServer:true
+
+2020-01-10 10:07:59,807 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:59,810 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:59,970 WARN isQuickStart:false
+
+2020-01-10 10:08:00,046 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 10:08:04,812 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:26,122 ERROR [master-db] master db not found.
+
+2020-01-10 10:08:30,148 ERROR [db-error] master db  down.
+
+2020-01-10 10:08:37,176 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:08:38,004 WARN useAddressServer:true
+
+2020-01-10 10:08:38,014 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:38,024 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:38,290 WARN isQuickStart:false
+
+2020-01-10 10:08:38,359 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 10:08:43,026 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:58,412 ERROR [master-db] master db not found.
+
+2020-01-10 10:09:02,431 ERROR [db-error] master db  down.
+
+2020-01-10 10:09:03,203 WARN useAddressServer:true
+
+2020-01-10 10:09:03,204 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:03,209 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:03,347 WARN isQuickStart:false
+
+2020-01-10 10:09:03,430 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 10:09:08,212 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:13,215 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:16,459 ERROR [master-db] master db not found.
+
+2020-01-10 10:09:18,219 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:20,474 ERROR [db-error] master db  down.
+

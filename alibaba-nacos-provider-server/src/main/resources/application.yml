@@ -1,16 +1,16 @@
 server:
   # 自定义端口号
-  port: 8089
+  port: 8090
 
 
 spring:
   application:
-    # 服务提供者
+    #服务消费者
     name: provider-service
   cloud:
     nacos:
       discovery:
         # 注册到nacos注册中心
-        server-addr: 192.168.0.101:8848
+        server-addr: 127.0.0.1:8848
 #        namespace: 8840cdc5-49dc-4784-9601-199baa1e8704
-#        cluster-name: ChongQing
+        cluster-name: ChongQing

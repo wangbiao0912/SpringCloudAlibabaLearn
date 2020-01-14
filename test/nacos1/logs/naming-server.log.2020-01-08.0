@@ -1,0 +1,433 @@
+2020-01-08 23:55:23,111 INFO listen for service meta change
+
+2020-01-08 23:55:26,921 INFO [SERVER-INIT] got port: 8841
+
+2020-01-08 23:55:26,921 INFO [SERVER-INIT] got path: /nacos
+
+2020-01-08 23:55:26,988 INFO receive config info: unknown#192.168.3.34:8841#1578498926988#8
+
+
+2020-01-08 23:55:26,991 ERROR [SERVER-STATUS] Exception while sending server status
+
+java.lang.IllegalArgumentException: server: 192.168.3.34:8841 is not in serverlist
+	at com.alibaba.nacos.naming.cluster.ServerListManager.onReceiveServerStatus(ServerListManager.java:198)
+	at com.alibaba.nacos.naming.cluster.ServerListManager$ServerStatusReporter.run(ServerListManager.java:345)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-08 23:55:28,991 INFO receive config info: unknown#192.168.3.34:8841#1578498928991#8
+
+
+2020-01-08 23:55:30,996 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.3.34","key":"192.168.3.34:8841","lastRefTime":1578498928991,"lastRefTimeStr":"2020-01-08 23:55:28","servePort":8841,"site":"unknown","weight":8}]
+
+2020-01-08 23:55:30,996 INFO receive config info: unknown#192.168.3.34:8841#1578498930996#8
+
+
+2020-01-08 23:55:33,000 INFO receive config info: unknown#192.168.3.34:8841#1578498933000#8
+
+
+2020-01-08 23:55:35,004 INFO receive config info: unknown#192.168.3.34:8841#1578498935004#8
+
+
+2020-01-08 23:55:37,009 INFO receive config info: unknown#192.168.3.34:8841#1578498937009#8
+
+
+2020-01-08 23:55:39,011 INFO receive config info: unknown#192.168.3.34:8841#1578498939011#8
+
+
+2020-01-08 23:55:41,015 INFO receive config info: unknown#192.168.3.34:8841#1578498941015#8
+
+
+2020-01-08 23:55:43,020 INFO receive config info: unknown#192.168.3.34:8841#1578498943020#8
+
+
+2020-01-08 23:55:45,025 INFO receive config info: unknown#192.168.3.34:8841#1578498945025#8
+
+
+2020-01-08 23:55:47,028 INFO receive config info: unknown#192.168.3.34:8841#1578498947028#8
+
+
+2020-01-08 23:55:49,033 INFO receive config info: unknown#192.168.3.34:8841#1578498949033#8
+
+
+2020-01-08 23:55:51,037 INFO receive config info: unknown#192.168.3.34:8841#1578498951037#8
+
+
+2020-01-08 23:55:53,043 INFO receive config info: unknown#192.168.3.34:8841#1578498953043#8
+
+
+2020-01-08 23:55:55,048 INFO receive config info: unknown#192.168.3.34:8841#1578498955048#8
+
+
+2020-01-08 23:55:57,052 INFO receive config info: unknown#192.168.3.34:8841#1578498957052#8
+
+
+2020-01-08 23:55:59,055 INFO receive config info: unknown#192.168.3.34:8841#1578498959055#8
+
+
+2020-01-08 23:56:01,059 INFO receive config info: unknown#192.168.3.34:8841#1578498961059#8
+
+
+2020-01-08 23:56:03,063 INFO receive config info: unknown#192.168.3.34:8841#1578498963063#8
+
+
+2020-01-08 23:56:05,067 INFO receive config info: unknown#192.168.3.34:8841#1578498965067#8
+
+
+2020-01-08 23:56:07,069 INFO receive config info: unknown#192.168.3.34:8841#1578498967069#8
+
+
+2020-01-08 23:56:09,072 INFO receive config info: unknown#192.168.3.34:8841#1578498969072#8
+
+
+2020-01-08 23:56:11,076 INFO receive config info: unknown#192.168.3.34:8841#1578498971076#8
+
+
+2020-01-08 23:56:13,081 INFO receive config info: unknown#192.168.3.34:8841#1578498973081#8
+
+
+2020-01-08 23:56:15,084 INFO receive config info: unknown#192.168.3.34:8841#1578498975084#8
+
+
+2020-01-08 23:56:17,089 INFO receive config info: unknown#192.168.3.34:8841#1578498977089#8
+
+
+2020-01-08 23:56:19,094 INFO receive config info: unknown#192.168.3.34:8841#1578498979094#8
+
+
+2020-01-08 23:56:21,099 INFO receive config info: unknown#192.168.3.34:8841#1578498981099#8
+
+
+2020-01-08 23:56:23,099 INFO receive config info: unknown#192.168.3.34:8841#1578498983099#8
+
+
+2020-01-08 23:56:25,104 INFO receive config info: unknown#192.168.3.34:8841#1578498985104#8
+
+
+2020-01-08 23:56:27,109 INFO receive config info: unknown#192.168.3.34:8841#1578498987109#8
+
+
+2020-01-08 23:56:29,114 INFO receive config info: unknown#192.168.3.34:8841#1578498989114#8
+
+
+2020-01-08 23:56:31,116 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2020-01-08 23:56:31,116 INFO receive config info: unknown#192.168.3.34:8841#1578498991116#8
+
+
+2020-01-08 23:56:33,116 INFO receive config info: unknown#192.168.3.34:8841#1578498993116#8
+
+
+2020-01-08 23:56:35,122 INFO receive config info: unknown#192.168.3.34:8841#1578498995122#8
+
+
+2020-01-08 23:56:37,126 INFO receive config info: unknown#192.168.3.34:8841#1578498997126#8
+
+
+2020-01-08 23:56:39,131 INFO receive config info: unknown#192.168.3.34:8841#1578498999131#8
+
+
+2020-01-08 23:56:41,135 INFO receive config info: unknown#192.168.3.34:8841#1578499001135#8
+
+
+2020-01-08 23:56:43,138 INFO receive config info: unknown#192.168.3.34:8841#1578499003138#8
+
+
+2020-01-08 23:56:45,143 INFO receive config info: unknown#192.168.3.34:8841#1578499005143#8
+
+
+2020-01-08 23:56:47,147 INFO receive config info: unknown#192.168.3.34:8841#1578499007147#8
+
+
+2020-01-08 23:56:49,148 INFO receive config info: unknown#192.168.3.34:8841#1578499009148#8
+
+
+2020-01-08 23:56:51,152 INFO receive config info: unknown#192.168.3.34:8841#1578499011152#8
+
+
+2020-01-08 23:56:53,156 INFO receive config info: unknown#192.168.3.34:8841#1578499013156#8
+
+
+2020-01-08 23:56:55,159 INFO receive config info: unknown#192.168.3.34:8841#1578499015159#8
+
+
+2020-01-08 23:56:57,163 INFO receive config info: unknown#192.168.3.34:8841#1578499017163#8
+
+
+2020-01-08 23:56:59,164 INFO receive config info: unknown#192.168.3.34:8841#1578499019164#8
+
+
+2020-01-08 23:57:01,167 INFO receive config info: unknown#192.168.3.34:8841#1578499021167#8
+
+
+2020-01-08 23:57:03,171 INFO receive config info: unknown#192.168.3.34:8841#1578499023171#8
+
+
+2020-01-08 23:57:05,177 INFO receive config info: unknown#192.168.3.34:8841#1578499025177#8
+
+
+2020-01-08 23:57:07,182 INFO receive config info: unknown#192.168.3.34:8841#1578499027182#8
+
+
+2020-01-08 23:57:09,185 INFO receive config info: unknown#192.168.3.34:8841#1578499029185#8
+
+
+2020-01-08 23:57:11,187 INFO receive config info: unknown#192.168.3.34:8841#1578499031187#8
+
+
+2020-01-08 23:57:13,190 INFO receive config info: unknown#192.168.3.34:8841#1578499033190#8
+
+
+2020-01-08 23:57:15,193 INFO receive config info: unknown#192.168.3.34:8841#1578499035193#8
+
+
+2020-01-08 23:57:17,196 INFO receive config info: unknown#192.168.3.34:8841#1578499037196#8
+
+
+2020-01-08 23:57:19,200 INFO receive config info: unknown#192.168.3.34:8841#1578499039200#8
+
+
+2020-01-08 23:57:21,204 INFO receive config info: unknown#192.168.3.34:8841#1578499041204#8
+
+
+2020-01-08 23:57:23,208 INFO receive config info: unknown#192.168.3.34:8841#1578499043208#8
+
+
+2020-01-08 23:57:25,213 INFO receive config info: unknown#192.168.3.34:8841#1578499045213#8
+
+
+2020-01-08 23:57:27,218 INFO receive config info: unknown#192.168.3.34:8841#1578499047218#8
+
+
+2020-01-08 23:57:29,222 INFO receive config info: unknown#192.168.3.34:8841#1578499049222#8
+
+
+2020-01-08 23:57:31,226 INFO receive config info: unknown#192.168.3.34:8841#1578499051226#8
+
+
+2020-01-08 23:57:33,232 INFO receive config info: unknown#192.168.3.34:8841#1578499053230#8
+
+
+2020-01-08 23:57:35,237 INFO receive config info: unknown#192.168.3.34:8841#1578499055237#8
+
+
+2020-01-08 23:57:37,240 INFO receive config info: unknown#192.168.3.34:8841#1578499057240#8
+
+
+2020-01-08 23:57:39,243 INFO receive config info: unknown#192.168.3.34:8841#1578499059243#8
+
+
+2020-01-08 23:57:41,246 INFO receive config info: unknown#192.168.3.34:8841#1578499061246#8
+
+
+2020-01-08 23:57:43,250 INFO receive config info: unknown#192.168.3.34:8841#1578499063250#8
+
+
+2020-01-08 23:57:45,253 INFO receive config info: unknown#192.168.3.34:8841#1578499065253#8
+
+
+2020-01-08 23:57:47,258 INFO receive config info: unknown#192.168.3.34:8841#1578499067258#8
+
+
+2020-01-08 23:57:49,262 INFO receive config info: unknown#192.168.3.34:8841#1578499069262#8
+
+
+2020-01-08 23:57:51,267 INFO receive config info: unknown#192.168.3.34:8841#1578499071267#8
+
+
+2020-01-08 23:57:53,270 INFO receive config info: unknown#192.168.3.34:8841#1578499073270#8
+
+
+2020-01-08 23:57:55,275 INFO receive config info: unknown#192.168.3.34:8841#1578499075275#8
+
+
+2020-01-08 23:57:57,280 INFO receive config info: unknown#192.168.3.34:8841#1578499077279#8
+
+
+2020-01-08 23:57:59,281 INFO receive config info: unknown#192.168.3.34:8841#1578499079281#8
+
+
+2020-01-08 23:58:01,284 INFO receive config info: unknown#192.168.3.34:8841#1578499081284#8
+
+
+2020-01-08 23:58:03,286 INFO receive config info: unknown#192.168.3.34:8841#1578499083286#8
+
+
+2020-01-08 23:58:05,291 INFO receive config info: unknown#192.168.3.34:8841#1578499085291#8
+
+
+2020-01-08 23:58:07,296 INFO receive config info: unknown#192.168.3.34:8841#1578499087296#8
+
+
+2020-01-08 23:58:09,300 INFO receive config info: unknown#192.168.3.34:8841#1578499089300#8
+
+
+2020-01-08 23:58:11,303 INFO receive config info: unknown#192.168.3.34:8841#1578499091303#8
+
+
+2020-01-08 23:58:13,304 INFO receive config info: unknown#192.168.3.34:8841#1578499093304#8
+
+
+2020-01-08 23:58:15,307 INFO receive config info: unknown#192.168.3.34:8841#1578499095307#8
+
+
+2020-01-08 23:58:17,311 INFO receive config info: unknown#192.168.3.34:8841#1578499097311#8
+
+
+2020-01-08 23:58:19,313 INFO receive config info: unknown#192.168.3.34:8841#1578499099313#8
+
+
+2020-01-08 23:58:21,316 INFO receive config info: unknown#192.168.3.34:8841#1578499101316#8
+
+
+2020-01-08 23:58:23,319 INFO receive config info: unknown#192.168.3.34:8841#1578499103319#8
+
+
+2020-01-08 23:58:25,324 INFO receive config info: unknown#192.168.3.34:8841#1578499105324#8
+
+
+2020-01-08 23:58:27,329 INFO receive config info: unknown#192.168.3.34:8841#1578499107329#8
+
+
+2020-01-08 23:58:29,334 INFO receive config info: unknown#192.168.3.34:8841#1578499109334#8
+
+
+2020-01-08 23:58:31,339 INFO receive config info: unknown#192.168.3.34:8841#1578499111339#8
+
+
+2020-01-08 23:58:33,344 INFO receive config info: unknown#192.168.3.34:8841#1578499113344#8
+
+
+2020-01-08 23:58:35,349 INFO receive config info: unknown#192.168.3.34:8841#1578499115349#8
+
+
+2020-01-08 23:58:37,353 INFO receive config info: unknown#192.168.3.34:8841#1578499117353#8
+
+
+2020-01-08 23:58:39,358 INFO receive config info: unknown#192.168.3.34:8841#1578499119358#8
+
+
+2020-01-08 23:58:41,362 INFO receive config info: unknown#192.168.3.34:8841#1578499121362#8
+
+
+2020-01-08 23:58:43,366 INFO receive config info: unknown#192.168.3.34:8841#1578499123366#8
+
+
+2020-01-08 23:58:45,370 INFO receive config info: unknown#192.168.3.34:8841#1578499125370#8
+
+
+2020-01-08 23:58:47,370 INFO receive config info: unknown#192.168.3.34:8841#1578499127370#8
+
+
+2020-01-08 23:58:49,372 INFO receive config info: unknown#192.168.3.34:8841#1578499129372#8
+
+
+2020-01-08 23:58:51,377 INFO receive config info: unknown#192.168.3.34:8841#1578499131377#8
+
+
+2020-01-08 23:58:53,381 INFO receive config info: unknown#192.168.3.34:8841#1578499133381#8
+
+
+2020-01-08 23:58:55,385 INFO receive config info: unknown#192.168.3.34:8841#1578499135385#8
+
+
+2020-01-08 23:58:57,388 INFO receive config info: unknown#192.168.3.34:8841#1578499137388#8
+
+
+2020-01-08 23:58:59,390 INFO receive config info: unknown#192.168.3.34:8841#1578499139390#8
+
+
+2020-01-08 23:59:01,393 INFO receive config info: unknown#192.168.3.34:8841#1578499141393#8
+
+
+2020-01-08 23:59:03,395 INFO receive config info: unknown#192.168.3.34:8841#1578499143395#8
+
+
+2020-01-08 23:59:05,398 INFO receive config info: unknown#192.168.3.34:8841#1578499145398#8
+
+
+2020-01-08 23:59:07,402 INFO receive config info: unknown#192.168.3.34:8841#1578499147402#8
+
+
+2020-01-08 23:59:09,406 INFO receive config info: unknown#192.168.3.34:8841#1578499149406#8
+
+
+2020-01-08 23:59:11,410 INFO receive config info: unknown#192.168.3.34:8841#1578499151410#8
+
+
+2020-01-08 23:59:13,414 INFO receive config info: unknown#192.168.3.34:8841#1578499153414#8
+
+
+2020-01-08 23:59:15,414 INFO receive config info: unknown#192.168.3.34:8841#1578499155414#8
+
+
+2020-01-08 23:59:17,419 INFO receive config info: unknown#192.168.3.34:8841#1578499157419#8
+
+
+2020-01-08 23:59:19,422 INFO receive config info: unknown#192.168.3.34:8841#1578499159422#8
+
+
+2020-01-08 23:59:21,426 INFO receive config info: unknown#192.168.3.34:8841#1578499161426#8
+
+
+2020-01-08 23:59:23,431 INFO receive config info: unknown#192.168.3.34:8841#1578499163431#8
+
+
+2020-01-08 23:59:25,434 INFO receive config info: unknown#192.168.3.34:8841#1578499165434#8
+
+
+2020-01-08 23:59:27,440 INFO receive config info: unknown#192.168.3.34:8841#1578499167440#8
+
+
+2020-01-08 23:59:29,443 INFO receive config info: unknown#192.168.3.34:8841#1578499169443#8
+
+
+2020-01-08 23:59:31,443 INFO receive config info: unknown#192.168.3.34:8841#1578499171443#8
+
+
+2020-01-08 23:59:33,447 INFO receive config info: unknown#192.168.3.34:8841#1578499173447#8
+
+
+2020-01-08 23:59:35,451 INFO receive config info: unknown#192.168.3.34:8841#1578499175451#8
+
+
+2020-01-08 23:59:37,455 INFO receive config info: unknown#192.168.3.34:8841#1578499177455#8
+
+
+2020-01-08 23:59:39,459 INFO receive config info: unknown#192.168.3.34:8841#1578499179459#8
+
+
+2020-01-08 23:59:41,462 INFO receive config info: unknown#192.168.3.34:8841#1578499181462#8
+
+
+2020-01-08 23:59:43,467 INFO receive config info: unknown#192.168.3.34:8841#1578499183467#8
+
+
+2020-01-08 23:59:45,472 INFO receive config info: unknown#192.168.3.34:8841#1578499185472#8
+
+
+2020-01-08 23:59:47,478 INFO receive config info: unknown#192.168.3.34:8841#1578499187478#8
+
+
+2020-01-08 23:59:49,481 INFO receive config info: unknown#192.168.3.34:8841#1578499189481#8
+
+
+2020-01-08 23:59:51,487 INFO receive config info: unknown#192.168.3.34:8841#1578499191487#8
+
+
+2020-01-08 23:59:53,492 INFO receive config info: unknown#192.168.3.34:8841#1578499193492#8
+
+
+2020-01-08 23:59:55,496 INFO receive config info: unknown#192.168.3.34:8841#1578499195496#8
+
+
+2020-01-08 23:59:57,500 INFO receive config info: unknown#192.168.3.34:8841#1578499197500#8
+
+
+2020-01-08 23:59:59,503 INFO receive config info: unknown#192.168.3.34:8841#1578499199503#8
+
+

@@ -1,0 +1,18 @@
+2020-01-09 00:05:09,537 INFO DEFAULT_GROUP@@provider-service {SYNC} {IP-NEW} cluster: ChongQing, new ips size: 1, content: [192.168.3.34:8088:unknown:ChongQing_1.0_true_false_ChongQing]
+
+2020-01-09 00:05:09,539 INFO [IP-UPDATED] namespace: 8840cdc5-49dc-4784-9601-199baa1e8704, service: DEFAULT_GROUP@@provider-service, ips: 192.168.3.34:8088_true,
+
+2020-01-09 00:08:24,646 INFO {POS} {IP-DISABLED} valid: 192.168.3.34:8088@ChongQing@DEFAULT_GROUP@@provider-service, region: unknown, msg: client timeout after 15000, last beat: 1578499684853
+
+2020-01-09 00:08:24,887 INFO service: DEFAULT_GROUP@@provider-service {POS} {IP-ENABLED} valid: 192.168.3.34:8088@ChongQing, region: unknown, msg: client beat ok
+
+2020-01-09 00:10:00,498 INFO DEFAULT_GROUP@@provider-service {SYNC} {IP-NEW} cluster: ChongQing, new ips size: 1, content: [192.168.3.34:8088:unknown:ChongQing_1.0_true_false_ChongQing]
+
+2020-01-09 00:10:00,501 INFO [IP-UPDATED] namespace: 8840cdc5-49dc-4784-9601-199baa1e8704, service: DEFAULT_GROUP@@provider-service, ips: 192.168.3.34:8088_true,
+
+2020-01-09 00:10:15,457 INFO {POS} {IP-DISABLED} valid: 192.168.3.34:8088@ChongQing@DEFAULT_GROUP@@provider-service, region: unknown, msg: client timeout after 15000, last beat: 1578499800437
+
+2020-01-09 00:10:15,634 INFO service: DEFAULT_GROUP@@provider-service {POS} {IP-ENABLED} valid: 192.168.3.34:8088@ChongQing, region: unknown, msg: client beat ok
+
+2020-01-09 00:14:35,646 INFO {POS} {IP-DISABLED} valid: 192.168.3.34:8088@ChongQing@DEFAULT_GROUP@@provider-service, region: unknown, msg: client timeout after 15000, last beat: 1578500056075
+

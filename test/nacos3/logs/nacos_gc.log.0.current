@@ -1,0 +1,18 @@
+Java HotSpot(TM) 64-Bit Server VM (25.221-b11) for bsd-amd64 JRE (1.8.0_221-b11), built on Jul  4 2019 04:36:22 by "java_re" with gcc 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.11.00)
+Memory: 4k page, physical 16777216k(3107872k free)
+
+/proc/meminfo:
+
+CommandLine flags: -XX:CompressedClassSpaceSize=327155712 -XX:GCLogFileSize=104857600 -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/wangbiao/github/my/SpringCloudAlibabaLearn/alibaba-nacos-provider-server2/target/test/nacos3/logs/java_heapdump.hprof -XX:InitialHeapSize=2147483648 -XX:MaxHeapSize=2147483648 -XX:MaxMetaspaceSize=335544320 -XX:MaxNewSize=1073741824 -XX:MetaspaceSize=134217728 -XX:NewSize=1073741824 -XX:NumberOfGCLogFiles=10 -XX:-OmitStackTraceInFastThrow -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseGCLogFileRotation -XX:-UseLargePages -XX:+UseParallelGC 
+2020-01-10T10:08:47.586-0800: 2.743: [GC (Allocation Failure) [PSYoungGen: 786432K->10256K(917504K)] 786432K->10352K(1966080K), 0.0125848 secs] [Times: user=0.09 sys=0.01, real=0.01 secs] 
+2020-01-10T10:08:50.271-0800: 5.428: [GC (Allocation Failure) [PSYoungGen: 796688K->15328K(917504K)] 796784K->15440K(1966080K), 0.0160185 secs] [Times: user=0.13 sys=0.02, real=0.01 secs] 
+2020-01-10T10:09:03.366-0800: 18.523: [GC (Allocation Failure) [PSYoungGen: 801760K->29974K(917504K)] 801872K->30110K(1966080K), 0.0585031 secs] [Times: user=0.23 sys=0.04, real=0.06 secs] 
+Heap
+ PSYoungGen      total 917504K, used 234175K [0x00000007ac800000, 0x00000007ec800000, 0x00000007ec800000)
+  eden space 786432K, 25% used [0x00000007ac800000,0x00000007b8f6a160,0x00000007dc800000)
+  from space 131072K, 22% used [0x00000007dc800000,0x00000007de545b40,0x00000007e4800000)
+  to   space 131072K, 0% used [0x00000007e4800000,0x00000007e4800000,0x00000007ec800000)
+ ParOldGen       total 1048576K, used 136K [0x000000076c800000, 0x00000007ac800000, 0x00000007ac800000)
+  object space 1048576K, 0% used [0x000000076c800000,0x000000076c822010,0x00000007ac800000)
+ Metaspace       used 48906K, capacity 50808K, committed 50944K, reserved 1093632K
+  class space    used 6036K, capacity 6390K, committed 6400K, reserved 1048576K

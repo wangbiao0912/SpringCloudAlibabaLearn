@@ -1,0 +1,572 @@
+2020-01-10 09:54:32,902 ERROR [master-db] master db not found.
+
+2020-01-10 09:54:36,927 ERROR [db-error] master db  down.
+
+2020-01-10 09:54:37,364 WARN useAddressServer:true
+
+2020-01-10 09:54:37,364 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:54:37,366 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:54:37,438 WARN isQuickStart:false
+
+2020-01-10 09:54:37,468 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 09:54:42,366 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:54:47,371 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:54:52,375 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:54:54,965 ERROR [db-error] master db  down.
+
+2020-01-10 09:54:54,971 ERROR [master-db] master db not found.
+
+2020-01-10 09:54:57,376 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:02,379 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:07,379 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:08,987 ERROR [db-error] master db  down.
+
+2020-01-10 09:55:12,385 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:13,005 ERROR [master-db] master db not found.
+
+2020-01-10 09:55:17,386 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:22,391 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:27,028 ERROR [db-error] master db  down.
+
+2020-01-10 09:55:27,030 ERROR [master-db] master db not found.
+
+2020-01-10 09:55:27,392 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:45,400 ERROR [master-db] master db not found.
+
+2020-01-10 09:55:49,427 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:55:49,741 WARN useAddressServer:true
+
+2020-01-10 09:55:49,742 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:49,761 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:49,902 WARN isQuickStart:false
+
+2020-01-10 09:55:49,936 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 09:55:54,764 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:55:59,769 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:03,450 ERROR [master-db] master db not found.
+
+2020-01-10 09:56:04,774 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:07,467 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:56:09,776 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:14,780 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:17,478 ERROR [master-db] master db not found.
+
+2020-01-10 09:56:40,394 ERROR [master-db] master db not found.
+
+2020-01-10 09:56:44,421 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:56:51,440 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:56:51,880 WARN useAddressServer:true
+
+2020-01-10 09:56:51,881 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:51,882 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:52,320 WARN isQuickStart:false
+
+2020-01-10 09:56:52,380 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 09:56:56,888 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:01,891 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:06,895 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:09,482 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:57:11,899 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:12,494 ERROR [master-db] master db not found.
+
+2020-01-10 09:57:16,905 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:19,516 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:57:21,907 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:26,911 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:31,917 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:33,535 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:57:33,541 ERROR [master-db] master db not found.
+
+2020-01-10 09:57:36,923 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:40,563 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:57:41,928 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:46,932 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:51,937 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:57:54,584 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-10 09:57:54,588 ERROR [master-db] master db not found.
+
+2020-01-10 09:57:56,939 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:01,609 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:58:23,202 ERROR [master-db] master db not found.
+
+2020-01-10 09:58:27,226 ERROR [db-error] master db  down.
+
+2020-01-10 09:58:34,247 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:58:34,833 WARN useAddressServer:true
+
+2020-01-10 09:58:34,835 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:34,837 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:35,063 WARN isQuickStart:false
+
+2020-01-10 09:58:35,134 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 09:58:39,842 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:44,847 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:49,851 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:52,287 ERROR [db-error] master db  down.
+
+2020-01-10 09:58:54,855 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:55,299 ERROR [master-db] master db not found.
+
+2020-01-10 09:58:59,858 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:02,321 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:59:04,859 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:09,870 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:14,872 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:16,355 ERROR [db-error] master db  down.
+
+2020-01-10 09:59:16,374 ERROR [master-db] master db not found.
+
+2020-01-10 09:59:19,882 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:23,417 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:59:24,887 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:29,895 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:34,898 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:37,439 ERROR [master-db] master db not found.
+
+2020-01-10 09:59:37,439 ERROR [db-error] master db  down.
+
+2020-01-10 09:59:39,903 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:44,481 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 09:59:44,910 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:49,915 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:54,921 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:59:58,502 ERROR [db-error] master db  down.
+
+2020-01-10 09:59:58,504 ERROR [master-db] master db not found.
+
+2020-01-10 09:59:59,927 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:04,936 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:05,527 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:00:09,946 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:14,954 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:19,561 ERROR [db-error] master db  down.
+
+2020-01-10 10:00:19,565 ERROR [master-db] master db not found.
+
+2020-01-10 10:00:19,961 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:24,968 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:26,587 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:00:29,977 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:34,987 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:39,990 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:40,618 ERROR [db-error] master db  down.
+
+2020-01-10 10:00:40,621 ERROR [master-db] master db not found.
+
+2020-01-10 10:00:45,001 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:47,658 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:00:50,009 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:00:55,018 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:00,026 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:01,680 ERROR [master-db] master db not found.
+
+2020-01-10 10:01:01,684 ERROR [db-error] master db  down.
+
+2020-01-10 10:01:05,034 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:08,718 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:01:10,044 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:15,051 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:20,058 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:22,744 ERROR [db-error] master db  down.
+
+2020-01-10 10:01:22,751 ERROR [master-db] master db not found.
+
+2020-01-10 10:01:25,065 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:29,764 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:01:30,068 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:35,074 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:40,079 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:43,787 ERROR [db-error] master db  down.
+
+2020-01-10 10:01:43,802 ERROR [master-db] master db not found.
+
+2020-01-10 10:01:45,083 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:50,088 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:01:50,822 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:01:55,094 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:00,098 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:04,844 ERROR [db-error] master db  down.
+
+2020-01-10 10:02:04,851 ERROR [master-db] master db not found.
+
+2020-01-10 10:02:05,102 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:10,105 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:11,866 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:02:15,109 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:20,112 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:25,115 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:25,886 ERROR [db-error] master db  down.
+
+2020-01-10 10:02:25,896 ERROR [master-db] master db not found.
+
+2020-01-10 10:02:30,120 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:32,915 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:02:35,124 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:40,129 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:45,134 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:46,935 ERROR [db-error] master db  down.
+
+2020-01-10 10:02:46,938 ERROR [master-db] master db not found.
+
+2020-01-10 10:02:50,135 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:02:53,960 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:02:55,140 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:00,146 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:05,149 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:07,981 ERROR [db-error] master db  down.
+
+2020-01-10 10:03:07,985 ERROR [master-db] master db not found.
+
+2020-01-10 10:03:10,152 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:15,004 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:03:15,157 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:20,161 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:25,165 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:29,029 ERROR [db-error] master db  down.
+
+2020-01-10 10:03:29,041 ERROR [master-db] master db not found.
+
+2020-01-10 10:03:30,170 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:35,175 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:36,058 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:03:40,175 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:45,178 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:50,078 ERROR [db-error] master db  down.
+
+2020-01-10 10:03:50,089 ERROR [master-db] master db not found.
+
+2020-01-10 10:03:50,183 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:55,189 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:03:57,106 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:04:00,193 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:05,198 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:10,200 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:11,122 ERROR [db-error] master db  down.
+
+2020-01-10 10:04:11,130 ERROR [master-db] master db not found.
+
+2020-01-10 10:04:15,205 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:18,149 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:04:20,206 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:25,210 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:30,214 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:44,420 ERROR [master-db] master db not found.
+
+2020-01-10 10:04:48,438 ERROR [db-error] master db  down.
+
+2020-01-10 10:04:48,932 WARN useAddressServer:true
+
+2020-01-10 10:04:48,933 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:48,935 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:49,102 WARN isQuickStart:false
+
+2020-01-10 10:04:49,171 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 10:04:53,937 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:58,943 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:02,457 ERROR [master-db] master db not found.
+
+2020-01-10 10:05:03,948 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:06,464 ERROR [db-error] master db  down.
+
+2020-01-10 10:05:08,953 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:13,958 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:17,528 ERROR [master-db] master db not found.
+
+2020-01-10 10:05:18,960 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:21,538 ERROR [db-error] master db  down.
+
+2020-01-10 10:05:23,963 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:28,965 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:31,545 ERROR [master-db] master db not found.
+
+2020-01-10 10:05:33,970 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:35,559 ERROR [db-error] master db  down.
+
+2020-01-10 10:05:38,972 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:43,974 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:45,568 ERROR [master-db] master db not found.
+
+2020-01-10 10:05:48,975 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:49,580 ERROR [db-error] master db  down.
+
+2020-01-10 10:05:53,980 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:58,981 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:05:59,583 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:03,597 ERROR [db-error] master db  down.
+
+2020-01-10 10:06:03,986 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:08,986 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:13,604 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:13,989 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:17,618 ERROR [db-error] master db  down.
+
+2020-01-10 10:06:18,992 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:23,996 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:27,625 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:28,998 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:31,639 ERROR [db-error] master db  down.
+
+2020-01-10 10:06:34,002 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:39,004 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:41,643 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:44,008 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:45,662 ERROR [db-error] master db  down.
+
+2020-01-10 10:06:49,011 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:54,012 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:55,665 ERROR [master-db] master db not found.
+
+2020-01-10 10:06:59,014 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:06:59,681 ERROR [db-error] master db  down.
+
+2020-01-10 10:07:04,018 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:09,023 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:09,683 ERROR [master-db] master db not found.
+
+2020-01-10 10:07:13,701 ERROR [db-error] master db  down.
+
+2020-01-10 10:07:14,027 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:19,031 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:48,081 ERROR [master-db] master db not found.
+
+2020-01-10 10:07:52,102 ERROR [db-error] master db  down.
+
+2020-01-10 10:07:59,123 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:07:59,917 WARN useAddressServer:true
+
+2020-01-10 10:07:59,918 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:59,920 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:00,085 WARN isQuickStart:false
+
+2020-01-10 10:08:00,142 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 10:08:04,925 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:26,145 ERROR [master-db] master db not found.
+
+2020-01-10 10:08:30,168 ERROR [db-error] master db  down.
+
+2020-01-10 10:08:37,191 ERROR [db-error] slave db 11.163.152.91 down.
+
+2020-01-10 10:08:37,950 WARN useAddressServer:true
+
+2020-01-10 10:08:37,955 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:37,968 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:38,314 WARN isQuickStart:false
+
+2020-01-10 10:08:38,384 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 10:08:42,972 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:58,491 ERROR [master-db] master db not found.
+
+2020-01-10 10:09:02,515 ERROR [db-error] master db  down.
+
+2020-01-10 10:09:03,363 WARN useAddressServer:true
+
+2020-01-10 10:09:03,364 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:03,366 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:03,605 WARN isQuickStart:false
+
+2020-01-10 10:09:03,653 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-10 10:09:08,369 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:13,374 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:16,541 ERROR [master-db] master db not found.
+
+2020-01-10 10:09:18,379 ERROR ########## [serverlist] self ip 127.0.0.1 not in serverlist [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:20,555 ERROR [db-error] master db  down.
+

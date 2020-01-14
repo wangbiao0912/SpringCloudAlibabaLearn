@@ -1,0 +1,2518 @@
+2020-01-09 00:03:12,889 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 5379 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 00:03:12,897 INFO The following profiles are active: standalone
+
+2020-01-09 00:03:14,438 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$ff9e0476] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:03:14,507 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:03:14,509 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@24569dba' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:03:14,510 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$2472a728] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:03:14,513 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:03:14,921 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 00:03:14,945 INFO Starting service [Tomcat]
+
+2020-01-09 00:03:14,946 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 00:03:14,956 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 00:03:15,031 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 00:03:15,031 INFO Root WebApplicationContext: initialization completed in 2067 ms
+
+2020-01-09 00:03:17,024 INFO Use Mysql as the driver
+
+2020-01-09 00:03:17,468 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 00:03:17,914 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 00:03:18,372 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 00:03:18,372 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 00:03:18,372 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 00:03:18,372 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 00:03:18,372 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 00:03:18,372 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 00:03:18,372 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 00:03:18,373 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 00:03:18,410 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@24b6b8f6, org.springframework.security.web.context.SecurityContextPersistenceFilter@b78a709, org.springframework.security.web.header.HeaderWriterFilter@183e8023, org.springframework.security.web.authentication.logout.LogoutFilter@a776e, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@72cf2de5, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2a3c96e3, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@cb191ca, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2bb7bd00, org.springframework.security.web.session.SessionManagementFilter@3e5499cc, org.springframework.security.web.access.ExceptionTranslationFilter@201b6b6f, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@10993713]
+
+2020-01-09 00:03:18,517 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 00:03:18,560 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 00:03:18,689 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 00:03:18,694 INFO Started Nacos in 6.555 seconds (JVM running for 7.159)
+
+2020-01-09 00:03:18,694 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 00:03:18,695 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 00:03:18,695 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 00:03:18,695 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 00:03:21,909 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 00:03:21,909 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 00:03:21,921 INFO Completed initialization in 12 ms
+
+2020-01-09 00:03:23,300 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:03:25,053 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:03:25,198 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:03:25,946 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:03:26,136 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:03:34,730 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:03:35,219 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:03:36,400 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:05,418 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:05,528 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:05,986 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:06,784 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:06,990 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:07,058 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:07,724 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:07,884 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:07,945 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:08,461 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:08,638 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:08,701 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:09,331 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:09,591 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:10,481 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:11,269 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:11,339 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:11,469 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:12,074 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:12,938 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:13,182 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:13,248 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:13,778 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:14,058 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:14,443 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:14,513 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:14,625 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:04:15,003 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:11,311 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:11,379 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:11,498 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:27,069 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:31,632 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:35,061 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:35,373 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:35,476 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:36,022 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:36,125 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:36,829 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:36,933 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:37,487 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:37,676 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:38,461 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:40,003 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:40,142 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:40,599 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:42,205 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:42,270 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:42,382 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:42,780 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:43,025 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:43,165 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:43,594 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:44,137 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:44,200 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:44,878 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:44,941 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:46,813 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:47,050 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:47,173 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:47,901 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:47,975 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:48,311 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:48,383 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:48,737 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:48,813 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:49,192 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:49,274 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:50,988 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:53,246 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:05:54,096 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:08:06,086 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:08:20,326 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:09:27,206 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-01-09 00:09:27,209 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 00:09:44,656 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 5559 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 00:09:44,661 INFO The following profiles are active: standalone
+
+2020-01-09 00:09:48,506 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$113a6bb2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:09:48,634 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:09:48,637 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@73eb439a' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:09:48,642 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$360f0e64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:09:48,649 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 00:09:49,425 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 00:09:49,461 INFO Starting service [Tomcat]
+
+2020-01-09 00:09:49,461 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 00:09:49,478 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 00:09:49,614 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 00:09:49,614 INFO Root WebApplicationContext: initialization completed in 4855 ms
+
+2020-01-09 00:09:52,752 INFO Use Mysql as the driver
+
+2020-01-09 00:09:53,328 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 00:09:53,870 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 00:09:54,332 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 00:09:54,332 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 00:09:54,332 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 00:09:54,332 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 00:09:54,333 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 00:09:54,333 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 00:09:54,333 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 00:09:54,333 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 00:09:54,333 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 00:09:54,333 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 00:09:54,333 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 00:09:54,333 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 00:09:54,334 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 00:09:54,334 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 00:09:54,334 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 00:09:54,334 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 00:09:54,371 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3b77a04f, org.springframework.security.web.context.SecurityContextPersistenceFilter@41e350f1, org.springframework.security.web.header.HeaderWriterFilter@4ee37ca3, org.springframework.security.web.authentication.logout.LogoutFilter@60d1a32f, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@7b324585, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@18230356, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@75d0911a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2e11485, org.springframework.security.web.session.SessionManagementFilter@53812a9b, org.springframework.security.web.access.ExceptionTranslationFilter@2bb7bd00, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@a8e6492]
+
+2020-01-09 00:09:54,500 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 00:09:54,557 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 00:09:54,739 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 00:09:54,745 INFO Started Nacos in 11.192 seconds (JVM running for 11.97)
+
+2020-01-09 00:09:54,745 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 00:09:54,745 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 00:09:54,745 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 00:09:54,745 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 00:09:57,556 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 00:09:57,556 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 00:09:57,569 INFO Completed initialization in 13 ms
+
+2020-01-09 00:10:15,828 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:16,531 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:16,745 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:17,024 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:17,089 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:17,813 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:18,034 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:18,176 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:18,230 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:19,015 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:19,755 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:19,857 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:20,288 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:20,483 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:20,536 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:20,975 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:21,228 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:21,294 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:22,531 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:10:22,589 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:12:34,890 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:12:36,540 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 00:14:39,502 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-01-09 00:14:39,506 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 09:01:31,790 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 1679 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 09:01:31,794 INFO The following profiles are active: standalone
+
+2020-01-09 09:01:33,767 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$dd2e544d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:01:33,853 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:01:33,855 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6d60fe40' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:01:33,856 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$202f6ff] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:01:33,859 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:01:34,291 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 09:01:34,315 INFO Starting service [Tomcat]
+
+2020-01-09 09:01:34,315 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 09:01:34,329 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 09:01:34,416 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 09:01:34,417 INFO Root WebApplicationContext: initialization completed in 2524 ms
+
+2020-01-09 09:01:36,545 INFO Use Mysql as the driver
+
+2020-01-09 09:01:36,960 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 09:01:37,432 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 09:01:37,976 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 09:01:37,976 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 09:01:37,976 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 09:01:37,976 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 09:01:37,976 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 09:01:37,976 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 09:01:37,976 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 09:01:37,977 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 09:01:38,024 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@27305e6, org.springframework.security.web.context.SecurityContextPersistenceFilter@60d1a32f, org.springframework.security.web.header.HeaderWriterFilter@d8305c2, org.springframework.security.web.authentication.logout.LogoutFilter@ea9b7c6, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@1ef3efa8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@22b53226, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@40c80397, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@502f1f4c, org.springframework.security.web.session.SessionManagementFilter@75d0911a, org.springframework.security.web.access.ExceptionTranslationFilter@422c3c7a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@fd8294b]
+
+2020-01-09 09:01:38,163 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 09:01:38,199 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 09:01:38,341 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 09:01:38,344 INFO Started Nacos in 7.314 seconds (JVM running for 7.952)
+
+2020-01-09 09:01:38,344 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 09:01:38,345 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 09:01:38,345 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 09:01:38,345 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 09:01:41,362 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 09:01:41,362 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 09:01:41,370 INFO Completed initialization in 8 ms
+
+2020-01-09 09:02:01,417 INFO Expired JWT token.
+
+2020-01-09 09:02:01,430 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:02:03,765 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:02:08,821 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:02:11,579 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:02:12,762 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:04:25,136 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:04:28,346 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:04:28,559 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:04:29,516 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:04:29,916 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:04:31,372 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:04:32,079 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:04:34,122 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 09:08:38,733 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-01-09 09:08:38,735 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 09:08:52,046 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 1892 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 09:08:52,049 INFO The following profiles are active: standalone
+
+2020-01-09 09:08:53,519 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$96d0492d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:08:53,586 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:08:53,588 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@61c4eee0' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:08:53,591 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$bba4ebdf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:08:53,595 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 09:08:53,999 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 09:08:54,022 INFO Starting service [Tomcat]
+
+2020-01-09 09:08:54,022 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 09:08:54,032 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 09:08:54,106 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 09:08:54,106 INFO Root WebApplicationContext: initialization completed in 2008 ms
+
+2020-01-09 09:08:54,755 INFO Use Mysql as the driver
+
+2020-01-09 09:09:03,395 WARN Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'opsController' defined in URL [jar:file:/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar!/BOOT-INF/lib/nacos-config-1.1.4.jar!/com/alibaba/nacos/config/server/controller/OpsController.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dumpService': Invocation of init method failed; nested exception is java.lang.RuntimeException: Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-09 09:09:03,400 INFO Stopping service [Tomcat]
+
+2020-01-09 09:09:03,403 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,404 WARN The web application [nacos] appears to have started a thread named [nacos.naming.status.worker] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,404 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.raft.notifier] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ com.alibaba.nacos.naming.consistency.persistent.raft.RaftCore$Notifier.run(RaftCore.java:940)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,405 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,405 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,406 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,406 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,407 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.server.list.notifier] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,407 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,408 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.data.syncer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,408 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,408 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,409 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,409 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,410 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,410 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,410 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,411 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,411 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,411 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,412 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,412 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,413 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,413 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,413 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,414 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,414 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,414 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.notifier] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.DistroConsistencyServiceImpl$Notifier.run(DistroConsistencyServiceImpl.java:385)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,415 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,415 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,415 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.push.receiver] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.net.PlainDatagramSocketImpl.receive0(Native Method)
+ java.net.AbstractPlainDatagramSocketImpl.receive(AbstractPlainDatagramSocketImpl.java:143)
+ java.net.DatagramSocket.receive(DatagramSocket.java:812)
+ com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:626)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,416 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.push.retransmitter] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,416 WARN The web application [nacos] appears to have started a thread named [nacos.naming.service.worker] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,416 WARN The web application [nacos] appears to have started a thread named [nacos.naming.service.update.processor] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:492)
+ java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:680)
+ com.alibaba.nacos.naming.core.ServiceManager$UpdatedServiceProcessor.run(ServiceManager.java:199)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,417 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,417 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,418 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,418 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,418 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,419 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,419 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,420 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.data.syncer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 09:09:03,424 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 09:09:03,424 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 09:09:03,424 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 09:09:03,424 ERROR Nacos failed to start, please see /Users/wangbiao/Downloads/Compressed/nacos2/logs/nacos.log for more details.
+
+2020-01-09 09:09:03,433 INFO 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+
+2020-01-09 09:09:03,435 ERROR Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'opsController' defined in URL [jar:file:/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar!/BOOT-INF/lib/nacos-config-1.1.4.jar!/com/alibaba/nacos/config/server/controller/OpsController.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dumpService': Invocation of init method failed; nested exception is java.lang.RuntimeException: Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:769)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:218)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.alibaba.nacos.Nacos.main(Nacos.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50)
+	at org.springframework.boot.loader.PropertiesLauncher.main(PropertiesLauncher.java:593)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dumpService': Invocation of init method failed; nested exception is java.lang.RuntimeException: Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:139)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1737)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1237)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760)
+	... 27 common frames omitted
+Caused by: java.lang.RuntimeException: Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+	at com.alibaba.nacos.config.server.service.dump.DumpService.init(DumpService.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:363)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:307)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:136)
+	... 40 common frames omitted
+2020-01-09 13:54:02,341 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 3278 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 13:54:02,343 INFO The following profiles are active: standalone
+
+2020-01-09 13:54:03,918 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$de520896] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:54:04,004 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:54:04,006 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@72bc6553' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:54:04,007 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$326ab48] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:54:04,011 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:54:04,442 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 13:54:04,467 INFO Starting service [Tomcat]
+
+2020-01-09 13:54:04,467 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 13:54:04,480 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 13:54:04,562 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 13:54:04,562 INFO Root WebApplicationContext: initialization completed in 2173 ms
+
+2020-01-09 13:54:05,222 INFO Use Mysql as the driver
+
+2020-01-09 13:54:13,926 WARN Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'opsController' defined in URL [jar:file:/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar!/BOOT-INF/lib/nacos-config-1.1.4.jar!/com/alibaba/nacos/config/server/controller/OpsController.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dumpService': Invocation of init method failed; nested exception is java.lang.RuntimeException: Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-09 13:54:13,932 INFO Stopping service [Tomcat]
+
+2020-01-09 13:54:13,936 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,937 WARN The web application [nacos] appears to have started a thread named [nacos.naming.status.worker] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,937 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.raft.notifier] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ com.alibaba.nacos.naming.consistency.persistent.raft.RaftCore$Notifier.run(RaftCore.java:940)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,938 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,938 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,939 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,940 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,940 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.server.list.notifier] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,941 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,942 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.data.syncer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,942 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,943 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,943 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,943 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,944 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,944 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,945 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,945 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,946 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,946 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,946 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,947 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,947 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,948 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,948 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,948 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.task.dispatcher] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.TaskDispatcher$TaskScheduler.run(TaskDispatcher.java:94)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,949 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,949 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.notifier] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ com.alibaba.nacos.naming.consistency.ephemeral.distro.DistroConsistencyServiceImpl$Notifier.run(DistroConsistencyServiceImpl.java:385)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,949 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,950 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,950 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.push.receiver] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.net.PlainDatagramSocketImpl.receive0(Native Method)
+ java.net.AbstractPlainDatagramSocketImpl.receive(AbstractPlainDatagramSocketImpl.java:143)
+ java.net.DatagramSocket.receive(DatagramSocket.java:812)
+ com.alibaba.nacos.naming.push.PushService$Receiver.run(PushService.java:626)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,950 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.push.retransmitter] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,951 WARN The web application [nacos] appears to have started a thread named [nacos.naming.service.worker] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,951 WARN The web application [nacos] appears to have started a thread named [nacos.naming.service.update.processor] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:492)
+ java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:680)
+ com.alibaba.nacos.naming.core.ServiceManager$UpdatedServiceProcessor.run(ServiceManager.java:199)
+ java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+ java.util.concurrent.FutureTask.run(FutureTask.java:266)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+ java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,951 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,952 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,952 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,953 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,953 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,953 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,954 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,954 WARN The web application [nacos] appears to have started a thread named [com.alibaba.nacos.naming.distro.data.syncer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+
+2020-01-09 13:54:13,958 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 13:54:13,959 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 13:54:13,959 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 13:54:13,959 ERROR Nacos failed to start, please see /Users/wangbiao/Downloads/Compressed/nacos2/logs/nacos.log for more details.
+
+2020-01-09 13:54:13,967 INFO 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+
+2020-01-09 13:54:13,971 ERROR Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'opsController' defined in URL [jar:file:/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar!/BOOT-INF/lib/nacos-config-1.1.4.jar!/com/alibaba/nacos/config/server/controller/OpsController.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dumpService': Invocation of init method failed; nested exception is java.lang.RuntimeException: Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:769)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:218)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.alibaba.nacos.Nacos.main(Nacos.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50)
+	at org.springframework.boot.loader.PropertiesLauncher.main(PropertiesLauncher.java:593)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dumpService': Invocation of init method failed; nested exception is java.lang.RuntimeException: Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:139)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1737)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1237)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760)
+	... 27 common frames omitted
+Caused by: java.lang.RuntimeException: Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+	at com.alibaba.nacos.config.server.service.dump.DumpService.init(DumpService.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:363)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:307)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:136)
+	... 40 common frames omitted
+2020-01-09 13:55:26,081 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 3329 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 13:55:26,083 INFO The following profiles are active: standalone
+
+2020-01-09 13:55:27,581 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$7ec0adab] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:55:27,647 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:55:27,648 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@3e08ff24' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:55:27,649 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$a395505d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:55:27,652 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 13:55:28,051 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 13:55:28,074 INFO Starting service [Tomcat]
+
+2020-01-09 13:55:28,074 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 13:55:28,084 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 13:55:28,153 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 13:55:28,153 INFO Root WebApplicationContext: initialization completed in 2018 ms
+
+2020-01-09 13:55:30,081 INFO Use Mysql as the driver
+
+2020-01-09 13:55:30,471 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 13:55:31,005 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 13:55:31,531 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 13:55:31,531 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 13:55:31,531 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 13:55:31,531 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 13:55:31,532 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 13:55:31,570 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4ee37ca3, org.springframework.security.web.context.SecurityContextPersistenceFilter@5b444398, org.springframework.security.web.header.HeaderWriterFilter@b78a709, org.springframework.security.web.authentication.logout.LogoutFilter@4c4d27c8, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@45c8d09f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@42f48531, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@79145d5a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@53812a9b, org.springframework.security.web.session.SessionManagementFilter@2a3c96e3, org.springframework.security.web.access.ExceptionTranslationFilter@3e5499cc, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2bb7bd00]
+
+2020-01-09 13:55:31,699 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 13:55:31,747 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 13:55:31,885 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 13:55:31,890 INFO Started Nacos in 6.528 seconds (JVM running for 7.213)
+
+2020-01-09 13:55:31,890 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 13:55:31,890 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 13:55:31,890 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 13:55:31,890 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 13:55:34,952 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 13:55:34,953 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 13:55:34,960 INFO Completed initialization in 7 ms
+
+2020-01-09 13:57:06,852 INFO Expired JWT token.
+
+2020-01-09 13:57:06,866 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 13:57:09,247 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 13:57:12,198 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 13:57:13,691 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 13:57:14,462 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 13:57:15,151 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 13:57:16,169 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 13:57:16,500 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:01:54,370 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 3401 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 14:01:54,373 INFO The following profiles are active: standalone
+
+2020-01-09 14:01:55,883 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$e552409d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:01:55,947 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:01:55,949 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@302c971f' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:01:55,952 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$a26e34f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:01:55,955 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:01:56,361 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 14:01:56,384 INFO Starting service [Tomcat]
+
+2020-01-09 14:01:56,384 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 14:01:56,394 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 14:01:56,470 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 14:01:56,470 INFO Root WebApplicationContext: initialization completed in 2051 ms
+
+2020-01-09 14:01:58,231 INFO Use Mysql as the driver
+
+2020-01-09 14:01:58,504 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:01:58,840 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 14:01:59,141 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 14:01:59,142 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 14:01:59,142 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 14:01:59,142 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 14:01:59,142 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 14:01:59,142 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 14:01:59,142 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 14:01:59,142 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 14:01:59,164 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7446d8d5, org.springframework.security.web.context.SecurityContextPersistenceFilter@40c80397, org.springframework.security.web.header.HeaderWriterFilter@18230356, org.springframework.security.web.authentication.logout.LogoutFilter@a8e6492, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@5c3b6c6e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@ea9b7c6, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7c2b6087, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4fbda97b, org.springframework.security.web.session.SessionManagementFilter@56bca85b, org.springframework.security.web.access.ExceptionTranslationFilter@41e350f1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6f8f9349]
+
+2020-01-09 14:01:59,229 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 14:01:59,251 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 14:01:59,339 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 14:01:59,343 INFO Started Nacos in 5.511 seconds (JVM running for 5.98)
+
+2020-01-09 14:01:59,343 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 14:01:59,343 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 14:01:59,343 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 14:01:59,343 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 14:02:03,140 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 14:02:03,140 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 14:02:03,147 INFO Completed initialization in 7 ms
+
+2020-01-09 14:02:06,491 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:07,268 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:07,730 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:08,019 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:08,991 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:09,511 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:10,449 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:24,724 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:24,954 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:02:34,612 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:11:58,075 INFO [capacityManagement] start correct usage
+
+2020-01-09 14:11:58,126 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-01-09 14:11:58,233 WARN clearConfigHistory start
+
+2020-01-09 14:21:58,142 INFO [capacityManagement] start correct usage
+
+2020-01-09 14:21:58,152 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-01-09 14:21:58,275 WARN clearConfigHistory start
+
+2020-01-09 14:22:04,563 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-01-09 14:22:04,573 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:22:10,668 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 3567 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 14:22:10,671 INFO The following profiles are active: standalone
+
+2020-01-09 14:22:12,153 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$2340288a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:22:12,250 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:22:12,253 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@4a8355dd' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:22:12,254 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$4814cb3c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:22:12,258 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:22:12,683 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 14:22:12,707 INFO Starting service [Tomcat]
+
+2020-01-09 14:22:12,708 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 14:22:12,719 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 14:22:12,798 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 14:22:12,798 INFO Root WebApplicationContext: initialization completed in 2079 ms
+
+2020-01-09 14:22:14,581 INFO Use Mysql as the driver
+
+2020-01-09 14:22:14,851 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:22:15,169 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 14:22:15,493 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 14:22:15,494 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 14:22:15,495 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 14:22:15,495 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 14:22:15,520 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4678a2eb, org.springframework.security.web.context.SecurityContextPersistenceFilter@2e11485, org.springframework.security.web.header.HeaderWriterFilter@a8e6492, org.springframework.security.web.authentication.logout.LogoutFilter@502f1f4c, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@5b43fbf6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@662f5666, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@27305e6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1080b026, org.springframework.security.web.session.SessionManagementFilter@3b77a04f, org.springframework.security.web.access.ExceptionTranslationFilter@7c2b6087, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@354fc8f0]
+
+2020-01-09 14:22:15,591 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 14:22:15,620 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 14:22:15,709 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 14:22:15,713 INFO Started Nacos in 5.626 seconds (JVM running for 6.089)
+
+2020-01-09 14:22:15,713 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 14:22:15,713 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 14:22:15,713 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 14:22:15,713 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 14:22:16,942 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 14:22:16,942 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 14:22:16,949 INFO Completed initialization in 7 ms
+
+2020-01-09 14:22:18,814 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:21,935 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:22,402 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:22,693 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:22,955 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:23,205 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:23,459 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:23,705 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:23,965 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:24,240 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:24,521 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:24,816 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:25,350 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:25,657 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:26,231 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:27,808 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:28,335 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:28,787 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:29,110 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:29,424 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:29,730 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:29,995 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:22:30,292 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:23:34,185 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:23:34,503 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-01-09 14:24:13,046 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-01-09 14:24:13,049 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:24:16,578 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 3601 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 14:24:16,579 INFO The following profiles are active: standalone
+
+2020-01-09 14:24:17,999 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$d0833f6f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:24:18,065 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:24:18,067 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@17fc391b' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:24:18,067 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$f557e221] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:24:18,071 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:24:18,475 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 14:24:18,497 INFO Starting service [Tomcat]
+
+2020-01-09 14:24:18,497 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 14:24:18,507 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 14:24:18,582 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 14:24:18,582 INFO Root WebApplicationContext: initialization completed in 1963 ms
+
+2020-01-09 14:24:20,389 INFO Use Mysql as the driver
+
+2020-01-09 14:24:20,669 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:24:21,009 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 14:24:21,309 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 14:24:21,309 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 14:24:21,309 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 14:24:21,309 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 14:24:21,309 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 14:24:21,309 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 14:24:21,309 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 14:24:21,309 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 14:24:21,310 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 14:24:21,310 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 14:24:21,310 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 14:24:21,310 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 14:24:21,310 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 14:24:21,310 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 14:24:21,310 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 14:24:21,310 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 14:24:21,334 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@726e5805, org.springframework.security.web.context.SecurityContextPersistenceFilter@10993713, org.springframework.security.web.header.HeaderWriterFilter@758c83d8, org.springframework.security.web.authentication.logout.LogoutFilter@45c8d09f, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@40c80397, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@24b6b8f6, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5f031ebd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4b672daa, org.springframework.security.web.session.SessionManagementFilter@5af3a0f, org.springframework.security.web.access.ExceptionTranslationFilter@338494fa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@22b53226]
+
+2020-01-09 14:24:21,406 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 14:24:21,432 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 14:24:21,512 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 14:24:21,515 INFO Started Nacos in 5.644 seconds (JVM running for 6.094)
+
+2020-01-09 14:24:21,515 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 14:24:21,515 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 14:24:21,515 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 14:24:21,515 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 14:24:25,304 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 14:24:25,305 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 14:24:25,313 INFO Completed initialization in 8 ms
+
+2020-01-09 14:29:05,443 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-01-09 14:29:05,445 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:29:07,458 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 3719 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 14:29:07,462 INFO The following profiles are active: standalone
+
+2020-01-09 14:29:10,896 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$deaf5813] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:29:11,006 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:29:11,009 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@7c37508a' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:29:11,013 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$383fac5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:29:11,020 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:29:11,740 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 14:29:11,802 INFO Starting service [Tomcat]
+
+2020-01-09 14:29:11,802 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 14:29:11,827 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 14:29:12,026 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 14:29:12,026 INFO Root WebApplicationContext: initialization completed in 4365 ms
+
+2020-01-09 14:29:15,461 INFO Use Mysql as the driver
+
+2020-01-09 14:29:15,893 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:29:16,399 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 14:29:16,895 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 14:29:16,896 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 14:29:16,896 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 14:29:16,896 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 14:29:16,896 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 14:29:16,896 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 14:29:16,896 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 14:29:16,896 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 14:29:16,896 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 14:29:16,897 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 14:29:16,897 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 14:29:16,897 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 14:29:16,897 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 14:29:16,897 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 14:29:16,897 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 14:29:16,897 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 14:29:16,939 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@ed3068a, org.springframework.security.web.context.SecurityContextPersistenceFilter@5f031ebd, org.springframework.security.web.header.HeaderWriterFilter@58359ebd, org.springframework.security.web.authentication.logout.LogoutFilter@18230356, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@7c2b6087, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@45c8d09f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@41e350f1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3fffff43, org.springframework.security.web.session.SessionManagementFilter@72cf2de5, org.springframework.security.web.access.ExceptionTranslationFilter@19ae6bb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@ea9b7c6]
+
+2020-01-09 14:29:17,082 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 14:29:17,147 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 14:29:17,308 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 14:29:17,313 INFO Started Nacos in 10.887 seconds (JVM running for 11.551)
+
+2020-01-09 14:29:17,313 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 14:29:17,313 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 14:29:17,313 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 14:29:17,314 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 14:29:20,288 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 14:29:20,288 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 14:29:20,297 INFO Completed initialization in 8 ms
+
+2020-01-09 14:30:46,602 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-01-09 14:30:46,605 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:30:48,933 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 3812 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 14:30:48,937 INFO The following profiles are active: standalone
+
+2020-01-09 14:30:51,923 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$ef1a9833] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:30:52,028 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:30:52,030 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6be968ce' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:30:52,031 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$13ef3ae5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:30:52,036 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:30:52,762 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 14:30:52,836 INFO Starting service [Tomcat]
+
+2020-01-09 14:30:52,840 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 14:30:52,860 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 14:30:53,012 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 14:30:53,013 INFO Root WebApplicationContext: initialization completed in 3996 ms
+
+2020-01-09 14:30:56,179 INFO Use Mysql as the driver
+
+2020-01-09 14:30:56,635 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:30:57,078 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 14:30:57,538 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 14:30:57,539 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 14:30:57,540 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 14:30:57,540 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 14:30:57,566 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@53812a9b, org.springframework.security.web.context.SecurityContextPersistenceFilter@42f48531, org.springframework.security.web.header.HeaderWriterFilter@2a3c96e3, org.springframework.security.web.authentication.logout.LogoutFilter@338494fa, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@14b030a0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@792bbc74, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4c4d27c8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@41e350f1, org.springframework.security.web.session.SessionManagementFilter@5b444398, org.springframework.security.web.access.ExceptionTranslationFilter@b78a709, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4ee37ca3]
+
+2020-01-09 14:30:57,655 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 14:30:57,693 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 14:30:57,831 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 14:30:57,837 INFO Started Nacos in 10.212 seconds (JVM running for 10.91)
+
+2020-01-09 14:30:57,837 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 14:30:57,837 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 14:30:57,837 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 14:30:57,837 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 14:31:01,034 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 14:31:01,034 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 14:31:01,044 INFO Completed initialization in 10 ms
+
+2020-01-09 14:32:46,331 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-01-09 14:32:46,333 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:32:48,753 INFO Starting Nacos v1.1.4 on wangbiaodeMacBook-Pro.local with PID 3926 (/Users/wangbiao/Downloads/Compressed/nacos2/target/nacos-server.jar started by wangbiao in /Users/wangbiao/Downloads/Compressed)
+
+2020-01-09 14:32:48,756 INFO The following profiles are active: standalone
+
+2020-01-09 14:32:51,834 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$9c5b4113] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:32:51,945 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:32:51,948 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@7188af83' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:32:51,949 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$c12fe3c5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:32:51,954 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-01-09 14:32:52,715 INFO Tomcat initialized with port(s): 8842 (http)
+
+2020-01-09 14:32:52,771 INFO Starting service [Tomcat]
+
+2020-01-09 14:32:52,774 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-01-09 14:32:52,804 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/wangbiao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+
+2020-01-09 14:32:52,982 INFO Initializing Spring embedded WebApplicationContext
+
+2020-01-09 14:32:52,982 INFO Root WebApplicationContext: initialization completed in 4155 ms
+
+2020-01-09 14:32:56,324 INFO Use Mysql as the driver
+
+2020-01-09 14:32:56,782 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-01-09 14:32:57,391 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-01-09 14:32:57,963 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-01-09 14:32:57,963 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-01-09 14:32:57,963 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-01-09 14:32:57,963 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-01-09 14:32:57,963 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-01-09 14:32:57,964 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-01-09 14:32:58,012 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7b324585, org.springframework.security.web.context.SecurityContextPersistenceFilter@422c3c7a, org.springframework.security.web.header.HeaderWriterFilter@45c8d09f, org.springframework.security.web.authentication.logout.LogoutFilter@531c311e, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@2e11485, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@d8305c2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@75e91545, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@60dce7ea, org.springframework.security.web.session.SessionManagementFilter@14b030a0, org.springframework.security.web.access.ExceptionTranslationFilter@5f031ebd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1c7fd41f]
+
+2020-01-09 14:32:58,196 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-01-09 14:32:58,263 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-01-09 14:32:58,450 INFO Tomcat started on port(s): 8842 (http) with context path '/nacos'
+
+2020-01-09 14:32:58,457 INFO Started Nacos in 11.108 seconds (JVM running for 11.781)
+
+2020-01-09 14:32:58,457 INFO Nacos Log files: /Users/wangbiao/Downloads/Compressed/nacos2/logs/
+
+2020-01-09 14:32:58,457 INFO Nacos Conf files: /Users/wangbiao/Downloads/Compressed/nacos2/conf/
+
+2020-01-09 14:32:58,457 INFO Nacos Data files: /Users/wangbiao/Downloads/Compressed/nacos2/data/
+
+2020-01-09 14:32:58,457 INFO Nacos started successfully in stand alone mode.
+
+2020-01-09 14:33:01,189 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-01-09 14:33:01,190 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-01-09 14:33:01,198 INFO Completed initialization in 8 ms
+
+2020-01-09 14:42:56,132 INFO [capacityManagement] start correct usage
+
+2020-01-09 14:42:56,328 WARN clearConfigHistory start
+
+2020-01-09 14:42:56,771 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-01-09 15:07:19,855 WARN clearConfigHistory start
+
+2020-01-09 15:07:19,870 INFO [capacityManagement] start correct usage
+
+2020-01-09 15:07:19,880 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-01-09 15:17:19,888 INFO [capacityManagement] start correct usage
+
+2020-01-09 15:17:19,888 WARN clearConfigHistory start
+
+2020-01-09 15:17:19,891 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-01-09 15:27:19,900 INFO [capacityManagement] start correct usage
+
+2020-01-09 15:27:19,900 WARN clearConfigHistory start
+
+2020-01-09 15:27:19,903 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-01-09 15:37:19,920 WARN clearConfigHistory start
+
+2020-01-09 15:37:19,921 INFO [capacityManagement] start correct usage
+
+2020-01-09 15:37:19,940 INFO [capacityManagement] end correct usage, cost: 0s
+

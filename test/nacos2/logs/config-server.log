@@ -1,0 +1,816 @@
+2020-01-10 09:54:28,409 INFO notifyConnectTimeout:200
+
+2020-01-10 09:54:28,410 INFO notifySocketTimeout:8000
+
+2020-01-10 09:54:28,410 INFO isHealthCheck:true
+
+2020-01-10 09:54:28,410 INFO maxHealthCheckFailCount:12
+
+2020-01-10 09:54:28,410 INFO maxContent:10485760
+
+2020-01-10 09:55:40,878 INFO notifyConnectTimeout:200
+
+2020-01-10 09:55:40,878 INFO notifySocketTimeout:8000
+
+2020-01-10 09:55:40,878 INFO isHealthCheck:true
+
+2020-01-10 09:55:40,878 INFO maxHealthCheckFailCount:12
+
+2020-01-10 09:55:40,879 INFO maxContent:10485760
+
+2020-01-10 09:56:28,991 INFO notifyConnectTimeout:200
+
+2020-01-10 09:56:28,992 INFO notifySocketTimeout:8000
+
+2020-01-10 09:56:28,992 INFO isHealthCheck:true
+
+2020-01-10 09:56:28,992 INFO maxHealthCheckFailCount:12
+
+2020-01-10 09:56:28,992 INFO maxContent:10485760
+
+2020-01-10 09:56:52,336 INFO ServerListService address-server port:8848
+
+2020-01-10 09:56:52,337 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2020-01-10 09:56:52,338 WARN [serverlist] updated to [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:56:52,464 WARN DumpService start
+
+2020-01-10 09:56:52,467 INFO start clear all config-info.
+
+2020-01-10 09:56:52,479 WARN clear all config-info failed.
+
+2020-01-10 09:56:52,479 WARN clear all config-info-tenant failed.
+
+2020-01-10 09:57:52,466 ERROR unhealthIp:127.0.0.1, unhealthCount:13
+
+2020-01-10 09:57:52,467 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:13
+
+2020-01-10 09:57:52,468 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:13
+
+2020-01-10 09:57:52,468 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:13
+
+2020-01-10 09:57:57,474 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:14
+
+2020-01-10 09:57:57,474 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:14
+
+2020-01-10 09:57:57,474 ERROR unhealthIp:127.0.0.1, unhealthCount:14
+
+2020-01-10 09:57:57,474 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:14
+
+2020-01-10 09:58:11,682 INFO notifyConnectTimeout:200
+
+2020-01-10 09:58:11,683 INFO notifySocketTimeout:8000
+
+2020-01-10 09:58:11,683 INFO isHealthCheck:true
+
+2020-01-10 09:58:11,683 INFO maxHealthCheckFailCount:12
+
+2020-01-10 09:58:11,683 INFO maxContent:10485760
+
+2020-01-10 09:58:34,710 INFO ServerListService address-server port:8848
+
+2020-01-10 09:58:34,711 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2020-01-10 09:58:34,722 WARN [serverlist] updated to [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 09:58:34,849 WARN DumpService start
+
+2020-01-10 09:58:34,854 INFO start clear all config-info.
+
+2020-01-10 09:58:34,863 WARN clear all config-info failed.
+
+2020-01-10 09:58:34,863 WARN clear all config-info-tenant failed.
+
+2020-01-10 09:59:34,861 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:13
+
+2020-01-10 09:59:34,862 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:13
+
+2020-01-10 09:59:34,862 ERROR unhealthIp:127.0.0.1, unhealthCount:13
+
+2020-01-10 09:59:34,863 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:13
+
+2020-01-10 09:59:39,871 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:14
+
+2020-01-10 09:59:39,871 ERROR unhealthIp:127.0.0.1, unhealthCount:14
+
+2020-01-10 09:59:39,871 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:14
+
+2020-01-10 09:59:39,871 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:14
+
+2020-01-10 09:59:44,878 ERROR unhealthIp:127.0.0.1, unhealthCount:15
+
+2020-01-10 09:59:44,878 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:15
+
+2020-01-10 09:59:44,878 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:15
+
+2020-01-10 09:59:44,878 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:15
+
+2020-01-10 09:59:49,887 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:16
+
+2020-01-10 09:59:49,888 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:16
+
+2020-01-10 09:59:49,888 ERROR unhealthIp:127.0.0.1, unhealthCount:16
+
+2020-01-10 09:59:49,888 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:16
+
+2020-01-10 09:59:54,896 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:17
+
+2020-01-10 09:59:54,897 ERROR unhealthIp:127.0.0.1, unhealthCount:17
+
+2020-01-10 09:59:54,897 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:17
+
+2020-01-10 09:59:54,898 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:17
+
+2020-01-10 09:59:59,904 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:18
+
+2020-01-10 09:59:59,904 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:18
+
+2020-01-10 09:59:59,904 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:18
+
+2020-01-10 09:59:59,904 ERROR unhealthIp:127.0.0.1, unhealthCount:18
+
+2020-01-10 10:00:04,912 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:19
+
+2020-01-10 10:00:04,912 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:19
+
+2020-01-10 10:00:04,913 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:19
+
+2020-01-10 10:00:04,913 ERROR unhealthIp:127.0.0.1, unhealthCount:19
+
+2020-01-10 10:00:09,920 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:20
+
+2020-01-10 10:00:09,920 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:20
+
+2020-01-10 10:00:09,920 ERROR unhealthIp:127.0.0.1, unhealthCount:20
+
+2020-01-10 10:00:09,921 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:20
+
+2020-01-10 10:00:14,929 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:21
+
+2020-01-10 10:00:14,930 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:21
+
+2020-01-10 10:00:14,930 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:21
+
+2020-01-10 10:00:14,930 ERROR unhealthIp:127.0.0.1, unhealthCount:21
+
+2020-01-10 10:00:19,936 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:22
+
+2020-01-10 10:00:19,937 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:22
+
+2020-01-10 10:00:19,937 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:22
+
+2020-01-10 10:00:19,937 ERROR unhealthIp:127.0.0.1, unhealthCount:22
+
+2020-01-10 10:00:24,946 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:23
+
+2020-01-10 10:00:24,946 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:23
+
+2020-01-10 10:00:24,946 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:23
+
+2020-01-10 10:00:24,947 ERROR unhealthIp:127.0.0.1, unhealthCount:23
+
+2020-01-10 10:00:29,955 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:24
+
+2020-01-10 10:00:29,956 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:24
+
+2020-01-10 10:00:29,956 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:24
+
+2020-01-10 10:00:29,957 ERROR unhealthIp:127.0.0.1, unhealthCount:24
+
+2020-01-10 10:00:34,962 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:25
+
+2020-01-10 10:00:34,962 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:25
+
+2020-01-10 10:00:34,962 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:25
+
+2020-01-10 10:00:34,962 ERROR unhealthIp:127.0.0.1, unhealthCount:25
+
+2020-01-10 10:00:39,972 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:26
+
+2020-01-10 10:00:39,973 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:26
+
+2020-01-10 10:00:39,974 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:26
+
+2020-01-10 10:00:39,974 ERROR unhealthIp:127.0.0.1, unhealthCount:26
+
+2020-01-10 10:00:44,978 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:27
+
+2020-01-10 10:00:44,978 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:27
+
+2020-01-10 10:00:44,978 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:27
+
+2020-01-10 10:00:44,979 ERROR unhealthIp:127.0.0.1, unhealthCount:27
+
+2020-01-10 10:00:49,989 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:28
+
+2020-01-10 10:00:49,990 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:28
+
+2020-01-10 10:00:49,991 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:28
+
+2020-01-10 10:00:49,991 ERROR unhealthIp:127.0.0.1, unhealthCount:28
+
+2020-01-10 10:00:54,994 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:29
+
+2020-01-10 10:00:54,994 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:29
+
+2020-01-10 10:00:54,995 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:29
+
+2020-01-10 10:00:54,995 ERROR unhealthIp:127.0.0.1, unhealthCount:29
+
+2020-01-10 10:00:59,996 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:30
+
+2020-01-10 10:00:59,997 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:30
+
+2020-01-10 10:00:59,997 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:30
+
+2020-01-10 10:00:59,997 ERROR unhealthIp:127.0.0.1, unhealthCount:30
+
+2020-01-10 10:01:05,005 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:31
+
+2020-01-10 10:01:05,005 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:31
+
+2020-01-10 10:01:05,005 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:31
+
+2020-01-10 10:01:05,005 ERROR unhealthIp:127.0.0.1, unhealthCount:31
+
+2020-01-10 10:01:10,011 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:32
+
+2020-01-10 10:01:10,012 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:32
+
+2020-01-10 10:01:10,012 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:32
+
+2020-01-10 10:01:10,014 ERROR unhealthIp:127.0.0.1, unhealthCount:32
+
+2020-01-10 10:01:15,018 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:33
+
+2020-01-10 10:01:15,018 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:33
+
+2020-01-10 10:01:15,018 ERROR unhealthIp:127.0.0.1, unhealthCount:33
+
+2020-01-10 10:01:15,018 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:33
+
+2020-01-10 10:01:20,022 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:34
+
+2020-01-10 10:01:20,022 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:34
+
+2020-01-10 10:01:20,022 ERROR unhealthIp:127.0.0.1, unhealthCount:34
+
+2020-01-10 10:01:20,023 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:34
+
+2020-01-10 10:01:25,029 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:35
+
+2020-01-10 10:01:25,029 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:35
+
+2020-01-10 10:01:25,029 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:35
+
+2020-01-10 10:01:25,029 ERROR unhealthIp:127.0.0.1, unhealthCount:35
+
+2020-01-10 10:01:30,035 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:36
+
+2020-01-10 10:01:30,035 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:36
+
+2020-01-10 10:01:30,036 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:36
+
+2020-01-10 10:01:30,036 ERROR unhealthIp:127.0.0.1, unhealthCount:36
+
+2020-01-10 10:01:35,038 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:37
+
+2020-01-10 10:01:35,039 ERROR unhealthIp:127.0.0.1, unhealthCount:37
+
+2020-01-10 10:01:35,039 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:37
+
+2020-01-10 10:01:35,039 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:37
+
+2020-01-10 10:01:40,044 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:38
+
+2020-01-10 10:01:40,044 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:38
+
+2020-01-10 10:01:40,045 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:38
+
+2020-01-10 10:01:40,045 ERROR unhealthIp:127.0.0.1, unhealthCount:38
+
+2020-01-10 10:01:45,047 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:39
+
+2020-01-10 10:01:45,047 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:39
+
+2020-01-10 10:01:45,047 ERROR unhealthIp:127.0.0.1, unhealthCount:39
+
+2020-01-10 10:01:45,047 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:39
+
+2020-01-10 10:01:50,051 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:40
+
+2020-01-10 10:01:50,051 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:40
+
+2020-01-10 10:01:50,051 ERROR unhealthIp:127.0.0.1, unhealthCount:40
+
+2020-01-10 10:01:50,051 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:40
+
+2020-01-10 10:01:55,056 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:41
+
+2020-01-10 10:01:55,057 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:41
+
+2020-01-10 10:01:55,057 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:41
+
+2020-01-10 10:01:55,057 ERROR unhealthIp:127.0.0.1, unhealthCount:41
+
+2020-01-10 10:02:00,060 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:42
+
+2020-01-10 10:02:00,061 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:42
+
+2020-01-10 10:02:00,062 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:42
+
+2020-01-10 10:02:00,062 ERROR unhealthIp:127.0.0.1, unhealthCount:42
+
+2020-01-10 10:02:05,065 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:43
+
+2020-01-10 10:02:05,065 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:43
+
+2020-01-10 10:02:05,065 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:43
+
+2020-01-10 10:02:05,065 ERROR unhealthIp:127.0.0.1, unhealthCount:43
+
+2020-01-10 10:02:10,069 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:44
+
+2020-01-10 10:02:10,069 ERROR unhealthIp:127.0.0.1, unhealthCount:44
+
+2020-01-10 10:02:10,070 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:44
+
+2020-01-10 10:02:10,070 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:44
+
+2020-01-10 10:02:15,073 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:45
+
+2020-01-10 10:02:15,073 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:45
+
+2020-01-10 10:02:15,074 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:45
+
+2020-01-10 10:02:15,074 ERROR unhealthIp:127.0.0.1, unhealthCount:45
+
+2020-01-10 10:02:20,076 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:46
+
+2020-01-10 10:02:20,076 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:46
+
+2020-01-10 10:02:20,076 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:46
+
+2020-01-10 10:02:20,077 ERROR unhealthIp:127.0.0.1, unhealthCount:46
+
+2020-01-10 10:02:25,079 ERROR unhealthIp:127.0.0.1, unhealthCount:47
+
+2020-01-10 10:02:25,080 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:47
+
+2020-01-10 10:02:25,080 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:47
+
+2020-01-10 10:02:25,080 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:47
+
+2020-01-10 10:02:30,084 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:48
+
+2020-01-10 10:02:30,085 ERROR unhealthIp:127.0.0.1, unhealthCount:48
+
+2020-01-10 10:02:30,085 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:48
+
+2020-01-10 10:02:30,087 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:48
+
+2020-01-10 10:02:35,089 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:49
+
+2020-01-10 10:02:35,089 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:49
+
+2020-01-10 10:02:35,089 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:49
+
+2020-01-10 10:02:35,089 ERROR unhealthIp:127.0.0.1, unhealthCount:49
+
+2020-01-10 10:02:40,092 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:50
+
+2020-01-10 10:02:40,092 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:50
+
+2020-01-10 10:02:40,092 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:50
+
+2020-01-10 10:02:40,092 ERROR unhealthIp:127.0.0.1, unhealthCount:50
+
+2020-01-10 10:02:45,095 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:51
+
+2020-01-10 10:02:45,095 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:51
+
+2020-01-10 10:02:45,095 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:51
+
+2020-01-10 10:02:45,095 ERROR unhealthIp:127.0.0.1, unhealthCount:51
+
+2020-01-10 10:02:50,101 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:52
+
+2020-01-10 10:02:50,101 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:52
+
+2020-01-10 10:02:50,101 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:52
+
+2020-01-10 10:02:50,101 ERROR unhealthIp:127.0.0.1, unhealthCount:52
+
+2020-01-10 10:02:55,102 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:53
+
+2020-01-10 10:02:55,102 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:53
+
+2020-01-10 10:02:55,102 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:53
+
+2020-01-10 10:02:55,102 ERROR unhealthIp:127.0.0.1, unhealthCount:53
+
+2020-01-10 10:03:00,108 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:54
+
+2020-01-10 10:03:00,108 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:54
+
+2020-01-10 10:03:00,108 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:54
+
+2020-01-10 10:03:00,109 ERROR unhealthIp:127.0.0.1, unhealthCount:54
+
+2020-01-10 10:03:05,111 ERROR unhealthIp:127.0.0.1, unhealthCount:55
+
+2020-01-10 10:03:05,111 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:55
+
+2020-01-10 10:03:05,111 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:55
+
+2020-01-10 10:03:05,111 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:55
+
+2020-01-10 10:03:10,117 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:56
+
+2020-01-10 10:03:10,117 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:56
+
+2020-01-10 10:03:10,118 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:56
+
+2020-01-10 10:03:10,118 ERROR unhealthIp:127.0.0.1, unhealthCount:56
+
+2020-01-10 10:03:15,117 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:57
+
+2020-01-10 10:03:15,118 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:57
+
+2020-01-10 10:03:15,118 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:57
+
+2020-01-10 10:03:15,118 ERROR unhealthIp:127.0.0.1, unhealthCount:57
+
+2020-01-10 10:03:20,122 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:58
+
+2020-01-10 10:03:20,122 ERROR unhealthIp:127.0.0.1, unhealthCount:58
+
+2020-01-10 10:03:20,122 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:58
+
+2020-01-10 10:03:20,122 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:58
+
+2020-01-10 10:03:25,126 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:59
+
+2020-01-10 10:03:25,126 ERROR unhealthIp:127.0.0.1, unhealthCount:59
+
+2020-01-10 10:03:25,126 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:59
+
+2020-01-10 10:03:25,127 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:59
+
+2020-01-10 10:03:30,129 ERROR unhealthIp:127.0.0.1, unhealthCount:60
+
+2020-01-10 10:03:30,129 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:60
+
+2020-01-10 10:03:30,129 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:60
+
+2020-01-10 10:03:30,130 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:60
+
+2020-01-10 10:03:35,135 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:61
+
+2020-01-10 10:03:35,136 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:61
+
+2020-01-10 10:03:35,136 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:61
+
+2020-01-10 10:03:35,136 ERROR unhealthIp:127.0.0.1, unhealthCount:61
+
+2020-01-10 10:03:40,140 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:62
+
+2020-01-10 10:03:40,140 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:62
+
+2020-01-10 10:03:40,140 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:62
+
+2020-01-10 10:03:40,141 ERROR unhealthIp:127.0.0.1, unhealthCount:62
+
+2020-01-10 10:03:45,147 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:63
+
+2020-01-10 10:03:45,149 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:63
+
+2020-01-10 10:03:45,150 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:63
+
+2020-01-10 10:03:45,150 ERROR unhealthIp:127.0.0.1, unhealthCount:63
+
+2020-01-10 10:03:50,152 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:64
+
+2020-01-10 10:03:50,153 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:64
+
+2020-01-10 10:03:50,153 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:64
+
+2020-01-10 10:03:50,153 ERROR unhealthIp:127.0.0.1, unhealthCount:64
+
+2020-01-10 10:03:55,156 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:65
+
+2020-01-10 10:03:55,156 ERROR unhealthIp:127.0.0.1, unhealthCount:65
+
+2020-01-10 10:03:55,157 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:65
+
+2020-01-10 10:03:55,157 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:65
+
+2020-01-10 10:04:00,157 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:66
+
+2020-01-10 10:04:00,158 ERROR unhealthIp:127.0.0.1, unhealthCount:66
+
+2020-01-10 10:04:00,158 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:66
+
+2020-01-10 10:04:00,158 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:66
+
+2020-01-10 10:04:05,162 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:67
+
+2020-01-10 10:04:05,162 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:67
+
+2020-01-10 10:04:05,162 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:67
+
+2020-01-10 10:04:05,162 ERROR unhealthIp:127.0.0.1, unhealthCount:67
+
+2020-01-10 10:04:10,162 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:68
+
+2020-01-10 10:04:10,162 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:68
+
+2020-01-10 10:04:10,162 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:68
+
+2020-01-10 10:04:10,162 ERROR unhealthIp:127.0.0.1, unhealthCount:68
+
+2020-01-10 10:04:15,164 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:69
+
+2020-01-10 10:04:15,164 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:69
+
+2020-01-10 10:04:15,164 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:69
+
+2020-01-10 10:04:15,165 ERROR unhealthIp:127.0.0.1, unhealthCount:69
+
+2020-01-10 10:04:20,169 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:70
+
+2020-01-10 10:04:20,170 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:70
+
+2020-01-10 10:04:20,170 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:70
+
+2020-01-10 10:04:20,170 ERROR unhealthIp:127.0.0.1, unhealthCount:70
+
+2020-01-10 10:04:25,172 ERROR unhealthIp:127.0.0.1, unhealthCount:71
+
+2020-01-10 10:04:25,173 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:71
+
+2020-01-10 10:04:25,173 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:71
+
+2020-01-10 10:04:25,173 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:71
+
+2020-01-10 10:04:30,176 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:72
+
+2020-01-10 10:04:30,176 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:72
+
+2020-01-10 10:04:30,176 ERROR unhealthIp:127.0.0.1, unhealthCount:72
+
+2020-01-10 10:04:30,176 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:72
+
+2020-01-10 10:04:39,957 INFO notifyConnectTimeout:200
+
+2020-01-10 10:04:39,962 INFO notifySocketTimeout:8000
+
+2020-01-10 10:04:39,962 INFO isHealthCheck:true
+
+2020-01-10 10:04:39,965 INFO maxHealthCheckFailCount:12
+
+2020-01-10 10:04:39,965 INFO maxContent:10485760
+
+2020-01-10 10:04:39,966 INFO spring.datasource.platform:mysql
+
+2020-01-10 10:04:48,844 INFO ServerListService address-server port:8848
+
+2020-01-10 10:04:48,844 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2020-01-10 10:04:48,845 WARN [serverlist] updated to [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:04:49,035 WARN DumpService start
+
+2020-01-10 10:04:49,039 INFO start clear all config-info.
+
+2020-01-10 10:04:49,047 WARN clear all config-info failed.
+
+2020-01-10 10:04:49,047 WARN clear all config-info-tenant failed.
+
+2020-01-10 10:05:49,013 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:13
+
+2020-01-10 10:05:49,014 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:13
+
+2020-01-10 10:05:49,014 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:13
+
+2020-01-10 10:05:49,014 ERROR unhealthIp:127.0.0.1, unhealthCount:13
+
+2020-01-10 10:05:54,014 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:14
+
+2020-01-10 10:05:54,015 ERROR unhealthIp:127.0.0.1, unhealthCount:14
+
+2020-01-10 10:05:54,015 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:14
+
+2020-01-10 10:05:54,015 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:14
+
+2020-01-10 10:05:59,020 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:15
+
+2020-01-10 10:05:59,020 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:15
+
+2020-01-10 10:05:59,020 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:15
+
+2020-01-10 10:05:59,020 ERROR unhealthIp:127.0.0.1, unhealthCount:15
+
+2020-01-10 10:06:04,025 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:16
+
+2020-01-10 10:06:04,025 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:16
+
+2020-01-10 10:06:04,025 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:16
+
+2020-01-10 10:06:04,026 ERROR unhealthIp:127.0.0.1, unhealthCount:16
+
+2020-01-10 10:06:09,031 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:17
+
+2020-01-10 10:06:09,031 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:17
+
+2020-01-10 10:06:09,032 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:17
+
+2020-01-10 10:06:09,032 ERROR unhealthIp:127.0.0.1, unhealthCount:17
+
+2020-01-10 10:06:14,033 ERROR unhealthIp:127.0.0.1, unhealthCount:18
+
+2020-01-10 10:06:14,033 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:18
+
+2020-01-10 10:06:14,033 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:18
+
+2020-01-10 10:06:14,033 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:18
+
+2020-01-10 10:06:19,037 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:19
+
+2020-01-10 10:06:19,038 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:19
+
+2020-01-10 10:06:19,038 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:19
+
+2020-01-10 10:06:19,038 ERROR unhealthIp:127.0.0.1, unhealthCount:19
+
+2020-01-10 10:06:24,041 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:20
+
+2020-01-10 10:06:24,041 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:20
+
+2020-01-10 10:06:24,041 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:20
+
+2020-01-10 10:06:24,041 ERROR unhealthIp:127.0.0.1, unhealthCount:20
+
+2020-01-10 10:06:29,045 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:21
+
+2020-01-10 10:06:29,045 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:21
+
+2020-01-10 10:06:29,046 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:21
+
+2020-01-10 10:06:29,046 ERROR unhealthIp:127.0.0.1, unhealthCount:21
+
+2020-01-10 10:06:34,050 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:22
+
+2020-01-10 10:06:34,050 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:22
+
+2020-01-10 10:06:34,050 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:22
+
+2020-01-10 10:06:34,050 ERROR unhealthIp:127.0.0.1, unhealthCount:22
+
+2020-01-10 10:06:39,055 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:23
+
+2020-01-10 10:06:39,056 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:23
+
+2020-01-10 10:06:39,056 ERROR unhealthIp:127.0.0.1, unhealthCount:23
+
+2020-01-10 10:06:39,056 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:23
+
+2020-01-10 10:06:44,058 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:24
+
+2020-01-10 10:06:44,059 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:24
+
+2020-01-10 10:06:44,059 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:24
+
+2020-01-10 10:06:44,059 ERROR unhealthIp:127.0.0.1, unhealthCount:24
+
+2020-01-10 10:06:49,060 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:25
+
+2020-01-10 10:06:49,061 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:25
+
+2020-01-10 10:06:49,061 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:25
+
+2020-01-10 10:06:49,061 ERROR unhealthIp:127.0.0.1, unhealthCount:25
+
+2020-01-10 10:06:54,063 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:26
+
+2020-01-10 10:06:54,063 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:26
+
+2020-01-10 10:06:54,063 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:26
+
+2020-01-10 10:06:54,064 ERROR unhealthIp:127.0.0.1, unhealthCount:26
+
+2020-01-10 10:06:59,068 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:27
+
+2020-01-10 10:06:59,069 ERROR unhealthIp:127.0.0.1, unhealthCount:27
+
+2020-01-10 10:06:59,069 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:27
+
+2020-01-10 10:06:59,069 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:27
+
+2020-01-10 10:07:04,073 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:28
+
+2020-01-10 10:07:04,073 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:28
+
+2020-01-10 10:07:04,073 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:28
+
+2020-01-10 10:07:04,073 ERROR unhealthIp:127.0.0.1, unhealthCount:28
+
+2020-01-10 10:07:09,077 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:29
+
+2020-01-10 10:07:09,077 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:29
+
+2020-01-10 10:07:09,077 ERROR unhealthIp:127.0.0.1, unhealthCount:29
+
+2020-01-10 10:07:09,077 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:29
+
+2020-01-10 10:07:14,080 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:30
+
+2020-01-10 10:07:14,080 ERROR unhealthIp:127.0.0.1, unhealthCount:30
+
+2020-01-10 10:07:14,081 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:30
+
+2020-01-10 10:07:14,081 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:30
+
+2020-01-10 10:07:19,085 ERROR unhealthIp:127.0.0.1:8843, unhealthCount:31
+
+2020-01-10 10:07:19,085 ERROR unhealthIp:127.0.0.1:8841, unhealthCount:31
+
+2020-01-10 10:07:19,085 ERROR unhealthIp:127.0.0.1:8842, unhealthCount:31
+
+2020-01-10 10:07:19,085 ERROR unhealthIp:127.0.0.1, unhealthCount:31
+
+2020-01-10 10:07:36,656 INFO notifyConnectTimeout:200
+
+2020-01-10 10:07:36,657 INFO notifySocketTimeout:8000
+
+2020-01-10 10:07:36,657 INFO isHealthCheck:true
+
+2020-01-10 10:07:36,658 INFO maxHealthCheckFailCount:12
+
+2020-01-10 10:07:36,658 INFO maxContent:10485760
+
+2020-01-10 10:07:36,659 INFO spring.datasource.platform:mysql
+
+2020-01-10 10:07:59,804 INFO ServerListService address-server port:8848
+
+2020-01-10 10:07:59,805 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2020-01-10 10:07:59,807 WARN [serverlist] updated to [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:07:59,966 WARN DumpService start
+
+2020-01-10 10:07:59,971 INFO start clear all config-info.
+
+2020-01-10 10:07:59,978 WARN clear all config-info failed.
+
+2020-01-10 10:07:59,978 WARN clear all config-info-tenant failed.
+
+2020-01-10 10:08:14,747 INFO notifyConnectTimeout:200
+
+2020-01-10 10:08:14,747 INFO notifySocketTimeout:8000
+
+2020-01-10 10:08:14,748 INFO isHealthCheck:true
+
+2020-01-10 10:08:14,748 INFO maxHealthCheckFailCount:12
+
+2020-01-10 10:08:14,748 INFO maxContent:10485760
+
+2020-01-10 10:08:38,003 INFO ServerListService address-server port:8848
+
+2020-01-10 10:08:38,004 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2020-01-10 10:08:38,015 WARN [serverlist] updated to [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:08:38,286 WARN DumpService start
+
+2020-01-10 10:08:38,290 INFO start clear all config-info.
+
+2020-01-10 10:08:38,298 WARN clear all config-info failed.
+
+2020-01-10 10:08:38,298 WARN clear all config-info-tenant failed.
+
+2020-01-10 10:08:54,018 INFO notifyConnectTimeout:200
+
+2020-01-10 10:08:54,019 INFO notifySocketTimeout:8000
+
+2020-01-10 10:08:54,019 INFO isHealthCheck:true
+
+2020-01-10 10:08:54,019 INFO maxHealthCheckFailCount:12
+
+2020-01-10 10:08:54,019 INFO maxContent:10485760
+
+2020-01-10 10:09:03,201 INFO ServerListService address-server port:8848
+
+2020-01-10 10:09:03,203 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2020-01-10 10:09:03,206 WARN [serverlist] updated to [127.0.0.1:8841, 127.0.0.1:8842, 127.0.0.1:8843, 127.0.0.1]
+
+2020-01-10 10:09:03,344 WARN DumpService start
+
+2020-01-10 10:09:03,347 INFO start clear all config-info.
+
+2020-01-10 10:09:03,354 WARN clear all config-info failed.
+
+2020-01-10 10:09:03,354 WARN clear all config-info-tenant failed.
+

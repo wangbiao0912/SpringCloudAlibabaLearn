@@ -1,0 +1,4094 @@
+2020-01-09 00:03:22,536 WARN useAddressServer:true
+
+2020-01-09 00:03:22,650 WARN isQuickStart:false
+
+2020-01-09 00:09:44,416 WARN useAddressServer:true
+
+2020-01-09 00:09:44,558 WARN isQuickStart:false
+
+2020-01-09 09:01:41,957 WARN useAddressServer:true
+
+2020-01-09 09:01:42,033 WARN isQuickStart:false
+
+2020-01-09 09:09:15,219 ERROR [master-db] master db not found.
+
+2020-01-09 09:09:19,240 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:09:19,531 WARN useAddressServer:true
+
+2020-01-09 09:09:19,600 WARN isQuickStart:false
+
+2020-01-09 09:09:19,627 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-09 09:09:33,265 ERROR [master-db] master db not found.
+
+2020-01-09 09:09:37,277 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:09:47,293 ERROR [master-db] master db not found.
+
+2020-01-09 09:09:51,304 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:10:01,312 ERROR [master-db] master db not found.
+
+2020-01-09 09:10:05,322 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:10:15,335 ERROR [master-db] master db not found.
+
+2020-01-09 09:10:19,350 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:10:29,356 ERROR [master-db] master db not found.
+
+2020-01-09 09:10:33,369 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:10:43,372 ERROR [master-db] master db not found.
+
+2020-01-09 09:10:47,383 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:10:57,389 ERROR [master-db] master db not found.
+
+2020-01-09 09:11:01,401 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:11:11,411 ERROR [master-db] master db not found.
+
+2020-01-09 09:11:15,424 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:11:25,430 ERROR [master-db] master db not found.
+
+2020-01-09 09:11:29,438 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:11:39,446 ERROR [master-db] master db not found.
+
+2020-01-09 09:11:43,641 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:11:53,463 ERROR [master-db] master db not found.
+
+2020-01-09 09:11:57,660 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:12:07,479 ERROR [master-db] master db not found.
+
+2020-01-09 09:12:11,679 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:12:21,497 ERROR [master-db] master db not found.
+
+2020-01-09 09:12:25,696 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:12:35,515 ERROR [master-db] master db not found.
+
+2020-01-09 09:12:39,711 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:12:49,532 ERROR [master-db] master db not found.
+
+2020-01-09 09:12:53,727 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:13:03,553 ERROR [master-db] master db not found.
+
+2020-01-09 09:13:07,743 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:13:17,570 ERROR [master-db] master db not found.
+
+2020-01-09 09:13:21,759 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:13:31,587 ERROR [master-db] master db not found.
+
+2020-01-09 09:13:35,777 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:13:45,605 ERROR [master-db] master db not found.
+
+2020-01-09 09:13:49,795 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:13:59,627 ERROR [master-db] master db not found.
+
+2020-01-09 09:14:03,812 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:14:13,645 ERROR [master-db] master db not found.
+
+2020-01-09 09:14:17,822 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:14:27,663 ERROR [master-db] master db not found.
+
+2020-01-09 09:14:31,838 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:14:41,678 ERROR [master-db] master db not found.
+
+2020-01-09 09:14:45,865 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:14:55,695 ERROR [master-db] master db not found.
+
+2020-01-09 09:14:59,881 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:15:09,708 ERROR [master-db] master db not found.
+
+2020-01-09 09:15:13,902 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:15:23,725 ERROR [master-db] master db not found.
+
+2020-01-09 09:15:27,913 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:15:37,746 ERROR [master-db] master db not found.
+
+2020-01-09 09:15:41,934 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:15:51,763 ERROR [master-db] master db not found.
+
+2020-01-09 09:15:55,955 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:16:05,780 ERROR [master-db] master db not found.
+
+2020-01-09 09:16:09,971 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:16:19,798 ERROR [master-db] master db not found.
+
+2020-01-09 09:16:23,987 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:16:33,819 ERROR [master-db] master db not found.
+
+2020-01-09 09:16:38,008 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:16:47,837 ERROR [master-db] master db not found.
+
+2020-01-09 09:16:52,022 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:17:01,854 ERROR [master-db] master db not found.
+
+2020-01-09 09:17:06,039 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:17:15,871 ERROR [master-db] master db not found.
+
+2020-01-09 09:17:20,056 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:17:29,893 ERROR [master-db] master db not found.
+
+2020-01-09 09:17:34,073 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:17:43,914 ERROR [master-db] master db not found.
+
+2020-01-09 09:17:48,089 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:17:57,937 ERROR [master-db] master db not found.
+
+2020-01-09 09:18:02,106 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:18:11,952 ERROR [master-db] master db not found.
+
+2020-01-09 09:18:16,123 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:18:25,973 ERROR [master-db] master db not found.
+
+2020-01-09 09:18:30,137 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:18:39,989 ERROR [master-db] master db not found.
+
+2020-01-09 09:18:44,154 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:18:54,008 ERROR [master-db] master db not found.
+
+2020-01-09 09:18:58,167 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:19:08,029 ERROR [master-db] master db not found.
+
+2020-01-09 09:19:12,185 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:19:22,044 ERROR [master-db] master db not found.
+
+2020-01-09 09:19:26,202 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:19:36,062 ERROR [master-db] master db not found.
+
+2020-01-09 09:19:40,223 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:19:50,079 ERROR [master-db] master db not found.
+
+2020-01-09 09:19:54,244 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:20:04,104 ERROR [master-db] master db not found.
+
+2020-01-09 09:20:08,264 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:20:18,119 ERROR [master-db] master db not found.
+
+2020-01-09 09:20:22,280 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:20:32,142 ERROR [master-db] master db not found.
+
+2020-01-09 09:20:36,301 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:20:46,163 ERROR [master-db] master db not found.
+
+2020-01-09 09:20:50,322 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:21:00,184 ERROR [master-db] master db not found.
+
+2020-01-09 09:21:04,341 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:21:14,203 ERROR [master-db] master db not found.
+
+2020-01-09 09:21:18,364 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:21:28,221 ERROR [master-db] master db not found.
+
+2020-01-09 09:21:32,380 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:21:42,240 ERROR [master-db] master db not found.
+
+2020-01-09 09:21:46,396 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:21:56,257 ERROR [master-db] master db not found.
+
+2020-01-09 09:22:00,410 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:22:10,275 ERROR [master-db] master db not found.
+
+2020-01-09 09:22:14,430 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:22:24,291 ERROR [master-db] master db not found.
+
+2020-01-09 09:22:28,446 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:22:38,310 ERROR [master-db] master db not found.
+
+2020-01-09 09:22:42,458 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:22:52,331 ERROR [master-db] master db not found.
+
+2020-01-09 09:22:56,477 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:23:06,360 ERROR [master-db] master db not found.
+
+2020-01-09 09:23:10,506 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:23:20,381 ERROR [master-db] master db not found.
+
+2020-01-09 09:23:24,526 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:23:34,421 ERROR [master-db] master db not found.
+
+2020-01-09 09:23:38,556 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:23:48,458 ERROR [master-db] master db not found.
+
+2020-01-09 09:23:52,573 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:24:02,483 ERROR [master-db] master db not found.
+
+2020-01-09 09:24:06,596 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:24:16,516 ERROR [master-db] master db not found.
+
+2020-01-09 09:24:20,616 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:24:30,533 ERROR [master-db] master db not found.
+
+2020-01-09 09:24:34,635 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:24:44,553 ERROR [master-db] master db not found.
+
+2020-01-09 09:24:48,651 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:24:58,574 ERROR [master-db] master db not found.
+
+2020-01-09 09:25:02,671 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:25:12,594 ERROR [master-db] master db not found.
+
+2020-01-09 09:25:16,690 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:25:26,616 ERROR [master-db] master db not found.
+
+2020-01-09 09:25:30,708 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:25:40,632 ERROR [master-db] master db not found.
+
+2020-01-09 09:25:44,727 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:25:54,648 ERROR [master-db] master db not found.
+
+2020-01-09 09:25:58,749 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:26:08,664 ERROR [master-db] master db not found.
+
+2020-01-09 09:26:12,765 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:26:22,683 ERROR [master-db] master db not found.
+
+2020-01-09 09:26:26,783 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:26:36,701 ERROR [master-db] master db not found.
+
+2020-01-09 09:26:40,802 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:26:50,715 ERROR [master-db] master db not found.
+
+2020-01-09 09:26:54,820 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:27:04,732 ERROR [master-db] master db not found.
+
+2020-01-09 09:27:08,840 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:27:18,750 ERROR [master-db] master db not found.
+
+2020-01-09 09:27:22,859 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:27:32,772 ERROR [master-db] master db not found.
+
+2020-01-09 09:27:36,877 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:27:46,790 ERROR [master-db] master db not found.
+
+2020-01-09 09:27:50,895 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:28:00,813 ERROR [master-db] master db not found.
+
+2020-01-09 09:28:04,913 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:28:14,836 ERROR [master-db] master db not found.
+
+2020-01-09 09:28:18,930 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:28:28,859 ERROR [master-db] master db not found.
+
+2020-01-09 09:28:32,945 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:28:42,878 ERROR [master-db] master db not found.
+
+2020-01-09 09:28:46,967 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:28:56,897 ERROR [master-db] master db not found.
+
+2020-01-09 09:29:00,987 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:29:10,913 ERROR [master-db] master db not found.
+
+2020-01-09 09:29:15,008 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:29:24,932 ERROR [master-db] master db not found.
+
+2020-01-09 09:29:29,026 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:29:38,948 ERROR [master-db] master db not found.
+
+2020-01-09 09:29:43,043 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:29:52,979 ERROR [master-db] master db not found.
+
+2020-01-09 09:29:57,059 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:30:07,004 ERROR [master-db] master db not found.
+
+2020-01-09 09:30:11,083 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:30:21,018 ERROR [master-db] master db not found.
+
+2020-01-09 09:30:25,101 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:30:35,035 ERROR [master-db] master db not found.
+
+2020-01-09 09:30:39,115 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:30:49,062 ERROR [master-db] master db not found.
+
+2020-01-09 09:30:53,142 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:31:03,128 ERROR [master-db] master db not found.
+
+2020-01-09 09:31:07,157 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:31:17,150 ERROR [master-db] master db not found.
+
+2020-01-09 09:31:21,172 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:31:31,166 ERROR [master-db] master db not found.
+
+2020-01-09 09:31:35,193 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:31:45,187 ERROR [master-db] master db not found.
+
+2020-01-09 09:31:49,214 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:31:59,201 ERROR [master-db] master db not found.
+
+2020-01-09 09:32:03,229 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:32:13,213 ERROR [master-db] master db not found.
+
+2020-01-09 09:32:17,245 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:32:27,230 ERROR [master-db] master db not found.
+
+2020-01-09 09:32:31,263 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:32:41,248 ERROR [master-db] master db not found.
+
+2020-01-09 09:32:45,279 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:32:55,267 ERROR [master-db] master db not found.
+
+2020-01-09 09:32:59,294 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:33:09,289 ERROR [master-db] master db not found.
+
+2020-01-09 09:33:13,309 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:33:23,322 ERROR [master-db] master db not found.
+
+2020-01-09 09:33:27,334 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:33:37,344 ERROR [master-db] master db not found.
+
+2020-01-09 09:33:41,358 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:33:51,364 ERROR [master-db] master db not found.
+
+2020-01-09 09:33:55,377 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:34:05,380 ERROR [master-db] master db not found.
+
+2020-01-09 09:34:09,393 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:34:19,402 ERROR [master-db] master db not found.
+
+2020-01-09 09:34:23,417 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:34:33,425 ERROR [master-db] master db not found.
+
+2020-01-09 09:34:37,436 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:34:47,445 ERROR [master-db] master db not found.
+
+2020-01-09 09:34:51,458 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:35:01,469 ERROR [master-db] master db not found.
+
+2020-01-09 09:35:05,482 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:35:15,491 ERROR [master-db] master db not found.
+
+2020-01-09 09:35:19,508 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:35:29,517 ERROR [master-db] master db not found.
+
+2020-01-09 09:35:33,531 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:35:43,536 ERROR [master-db] master db not found.
+
+2020-01-09 09:35:47,550 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:35:57,562 ERROR [master-db] master db not found.
+
+2020-01-09 09:36:01,572 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:36:11,590 ERROR [master-db] master db not found.
+
+2020-01-09 09:36:15,603 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:36:25,617 ERROR [master-db] master db not found.
+
+2020-01-09 09:36:29,630 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:36:39,639 ERROR [master-db] master db not found.
+
+2020-01-09 09:36:43,654 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:36:53,660 ERROR [master-db] master db not found.
+
+2020-01-09 09:36:57,670 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:37:07,680 ERROR [master-db] master db not found.
+
+2020-01-09 09:37:11,697 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:37:21,703 ERROR [master-db] master db not found.
+
+2020-01-09 09:37:25,715 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:37:35,724 ERROR [master-db] master db not found.
+
+2020-01-09 09:37:39,740 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:37:49,738 ERROR [master-db] master db not found.
+
+2020-01-09 09:37:53,757 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:38:03,752 ERROR [master-db] master db not found.
+
+2020-01-09 09:38:07,774 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:38:17,777 ERROR [master-db] master db not found.
+
+2020-01-09 09:38:21,791 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:38:31,791 ERROR [master-db] master db not found.
+
+2020-01-09 09:38:35,802 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:38:45,808 ERROR [master-db] master db not found.
+
+2020-01-09 09:38:49,823 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:38:59,830 ERROR [master-db] master db not found.
+
+2020-01-09 09:39:03,848 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:39:13,848 ERROR [master-db] master db not found.
+
+2020-01-09 09:39:17,862 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:39:27,900 ERROR [master-db] master db not found.
+
+2020-01-09 09:39:31,878 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:39:41,922 ERROR [master-db] master db not found.
+
+2020-01-09 09:39:45,935 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:39:55,942 ERROR [master-db] master db not found.
+
+2020-01-09 09:39:59,950 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:40:09,960 ERROR [master-db] master db not found.
+
+2020-01-09 09:40:13,975 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:40:23,991 ERROR [master-db] master db not found.
+
+2020-01-09 09:40:28,023 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:40:38,012 ERROR [master-db] master db not found.
+
+2020-01-09 09:40:42,039 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:40:52,033 ERROR [master-db] master db not found.
+
+2020-01-09 09:40:56,060 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:41:06,049 ERROR [master-db] master db not found.
+
+2020-01-09 09:41:10,076 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:41:20,068 ERROR [master-db] master db not found.
+
+2020-01-09 09:41:24,093 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:41:34,088 ERROR [master-db] master db not found.
+
+2020-01-09 09:41:38,112 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:41:48,104 ERROR [master-db] master db not found.
+
+2020-01-09 09:41:52,127 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:42:02,125 ERROR [master-db] master db not found.
+
+2020-01-09 09:42:06,143 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:42:16,140 ERROR [master-db] master db not found.
+
+2020-01-09 09:42:20,163 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:42:30,158 ERROR [master-db] master db not found.
+
+2020-01-09 09:42:34,179 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:42:44,179 ERROR [master-db] master db not found.
+
+2020-01-09 09:42:48,200 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:42:58,194 ERROR [master-db] master db not found.
+
+2020-01-09 09:43:02,213 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:43:12,218 ERROR [master-db] master db not found.
+
+2020-01-09 09:43:16,230 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:43:26,247 ERROR [master-db] master db not found.
+
+2020-01-09 09:43:30,262 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:43:40,265 ERROR [master-db] master db not found.
+
+2020-01-09 09:43:44,279 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:43:54,281 ERROR [master-db] master db not found.
+
+2020-01-09 09:43:58,295 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:44:08,298 ERROR [master-db] master db not found.
+
+2020-01-09 09:44:12,315 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:44:22,311 ERROR [master-db] master db not found.
+
+2020-01-09 09:44:26,327 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:44:36,327 ERROR [master-db] master db not found.
+
+2020-01-09 09:44:40,338 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:44:50,341 ERROR [master-db] master db not found.
+
+2020-01-09 09:44:54,348 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:45:04,361 ERROR [master-db] master db not found.
+
+2020-01-09 09:45:08,367 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:45:18,382 ERROR [master-db] master db not found.
+
+2020-01-09 09:45:22,389 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:45:32,400 ERROR [master-db] master db not found.
+
+2020-01-09 09:45:36,412 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:45:46,427 ERROR [master-db] master db not found.
+
+2020-01-09 09:45:50,436 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:46:00,448 ERROR [master-db] master db not found.
+
+2020-01-09 09:46:04,459 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:46:14,464 ERROR [master-db] master db not found.
+
+2020-01-09 09:46:18,480 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:46:28,481 ERROR [master-db] master db not found.
+
+2020-01-09 09:46:32,495 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:46:42,501 ERROR [master-db] master db not found.
+
+2020-01-09 09:46:46,515 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:46:56,524 ERROR [master-db] master db not found.
+
+2020-01-09 09:47:00,532 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:47:10,540 ERROR [master-db] master db not found.
+
+2020-01-09 09:47:14,552 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:47:24,551 ERROR [master-db] master db not found.
+
+2020-01-09 09:47:28,567 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:47:38,562 ERROR [master-db] master db not found.
+
+2020-01-09 09:47:42,582 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:47:52,576 ERROR [master-db] master db not found.
+
+2020-01-09 09:47:56,594 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:48:06,592 ERROR [master-db] master db not found.
+
+2020-01-09 09:48:10,608 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:48:20,607 ERROR [master-db] master db not found.
+
+2020-01-09 09:48:24,626 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:48:34,627 ERROR [master-db] master db not found.
+
+2020-01-09 09:48:38,639 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:48:48,646 ERROR [master-db] master db not found.
+
+2020-01-09 09:48:52,659 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:49:02,662 ERROR [master-db] master db not found.
+
+2020-01-09 09:49:06,675 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:49:16,676 ERROR [master-db] master db not found.
+
+2020-01-09 09:49:20,685 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:49:30,693 ERROR [master-db] master db not found.
+
+2020-01-09 09:49:34,705 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:49:44,711 ERROR [master-db] master db not found.
+
+2020-01-09 09:49:48,722 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:49:58,728 ERROR [master-db] master db not found.
+
+2020-01-09 09:50:02,738 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:50:12,749 ERROR [master-db] master db not found.
+
+2020-01-09 09:50:16,763 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:50:26,770 ERROR [master-db] master db not found.
+
+2020-01-09 09:50:30,783 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:50:40,790 ERROR [master-db] master db not found.
+
+2020-01-09 09:50:44,799 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:50:54,810 ERROR [master-db] master db not found.
+
+2020-01-09 09:50:58,820 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:51:08,832 ERROR [master-db] master db not found.
+
+2020-01-09 09:51:12,841 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:51:22,848 ERROR [master-db] master db not found.
+
+2020-01-09 09:51:26,859 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:51:36,869 ERROR [master-db] master db not found.
+
+2020-01-09 09:51:40,880 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:51:50,888 ERROR [master-db] master db not found.
+
+2020-01-09 09:51:54,900 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:52:04,906 ERROR [master-db] master db not found.
+
+2020-01-09 09:52:08,917 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:52:18,928 ERROR [master-db] master db not found.
+
+2020-01-09 09:52:22,935 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:52:32,948 ERROR [master-db] master db not found.
+
+2020-01-09 09:52:36,962 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:52:46,967 ERROR [master-db] master db not found.
+
+2020-01-09 09:52:50,980 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:53:00,989 ERROR [master-db] master db not found.
+
+2020-01-09 09:53:05,000 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:53:15,013 ERROR [master-db] master db not found.
+
+2020-01-09 09:53:19,021 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:53:29,029 ERROR [master-db] master db not found.
+
+2020-01-09 09:53:33,039 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:53:43,046 ERROR [master-db] master db not found.
+
+2020-01-09 09:53:47,057 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:53:57,063 ERROR [master-db] master db not found.
+
+2020-01-09 09:54:01,076 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:54:11,084 ERROR [master-db] master db not found.
+
+2020-01-09 09:54:15,096 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:54:25,104 ERROR [master-db] master db not found.
+
+2020-01-09 09:54:29,115 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:54:39,122 ERROR [master-db] master db not found.
+
+2020-01-09 09:54:43,135 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:54:53,138 ERROR [master-db] master db not found.
+
+2020-01-09 09:54:57,152 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:55:07,154 ERROR [master-db] master db not found.
+
+2020-01-09 09:55:11,168 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:55:21,172 ERROR [master-db] master db not found.
+
+2020-01-09 09:55:25,185 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:55:35,192 ERROR [master-db] master db not found.
+
+2020-01-09 09:55:39,203 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:55:49,214 ERROR [master-db] master db not found.
+
+2020-01-09 09:55:53,226 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:56:03,232 ERROR [master-db] master db not found.
+
+2020-01-09 09:56:07,246 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:56:17,248 ERROR [master-db] master db not found.
+
+2020-01-09 09:56:21,263 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:56:31,268 ERROR [master-db] master db not found.
+
+2020-01-09 09:56:35,282 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:56:45,282 ERROR [master-db] master db not found.
+
+2020-01-09 09:56:49,291 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:56:59,303 ERROR [master-db] master db not found.
+
+2020-01-09 09:57:03,310 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:57:13,323 ERROR [master-db] master db not found.
+
+2020-01-09 09:57:17,332 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:57:27,340 ERROR [master-db] master db not found.
+
+2020-01-09 09:57:31,352 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:57:41,358 ERROR [master-db] master db not found.
+
+2020-01-09 09:57:45,370 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:57:55,377 ERROR [master-db] master db not found.
+
+2020-01-09 09:57:59,389 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:58:09,391 ERROR [master-db] master db not found.
+
+2020-01-09 09:58:13,405 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:58:23,410 ERROR [master-db] master db not found.
+
+2020-01-09 09:58:27,421 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:58:37,423 ERROR [master-db] master db not found.
+
+2020-01-09 09:58:41,438 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:58:51,445 ERROR [master-db] master db not found.
+
+2020-01-09 09:58:55,457 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:59:05,462 ERROR [master-db] master db not found.
+
+2020-01-09 09:59:09,473 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:59:19,478 ERROR [master-db] master db not found.
+
+2020-01-09 09:59:23,487 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:59:33,496 ERROR [master-db] master db not found.
+
+2020-01-09 09:59:37,511 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 09:59:47,515 ERROR [master-db] master db not found.
+
+2020-01-09 09:59:51,529 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:00:01,530 ERROR [master-db] master db not found.
+
+2020-01-09 10:00:05,543 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:00:15,551 ERROR [master-db] master db not found.
+
+2020-01-09 10:00:19,561 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:00:29,568 ERROR [master-db] master db not found.
+
+2020-01-09 10:00:33,578 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:00:43,585 ERROR [master-db] master db not found.
+
+2020-01-09 10:00:47,596 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:00:57,604 ERROR [master-db] master db not found.
+
+2020-01-09 10:01:01,616 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:01:11,623 ERROR [master-db] master db not found.
+
+2020-01-09 10:01:15,635 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:01:25,643 ERROR [master-db] master db not found.
+
+2020-01-09 10:01:29,652 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:01:39,667 ERROR [master-db] master db not found.
+
+2020-01-09 10:01:43,678 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:01:53,692 ERROR [master-db] master db not found.
+
+2020-01-09 10:01:57,698 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:02:07,711 ERROR [master-db] master db not found.
+
+2020-01-09 10:02:11,722 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:02:21,730 ERROR [master-db] master db not found.
+
+2020-01-09 10:02:25,742 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:02:35,751 ERROR [master-db] master db not found.
+
+2020-01-09 10:02:39,764 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:02:49,773 ERROR [master-db] master db not found.
+
+2020-01-09 10:02:53,784 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:03:03,800 ERROR [master-db] master db not found.
+
+2020-01-09 10:03:07,812 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:03:17,821 ERROR [master-db] master db not found.
+
+2020-01-09 10:03:21,833 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:03:31,839 ERROR [master-db] master db not found.
+
+2020-01-09 10:03:35,853 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:03:45,861 ERROR [master-db] master db not found.
+
+2020-01-09 10:03:49,876 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:03:59,886 ERROR [master-db] master db not found.
+
+2020-01-09 10:04:03,897 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:04:13,912 ERROR [master-db] master db not found.
+
+2020-01-09 10:04:17,927 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:04:27,935 ERROR [master-db] master db not found.
+
+2020-01-09 10:04:31,946 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:04:41,955 ERROR [master-db] master db not found.
+
+2020-01-09 10:04:45,968 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:04:55,973 ERROR [master-db] master db not found.
+
+2020-01-09 10:04:59,990 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:05:09,988 ERROR [master-db] master db not found.
+
+2020-01-09 10:05:14,008 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:05:24,006 ERROR [master-db] master db not found.
+
+2020-01-09 10:05:28,025 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:05:38,020 ERROR [master-db] master db not found.
+
+2020-01-09 10:05:42,045 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:05:52,046 ERROR [master-db] master db not found.
+
+2020-01-09 10:05:56,062 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:06:06,063 ERROR [master-db] master db not found.
+
+2020-01-09 10:06:10,079 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:06:20,090 ERROR [master-db] master db not found.
+
+2020-01-09 10:06:24,097 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:06:34,109 ERROR [master-db] master db not found.
+
+2020-01-09 10:06:38,119 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:06:48,131 ERROR [master-db] master db not found.
+
+2020-01-09 10:06:52,139 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:07:02,154 ERROR [master-db] master db not found.
+
+2020-01-09 10:07:06,166 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:07:16,178 ERROR [master-db] master db not found.
+
+2020-01-09 10:07:20,187 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:07:30,200 ERROR [master-db] master db not found.
+
+2020-01-09 10:07:34,213 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:07:44,227 ERROR [master-db] master db not found.
+
+2020-01-09 10:07:48,237 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:07:58,245 ERROR [master-db] master db not found.
+
+2020-01-09 10:08:02,256 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:08:12,264 ERROR [master-db] master db not found.
+
+2020-01-09 10:08:16,280 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:08:26,281 ERROR [master-db] master db not found.
+
+2020-01-09 10:08:30,295 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:08:40,299 ERROR [master-db] master db not found.
+
+2020-01-09 10:08:44,310 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:08:54,323 ERROR [master-db] master db not found.
+
+2020-01-09 10:08:58,340 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:09:08,350 ERROR [master-db] master db not found.
+
+2020-01-09 10:09:12,363 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:09:22,380 ERROR [master-db] master db not found.
+
+2020-01-09 10:09:26,383 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:09:36,402 ERROR [master-db] master db not found.
+
+2020-01-09 10:09:40,414 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:09:50,426 ERROR [master-db] master db not found.
+
+2020-01-09 10:09:54,440 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:10:04,447 ERROR [master-db] master db not found.
+
+2020-01-09 10:10:08,462 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:10:18,470 ERROR [master-db] master db not found.
+
+2020-01-09 10:10:22,483 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:10:32,495 ERROR [master-db] master db not found.
+
+2020-01-09 10:10:36,509 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:10:46,516 ERROR [master-db] master db not found.
+
+2020-01-09 10:10:50,529 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:11:00,536 ERROR [master-db] master db not found.
+
+2020-01-09 10:11:04,551 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:11:14,555 ERROR [master-db] master db not found.
+
+2020-01-09 10:11:18,568 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:11:28,576 ERROR [master-db] master db not found.
+
+2020-01-09 10:11:32,584 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:11:42,596 ERROR [master-db] master db not found.
+
+2020-01-09 10:11:46,611 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:11:56,622 ERROR [master-db] master db not found.
+
+2020-01-09 10:12:00,635 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:12:10,638 ERROR [master-db] master db not found.
+
+2020-01-09 10:12:14,648 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:12:24,652 ERROR [master-db] master db not found.
+
+2020-01-09 10:12:28,668 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:12:38,684 ERROR [master-db] master db not found.
+
+2020-01-09 10:12:42,699 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:12:52,708 ERROR [master-db] master db not found.
+
+2020-01-09 10:12:56,722 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:13:06,728 ERROR [master-db] master db not found.
+
+2020-01-09 10:13:10,738 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:13:20,746 ERROR [master-db] master db not found.
+
+2020-01-09 10:13:24,758 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:13:34,766 ERROR [master-db] master db not found.
+
+2020-01-09 10:13:38,777 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:13:48,788 ERROR [master-db] master db not found.
+
+2020-01-09 10:13:52,800 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:14:02,805 ERROR [master-db] master db not found.
+
+2020-01-09 10:14:06,816 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:14:16,824 ERROR [master-db] master db not found.
+
+2020-01-09 10:14:20,836 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:14:30,838 ERROR [master-db] master db not found.
+
+2020-01-09 10:14:34,849 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:14:44,856 ERROR [master-db] master db not found.
+
+2020-01-09 10:14:48,869 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:14:58,874 ERROR [master-db] master db not found.
+
+2020-01-09 10:15:02,886 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:15:12,893 ERROR [master-db] master db not found.
+
+2020-01-09 10:15:16,907 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:15:26,914 ERROR [master-db] master db not found.
+
+2020-01-09 10:15:30,924 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:15:40,935 ERROR [master-db] master db not found.
+
+2020-01-09 10:15:44,949 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:15:54,954 ERROR [master-db] master db not found.
+
+2020-01-09 10:15:58,966 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:16:08,977 ERROR [master-db] master db not found.
+
+2020-01-09 10:16:12,987 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:16:22,998 ERROR [master-db] master db not found.
+
+2020-01-09 10:16:27,008 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:16:37,017 ERROR [master-db] master db not found.
+
+2020-01-09 10:16:41,025 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:16:51,042 ERROR [master-db] master db not found.
+
+2020-01-09 10:16:55,050 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:17:05,063 ERROR [master-db] master db not found.
+
+2020-01-09 10:17:09,076 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:17:19,089 ERROR [master-db] master db not found.
+
+2020-01-09 10:17:23,104 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:17:33,108 ERROR [master-db] master db not found.
+
+2020-01-09 10:17:37,120 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:17:47,128 ERROR [master-db] master db not found.
+
+2020-01-09 10:17:51,140 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:18:01,151 ERROR [master-db] master db not found.
+
+2020-01-09 10:18:05,160 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:18:15,177 ERROR [master-db] master db not found.
+
+2020-01-09 10:18:19,190 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:18:29,201 ERROR [master-db] master db not found.
+
+2020-01-09 10:18:33,214 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:18:43,221 ERROR [master-db] master db not found.
+
+2020-01-09 10:18:47,232 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:18:57,246 ERROR [master-db] master db not found.
+
+2020-01-09 10:19:01,258 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:19:11,271 ERROR [master-db] master db not found.
+
+2020-01-09 10:19:15,285 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:19:25,298 ERROR [master-db] master db not found.
+
+2020-01-09 10:19:29,311 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:19:39,318 ERROR [master-db] master db not found.
+
+2020-01-09 10:19:43,324 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:19:53,336 ERROR [master-db] master db not found.
+
+2020-01-09 10:19:57,350 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:20:07,356 ERROR [master-db] master db not found.
+
+2020-01-09 10:20:11,373 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:20:21,380 ERROR [master-db] master db not found.
+
+2020-01-09 10:20:25,396 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:20:35,398 ERROR [master-db] master db not found.
+
+2020-01-09 10:20:39,416 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:20:49,421 ERROR [master-db] master db not found.
+
+2020-01-09 10:20:53,438 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:21:03,450 ERROR [master-db] master db not found.
+
+2020-01-09 10:21:07,463 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:21:17,474 ERROR [master-db] master db not found.
+
+2020-01-09 10:21:21,480 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:21:31,490 ERROR [master-db] master db not found.
+
+2020-01-09 10:21:35,500 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:21:45,513 ERROR [master-db] master db not found.
+
+2020-01-09 10:21:49,525 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:21:59,534 ERROR [master-db] master db not found.
+
+2020-01-09 10:22:03,543 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:22:13,554 ERROR [master-db] master db not found.
+
+2020-01-09 10:22:17,565 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:22:27,575 ERROR [master-db] master db not found.
+
+2020-01-09 10:22:31,582 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:22:41,593 ERROR [master-db] master db not found.
+
+2020-01-09 10:22:45,604 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:22:55,612 ERROR [master-db] master db not found.
+
+2020-01-09 10:22:59,619 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:23:09,635 ERROR [master-db] master db not found.
+
+2020-01-09 10:23:13,645 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:23:23,658 ERROR [master-db] master db not found.
+
+2020-01-09 10:23:27,670 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:23:37,676 ERROR [master-db] master db not found.
+
+2020-01-09 10:23:41,691 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:23:51,694 ERROR [master-db] master db not found.
+
+2020-01-09 10:23:55,709 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:24:05,715 ERROR [master-db] master db not found.
+
+2020-01-09 10:24:09,728 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:24:19,742 ERROR [master-db] master db not found.
+
+2020-01-09 10:24:23,754 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:24:33,764 ERROR [master-db] master db not found.
+
+2020-01-09 10:24:37,774 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:24:47,786 ERROR [master-db] master db not found.
+
+2020-01-09 10:24:51,798 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:25:01,806 ERROR [master-db] master db not found.
+
+2020-01-09 10:25:05,819 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:25:15,826 ERROR [master-db] master db not found.
+
+2020-01-09 10:25:19,839 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:25:29,840 ERROR [master-db] master db not found.
+
+2020-01-09 10:25:33,854 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:25:43,854 ERROR [master-db] master db not found.
+
+2020-01-09 10:25:47,864 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:25:57,876 ERROR [master-db] master db not found.
+
+2020-01-09 10:26:01,880 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:26:11,893 ERROR [master-db] master db not found.
+
+2020-01-09 10:26:15,904 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:26:25,910 ERROR [master-db] master db not found.
+
+2020-01-09 10:26:29,923 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:26:39,928 ERROR [master-db] master db not found.
+
+2020-01-09 10:26:43,941 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:26:53,946 ERROR [master-db] master db not found.
+
+2020-01-09 10:26:57,954 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:27:07,975 ERROR [master-db] master db not found.
+
+2020-01-09 10:27:11,983 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:27:21,999 ERROR [master-db] master db not found.
+
+2020-01-09 10:27:26,009 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:27:36,018 ERROR [master-db] master db not found.
+
+2020-01-09 10:27:40,035 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:27:50,047 ERROR [master-db] master db not found.
+
+2020-01-09 10:27:54,062 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:28:04,067 ERROR [master-db] master db not found.
+
+2020-01-09 10:28:08,090 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:28:18,096 ERROR [master-db] master db not found.
+
+2020-01-09 10:28:22,109 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:28:32,112 ERROR [master-db] master db not found.
+
+2020-01-09 10:28:36,126 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:28:46,137 ERROR [master-db] master db not found.
+
+2020-01-09 10:28:50,146 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:29:00,157 ERROR [master-db] master db not found.
+
+2020-01-09 10:29:04,163 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:29:14,175 ERROR [master-db] master db not found.
+
+2020-01-09 10:29:18,452 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:29:28,198 ERROR [master-db] master db not found.
+
+2020-01-09 10:29:32,482 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:29:42,225 ERROR [master-db] master db not found.
+
+2020-01-09 10:29:46,499 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:29:56,243 ERROR [master-db] master db not found.
+
+2020-01-09 10:30:00,612 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:30:10,281 ERROR [master-db] master db not found.
+
+2020-01-09 10:30:14,637 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:30:24,311 ERROR [master-db] master db not found.
+
+2020-01-09 10:30:28,655 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:30:38,335 ERROR [master-db] master db not found.
+
+2020-01-09 10:30:42,680 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:30:52,359 ERROR [master-db] master db not found.
+
+2020-01-09 10:30:56,701 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:31:06,381 ERROR [master-db] master db not found.
+
+2020-01-09 10:31:10,715 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:31:20,405 ERROR [master-db] master db not found.
+
+2020-01-09 10:31:24,731 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:31:34,427 ERROR [master-db] master db not found.
+
+2020-01-09 10:31:38,750 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:31:48,447 ERROR [master-db] master db not found.
+
+2020-01-09 10:31:52,767 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:32:02,471 ERROR [master-db] master db not found.
+
+2020-01-09 10:32:06,786 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:32:16,495 ERROR [master-db] master db not found.
+
+2020-01-09 10:32:20,805 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:32:30,536 ERROR [master-db] master db not found.
+
+2020-01-09 10:32:34,829 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:32:44,553 ERROR [master-db] master db not found.
+
+2020-01-09 10:32:48,841 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:32:58,573 ERROR [master-db] master db not found.
+
+2020-01-09 10:33:02,854 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:33:12,592 ERROR [master-db] master db not found.
+
+2020-01-09 10:33:16,866 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:33:26,611 ERROR [master-db] master db not found.
+
+2020-01-09 10:33:30,879 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:33:40,630 ERROR [master-db] master db not found.
+
+2020-01-09 10:33:44,896 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:33:54,646 ERROR [master-db] master db not found.
+
+2020-01-09 10:33:58,911 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:34:08,669 ERROR [master-db] master db not found.
+
+2020-01-09 10:34:12,929 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:34:22,687 ERROR [master-db] master db not found.
+
+2020-01-09 10:34:26,945 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:34:36,705 ERROR [master-db] master db not found.
+
+2020-01-09 10:34:40,962 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:34:50,725 ERROR [master-db] master db not found.
+
+2020-01-09 10:34:54,980 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:35:04,742 ERROR [master-db] master db not found.
+
+2020-01-09 10:35:08,996 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:35:18,758 ERROR [master-db] master db not found.
+
+2020-01-09 10:35:23,015 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:35:32,775 ERROR [master-db] master db not found.
+
+2020-01-09 10:35:37,028 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:35:46,794 ERROR [master-db] master db not found.
+
+2020-01-09 10:35:51,045 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:36:00,811 ERROR [master-db] master db not found.
+
+2020-01-09 10:36:05,063 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:36:14,822 ERROR [master-db] master db not found.
+
+2020-01-09 10:36:19,071 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:36:28,831 ERROR [master-db] master db not found.
+
+2020-01-09 10:36:33,078 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:36:42,839 ERROR [master-db] master db not found.
+
+2020-01-09 10:36:47,088 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:36:56,852 ERROR [master-db] master db not found.
+
+2020-01-09 10:37:01,100 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:37:10,866 ERROR [master-db] master db not found.
+
+2020-01-09 10:37:15,112 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:37:24,880 ERROR [master-db] master db not found.
+
+2020-01-09 10:37:29,128 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:37:38,889 ERROR [master-db] master db not found.
+
+2020-01-09 10:37:43,142 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:37:52,907 ERROR [master-db] master db not found.
+
+2020-01-09 10:37:57,156 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:38:06,920 ERROR [master-db] master db not found.
+
+2020-01-09 10:38:11,169 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:38:20,935 ERROR [master-db] master db not found.
+
+2020-01-09 10:38:25,184 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:38:34,945 ERROR [master-db] master db not found.
+
+2020-01-09 10:38:39,201 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:38:48,957 ERROR [master-db] master db not found.
+
+2020-01-09 10:38:53,215 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:39:02,973 ERROR [master-db] master db not found.
+
+2020-01-09 10:39:07,228 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:39:16,991 ERROR [master-db] master db not found.
+
+2020-01-09 10:39:21,247 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:39:31,008 ERROR [master-db] master db not found.
+
+2020-01-09 10:39:35,263 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:39:45,026 ERROR [master-db] master db not found.
+
+2020-01-09 10:39:49,278 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:39:59,036 ERROR [master-db] master db not found.
+
+2020-01-09 10:40:03,297 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:40:13,054 ERROR [master-db] master db not found.
+
+2020-01-09 10:40:17,311 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:40:27,071 ERROR [master-db] master db not found.
+
+2020-01-09 10:40:31,327 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:40:41,088 ERROR [master-db] master db not found.
+
+2020-01-09 10:40:45,340 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:40:55,103 ERROR [master-db] master db not found.
+
+2020-01-09 10:40:59,356 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:41:09,123 ERROR [master-db] master db not found.
+
+2020-01-09 10:41:13,374 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:41:23,135 ERROR [master-db] master db not found.
+
+2020-01-09 10:41:27,392 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:41:37,154 ERROR [master-db] master db not found.
+
+2020-01-09 10:41:41,410 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:41:51,171 ERROR [master-db] master db not found.
+
+2020-01-09 10:41:55,425 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:42:05,193 ERROR [master-db] master db not found.
+
+2020-01-09 10:42:09,441 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:42:19,210 ERROR [master-db] master db not found.
+
+2020-01-09 10:42:23,457 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:42:33,228 ERROR [master-db] master db not found.
+
+2020-01-09 10:42:37,475 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:42:47,275 ERROR [master-db] master db not found.
+
+2020-01-09 10:42:52,493 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:43:01,307 ERROR [master-db] master db not found.
+
+2020-01-09 10:43:06,516 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:43:15,335 ERROR [master-db] master db not found.
+
+2020-01-09 10:43:20,541 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:43:29,361 ERROR [master-db] master db not found.
+
+2020-01-09 10:43:34,558 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:43:43,379 ERROR [master-db] master db not found.
+
+2020-01-09 10:43:48,575 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:43:57,402 ERROR [master-db] master db not found.
+
+2020-01-09 10:44:02,594 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:44:11,417 ERROR [master-db] master db not found.
+
+2020-01-09 10:44:16,610 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:44:25,435 ERROR [master-db] master db not found.
+
+2020-01-09 10:44:30,631 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:44:39,450 ERROR [master-db] master db not found.
+
+2020-01-09 10:44:44,649 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:44:53,480 ERROR [master-db] master db not found.
+
+2020-01-09 10:44:58,671 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:45:07,499 ERROR [master-db] master db not found.
+
+2020-01-09 10:45:12,686 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:45:21,521 ERROR [master-db] master db not found.
+
+2020-01-09 10:45:26,700 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:45:35,543 ERROR [master-db] master db not found.
+
+2020-01-09 10:45:40,717 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:45:49,569 ERROR [master-db] master db not found.
+
+2020-01-09 10:45:54,738 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:46:03,590 ERROR [master-db] master db not found.
+
+2020-01-09 10:46:08,753 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:46:17,616 ERROR [master-db] master db not found.
+
+2020-01-09 10:46:22,773 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:46:31,641 ERROR [master-db] master db not found.
+
+2020-01-09 10:46:36,792 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:46:45,670 ERROR [master-db] master db not found.
+
+2020-01-09 10:46:50,806 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:46:59,692 ERROR [master-db] master db not found.
+
+2020-01-09 10:47:04,819 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:47:13,710 ERROR [master-db] master db not found.
+
+2020-01-09 10:47:18,831 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:47:27,729 ERROR [master-db] master db not found.
+
+2020-01-09 10:47:32,845 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:47:41,745 ERROR [master-db] master db not found.
+
+2020-01-09 10:47:46,861 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:47:55,761 ERROR [master-db] master db not found.
+
+2020-01-09 10:48:00,878 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:48:09,781 ERROR [master-db] master db not found.
+
+2020-01-09 10:48:14,902 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:48:23,805 ERROR [master-db] master db not found.
+
+2020-01-09 10:48:28,926 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:48:37,825 ERROR [master-db] master db not found.
+
+2020-01-09 10:48:42,938 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:48:51,892 ERROR [master-db] master db not found.
+
+2020-01-09 10:48:56,962 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:49:05,923 ERROR [master-db] master db not found.
+
+2020-01-09 10:49:10,982 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:49:19,952 ERROR [master-db] master db not found.
+
+2020-01-09 10:49:25,006 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:49:33,979 ERROR [master-db] master db not found.
+
+2020-01-09 10:49:39,024 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:49:47,994 ERROR [master-db] master db not found.
+
+2020-01-09 10:49:53,047 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:50:02,018 ERROR [master-db] master db not found.
+
+2020-01-09 10:50:07,065 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:50:16,040 ERROR [master-db] master db not found.
+
+2020-01-09 10:50:21,090 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:50:30,066 ERROR [master-db] master db not found.
+
+2020-01-09 10:50:35,110 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:50:44,091 ERROR [master-db] master db not found.
+
+2020-01-09 10:50:49,132 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:50:58,114 ERROR [master-db] master db not found.
+
+2020-01-09 10:51:03,154 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:51:12,137 ERROR [master-db] master db not found.
+
+2020-01-09 10:51:17,172 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:51:26,155 ERROR [master-db] master db not found.
+
+2020-01-09 10:51:31,193 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:51:40,175 ERROR [master-db] master db not found.
+
+2020-01-09 10:51:45,209 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:51:54,202 ERROR [master-db] master db not found.
+
+2020-01-09 10:51:59,232 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:52:08,226 ERROR [master-db] master db not found.
+
+2020-01-09 10:52:13,250 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:52:22,244 ERROR [master-db] master db not found.
+
+2020-01-09 10:52:27,270 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:52:36,267 ERROR [master-db] master db not found.
+
+2020-01-09 10:52:41,286 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:52:50,287 ERROR [master-db] master db not found.
+
+2020-01-09 10:52:55,301 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:53:04,305 ERROR [master-db] master db not found.
+
+2020-01-09 10:53:09,318 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:53:18,323 ERROR [master-db] master db not found.
+
+2020-01-09 10:53:23,337 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:53:32,346 ERROR [master-db] master db not found.
+
+2020-01-09 10:53:37,356 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:53:46,363 ERROR [master-db] master db not found.
+
+2020-01-09 10:53:51,370 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:54:00,387 ERROR [master-db] master db not found.
+
+2020-01-09 10:54:05,396 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:54:14,409 ERROR [master-db] master db not found.
+
+2020-01-09 10:54:19,415 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:54:28,433 ERROR [master-db] master db not found.
+
+2020-01-09 10:54:33,431 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:54:42,455 ERROR [master-db] master db not found.
+
+2020-01-09 10:54:47,448 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:54:56,473 ERROR [master-db] master db not found.
+
+2020-01-09 10:55:01,463 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:55:10,494 ERROR [master-db] master db not found.
+
+2020-01-09 10:55:15,484 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:55:24,519 ERROR [master-db] master db not found.
+
+2020-01-09 10:55:29,499 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:55:38,540 ERROR [master-db] master db not found.
+
+2020-01-09 10:55:43,516 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:55:52,561 ERROR [master-db] master db not found.
+
+2020-01-09 10:55:57,533 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:56:06,582 ERROR [master-db] master db not found.
+
+2020-01-09 10:56:11,550 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:56:20,604 ERROR [master-db] master db not found.
+
+2020-01-09 10:56:25,568 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:56:34,624 ERROR [master-db] master db not found.
+
+2020-01-09 10:56:39,590 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:56:48,645 ERROR [master-db] master db not found.
+
+2020-01-09 10:56:53,607 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:57:02,664 ERROR [master-db] master db not found.
+
+2020-01-09 10:57:07,625 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:57:16,691 ERROR [master-db] master db not found.
+
+2020-01-09 10:57:21,643 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:57:30,716 ERROR [master-db] master db not found.
+
+2020-01-09 10:57:35,663 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:57:44,731 ERROR [master-db] master db not found.
+
+2020-01-09 10:57:49,679 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:57:58,749 ERROR [master-db] master db not found.
+
+2020-01-09 10:58:03,702 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:58:12,776 ERROR [master-db] master db not found.
+
+2020-01-09 10:58:17,721 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:58:26,803 ERROR [master-db] master db not found.
+
+2020-01-09 10:58:31,741 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:58:40,825 ERROR [master-db] master db not found.
+
+2020-01-09 10:58:45,763 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:58:54,844 ERROR [master-db] master db not found.
+
+2020-01-09 10:58:59,777 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:59:08,864 ERROR [master-db] master db not found.
+
+2020-01-09 10:59:13,796 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:59:22,885 ERROR [master-db] master db not found.
+
+2020-01-09 10:59:27,815 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:59:36,907 ERROR [master-db] master db not found.
+
+2020-01-09 10:59:41,839 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 10:59:50,928 ERROR [master-db] master db not found.
+
+2020-01-09 10:59:55,853 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:00:04,949 ERROR [master-db] master db not found.
+
+2020-01-09 11:00:09,867 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:00:18,970 ERROR [master-db] master db not found.
+
+2020-01-09 11:00:23,887 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:00:32,992 ERROR [master-db] master db not found.
+
+2020-01-09 11:00:37,906 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:00:47,012 ERROR [master-db] master db not found.
+
+2020-01-09 11:00:51,923 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:01:01,028 ERROR [master-db] master db not found.
+
+2020-01-09 11:01:05,943 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:01:15,046 ERROR [master-db] master db not found.
+
+2020-01-09 11:01:19,959 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:01:29,062 ERROR [master-db] master db not found.
+
+2020-01-09 11:01:33,975 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:01:43,085 ERROR [master-db] master db not found.
+
+2020-01-09 11:01:47,989 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:01:57,106 ERROR [master-db] master db not found.
+
+2020-01-09 11:02:02,009 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:02:11,133 ERROR [master-db] master db not found.
+
+2020-01-09 11:02:16,027 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:02:25,154 ERROR [master-db] master db not found.
+
+2020-01-09 11:02:30,050 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:02:39,179 ERROR [master-db] master db not found.
+
+2020-01-09 11:02:44,075 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:02:53,205 ERROR [master-db] master db not found.
+
+2020-01-09 11:02:58,095 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:03:07,231 ERROR [master-db] master db not found.
+
+2020-01-09 11:03:12,117 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:03:21,260 ERROR [master-db] master db not found.
+
+2020-01-09 11:03:26,142 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:03:35,283 ERROR [master-db] master db not found.
+
+2020-01-09 11:03:40,163 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:03:49,309 ERROR [master-db] master db not found.
+
+2020-01-09 11:03:54,186 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:04:03,338 ERROR [master-db] master db not found.
+
+2020-01-09 11:04:08,206 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:04:17,365 ERROR [master-db] master db not found.
+
+2020-01-09 11:04:22,226 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:04:31,385 ERROR [master-db] master db not found.
+
+2020-01-09 11:04:36,245 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:04:45,407 ERROR [master-db] master db not found.
+
+2020-01-09 11:04:50,265 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:04:59,428 ERROR [master-db] master db not found.
+
+2020-01-09 11:05:04,282 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:05:13,451 ERROR [master-db] master db not found.
+
+2020-01-09 11:05:18,298 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:05:27,475 ERROR [master-db] master db not found.
+
+2020-01-09 11:05:32,313 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:05:41,495 ERROR [master-db] master db not found.
+
+2020-01-09 11:05:46,331 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:05:55,512 ERROR [master-db] master db not found.
+
+2020-01-09 11:06:00,344 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:06:09,541 ERROR [master-db] master db not found.
+
+2020-01-09 11:06:14,361 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:06:23,561 ERROR [master-db] master db not found.
+
+2020-01-09 11:06:28,371 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:06:37,587 ERROR [master-db] master db not found.
+
+2020-01-09 11:06:42,390 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:06:51,610 ERROR [master-db] master db not found.
+
+2020-01-09 11:06:56,405 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:07:05,632 ERROR [master-db] master db not found.
+
+2020-01-09 11:07:10,421 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:07:19,653 ERROR [master-db] master db not found.
+
+2020-01-09 11:07:24,447 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:07:33,671 ERROR [master-db] master db not found.
+
+2020-01-09 11:07:38,466 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:07:47,692 ERROR [master-db] master db not found.
+
+2020-01-09 11:07:52,490 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:08:01,712 ERROR [master-db] master db not found.
+
+2020-01-09 11:08:06,507 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:08:15,732 ERROR [master-db] master db not found.
+
+2020-01-09 11:08:20,528 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:08:29,755 ERROR [master-db] master db not found.
+
+2020-01-09 11:08:34,544 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:08:43,780 ERROR [master-db] master db not found.
+
+2020-01-09 11:08:48,563 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:08:57,802 ERROR [master-db] master db not found.
+
+2020-01-09 11:09:02,580 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:09:11,820 ERROR [master-db] master db not found.
+
+2020-01-09 11:09:16,598 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:09:25,844 ERROR [master-db] master db not found.
+
+2020-01-09 11:09:30,615 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:09:39,862 ERROR [master-db] master db not found.
+
+2020-01-09 11:09:44,640 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:09:53,884 ERROR [master-db] master db not found.
+
+2020-01-09 11:09:58,657 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:10:07,903 ERROR [master-db] master db not found.
+
+2020-01-09 11:10:12,677 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:10:21,922 ERROR [master-db] master db not found.
+
+2020-01-09 11:10:26,696 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:10:35,939 ERROR [master-db] master db not found.
+
+2020-01-09 11:10:40,713 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:10:49,961 ERROR [master-db] master db not found.
+
+2020-01-09 11:10:54,730 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:11:03,982 ERROR [master-db] master db not found.
+
+2020-01-09 11:11:08,749 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:11:18,004 ERROR [master-db] master db not found.
+
+2020-01-09 11:11:22,768 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:11:32,019 ERROR [master-db] master db not found.
+
+2020-01-09 11:11:36,785 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:11:46,039 ERROR [master-db] master db not found.
+
+2020-01-09 11:11:50,804 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:12:00,053 ERROR [master-db] master db not found.
+
+2020-01-09 11:12:04,818 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:12:14,073 ERROR [master-db] master db not found.
+
+2020-01-09 11:12:18,838 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:12:28,089 ERROR [master-db] master db not found.
+
+2020-01-09 11:12:32,854 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:12:42,110 ERROR [master-db] master db not found.
+
+2020-01-09 11:12:46,870 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:12:56,130 ERROR [master-db] master db not found.
+
+2020-01-09 11:13:00,887 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:13:10,149 ERROR [master-db] master db not found.
+
+2020-01-09 11:13:14,905 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:13:24,165 ERROR [master-db] master db not found.
+
+2020-01-09 11:13:28,919 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:13:38,184 ERROR [master-db] master db not found.
+
+2020-01-09 11:13:42,938 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:13:52,200 ERROR [master-db] master db not found.
+
+2020-01-09 11:13:56,953 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:14:06,216 ERROR [master-db] master db not found.
+
+2020-01-09 11:14:10,966 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:14:20,236 ERROR [master-db] master db not found.
+
+2020-01-09 11:14:24,984 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:14:34,259 ERROR [master-db] master db not found.
+
+2020-01-09 11:14:38,996 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:14:48,282 ERROR [master-db] master db not found.
+
+2020-01-09 11:14:53,016 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:15:02,300 ERROR [master-db] master db not found.
+
+2020-01-09 11:15:07,035 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:15:16,316 ERROR [master-db] master db not found.
+
+2020-01-09 11:15:21,053 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:15:30,337 ERROR [master-db] master db not found.
+
+2020-01-09 11:15:35,067 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:15:44,358 ERROR [master-db] master db not found.
+
+2020-01-09 11:15:49,085 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:15:58,376 ERROR [master-db] master db not found.
+
+2020-01-09 11:16:03,102 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:16:12,403 ERROR [master-db] master db not found.
+
+2020-01-09 11:16:17,117 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:16:26,429 ERROR [master-db] master db not found.
+
+2020-01-09 11:16:31,133 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:16:40,452 ERROR [master-db] master db not found.
+
+2020-01-09 11:16:45,155 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:16:54,470 ERROR [master-db] master db not found.
+
+2020-01-09 11:16:59,169 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:17:08,491 ERROR [master-db] master db not found.
+
+2020-01-09 11:17:13,186 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:17:22,508 ERROR [master-db] master db not found.
+
+2020-01-09 11:17:27,207 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:17:36,517 ERROR [master-db] master db not found.
+
+2020-01-09 11:17:41,224 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:17:50,536 ERROR [master-db] master db not found.
+
+2020-01-09 11:17:55,241 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:18:04,554 ERROR [master-db] master db not found.
+
+2020-01-09 11:18:09,260 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:18:18,570 ERROR [master-db] master db not found.
+
+2020-01-09 11:18:23,281 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:18:32,597 ERROR [master-db] master db not found.
+
+2020-01-09 11:18:37,302 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:18:46,617 ERROR [master-db] master db not found.
+
+2020-01-09 11:18:51,319 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:19:00,637 ERROR [master-db] master db not found.
+
+2020-01-09 11:19:05,338 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:19:14,653 ERROR [master-db] master db not found.
+
+2020-01-09 11:19:19,355 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:19:28,671 ERROR [master-db] master db not found.
+
+2020-01-09 11:19:33,366 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:19:42,687 ERROR [master-db] master db not found.
+
+2020-01-09 11:19:47,390 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:19:56,716 ERROR [master-db] master db not found.
+
+2020-01-09 11:20:01,408 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:20:10,736 ERROR [master-db] master db not found.
+
+2020-01-09 11:20:15,431 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:20:24,754 ERROR [master-db] master db not found.
+
+2020-01-09 11:20:29,453 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:20:38,771 ERROR [master-db] master db not found.
+
+2020-01-09 11:20:43,475 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:20:52,791 ERROR [master-db] master db not found.
+
+2020-01-09 11:20:57,494 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:21:06,809 ERROR [master-db] master db not found.
+
+2020-01-09 11:21:11,509 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:21:20,829 ERROR [master-db] master db not found.
+
+2020-01-09 11:21:25,525 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:21:34,851 ERROR [master-db] master db not found.
+
+2020-01-09 11:21:39,545 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:21:48,870 ERROR [master-db] master db not found.
+
+2020-01-09 11:21:53,563 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:22:02,888 ERROR [master-db] master db not found.
+
+2020-01-09 11:22:07,575 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:22:16,907 ERROR [master-db] master db not found.
+
+2020-01-09 11:22:21,589 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:22:30,919 ERROR [master-db] master db not found.
+
+2020-01-09 11:22:35,609 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:22:44,942 ERROR [master-db] master db not found.
+
+2020-01-09 11:22:49,627 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:22:58,963 ERROR [master-db] master db not found.
+
+2020-01-09 11:23:03,651 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:23:12,979 ERROR [master-db] master db not found.
+
+2020-01-09 11:23:17,666 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:23:27,001 ERROR [master-db] master db not found.
+
+2020-01-09 11:23:31,681 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:23:41,018 ERROR [master-db] master db not found.
+
+2020-01-09 11:23:45,696 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:23:55,039 ERROR [master-db] master db not found.
+
+2020-01-09 11:23:59,710 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:24:09,054 ERROR [master-db] master db not found.
+
+2020-01-09 11:24:13,721 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:24:23,068 ERROR [master-db] master db not found.
+
+2020-01-09 11:24:27,734 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:24:37,087 ERROR [master-db] master db not found.
+
+2020-01-09 11:24:41,752 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:24:51,105 ERROR [master-db] master db not found.
+
+2020-01-09 11:24:55,769 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:25:05,119 ERROR [master-db] master db not found.
+
+2020-01-09 11:25:09,784 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:25:19,137 ERROR [master-db] master db not found.
+
+2020-01-09 11:25:23,801 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:25:33,158 ERROR [master-db] master db not found.
+
+2020-01-09 11:25:37,819 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:25:47,177 ERROR [master-db] master db not found.
+
+2020-01-09 11:25:51,835 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:26:01,193 ERROR [master-db] master db not found.
+
+2020-01-09 11:26:05,848 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:26:15,213 ERROR [master-db] master db not found.
+
+2020-01-09 11:26:19,868 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:26:29,309 ERROR [master-db] master db not found.
+
+2020-01-09 11:26:33,901 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:26:43,328 ERROR [master-db] master db not found.
+
+2020-01-09 11:26:47,923 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:26:57,370 ERROR [master-db] master db not found.
+
+2020-01-09 11:27:01,943 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:27:11,396 ERROR [master-db] master db not found.
+
+2020-01-09 11:27:15,967 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:27:25,422 ERROR [master-db] master db not found.
+
+2020-01-09 11:27:29,987 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:27:39,447 ERROR [master-db] master db not found.
+
+2020-01-09 11:27:44,005 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:27:53,470 ERROR [master-db] master db not found.
+
+2020-01-09 11:27:58,023 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:28:07,515 ERROR [master-db] master db not found.
+
+2020-01-09 11:28:12,055 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:28:21,540 ERROR [master-db] master db not found.
+
+2020-01-09 11:28:26,088 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:28:35,575 ERROR [master-db] master db not found.
+
+2020-01-09 11:28:40,113 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:28:49,597 ERROR [master-db] master db not found.
+
+2020-01-09 11:28:54,131 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:29:03,626 ERROR [master-db] master db not found.
+
+2020-01-09 11:29:08,161 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:29:17,652 ERROR [master-db] master db not found.
+
+2020-01-09 11:29:22,194 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:29:31,677 ERROR [master-db] master db not found.
+
+2020-01-09 11:29:36,214 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:29:45,701 ERROR [master-db] master db not found.
+
+2020-01-09 11:29:50,227 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:29:59,724 ERROR [master-db] master db not found.
+
+2020-01-09 11:30:04,251 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:30:13,746 ERROR [master-db] master db not found.
+
+2020-01-09 11:30:18,265 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:30:27,763 ERROR [master-db] master db not found.
+
+2020-01-09 11:30:32,277 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:30:41,777 ERROR [master-db] master db not found.
+
+2020-01-09 11:30:46,294 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:30:55,792 ERROR [master-db] master db not found.
+
+2020-01-09 11:31:00,311 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:31:09,824 ERROR [master-db] master db not found.
+
+2020-01-09 11:31:14,327 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:31:23,843 ERROR [master-db] master db not found.
+
+2020-01-09 11:31:28,345 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:31:37,866 ERROR [master-db] master db not found.
+
+2020-01-09 11:31:42,364 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:31:51,883 ERROR [master-db] master db not found.
+
+2020-01-09 11:31:56,382 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:32:05,902 ERROR [master-db] master db not found.
+
+2020-01-09 11:32:10,397 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:32:19,922 ERROR [master-db] master db not found.
+
+2020-01-09 11:32:24,413 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:32:33,945 ERROR [master-db] master db not found.
+
+2020-01-09 11:32:38,426 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:32:47,970 ERROR [master-db] master db not found.
+
+2020-01-09 11:32:52,446 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:33:01,994 ERROR [master-db] master db not found.
+
+2020-01-09 11:33:06,468 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:33:16,020 ERROR [master-db] master db not found.
+
+2020-01-09 11:33:20,489 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:33:30,045 ERROR [master-db] master db not found.
+
+2020-01-09 11:33:34,510 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:33:44,080 ERROR [master-db] master db not found.
+
+2020-01-09 11:33:48,547 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:33:58,110 ERROR [master-db] master db not found.
+
+2020-01-09 11:34:02,570 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:34:12,138 ERROR [master-db] master db not found.
+
+2020-01-09 11:34:16,597 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:34:26,167 ERROR [master-db] master db not found.
+
+2020-01-09 11:34:30,616 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:34:40,196 ERROR [master-db] master db not found.
+
+2020-01-09 11:34:44,643 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:34:54,217 ERROR [master-db] master db not found.
+
+2020-01-09 11:34:58,660 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:35:08,245 ERROR [master-db] master db not found.
+
+2020-01-09 11:35:12,681 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:35:22,277 ERROR [master-db] master db not found.
+
+2020-01-09 11:35:26,703 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:35:36,299 ERROR [master-db] master db not found.
+
+2020-01-09 11:35:40,724 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:35:50,317 ERROR [master-db] master db not found.
+
+2020-01-09 11:35:54,740 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:36:04,341 ERROR [master-db] master db not found.
+
+2020-01-09 11:36:08,760 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:36:18,361 ERROR [master-db] master db not found.
+
+2020-01-09 11:36:22,781 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:36:32,383 ERROR [master-db] master db not found.
+
+2020-01-09 11:36:36,798 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:36:46,403 ERROR [master-db] master db not found.
+
+2020-01-09 11:36:50,819 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:37:00,421 ERROR [master-db] master db not found.
+
+2020-01-09 11:37:04,834 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:37:14,438 ERROR [master-db] master db not found.
+
+2020-01-09 11:37:19,012 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:37:28,459 ERROR [master-db] master db not found.
+
+2020-01-09 11:37:33,029 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:37:42,477 ERROR [master-db] master db not found.
+
+2020-01-09 11:37:47,046 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:37:56,499 ERROR [master-db] master db not found.
+
+2020-01-09 11:38:01,069 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:38:10,521 ERROR [master-db] master db not found.
+
+2020-01-09 11:38:15,085 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:38:24,533 ERROR [master-db] master db not found.
+
+2020-01-09 11:38:29,104 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:38:38,553 ERROR [master-db] master db not found.
+
+2020-01-09 11:38:43,126 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:38:52,571 ERROR [master-db] master db not found.
+
+2020-01-09 11:38:57,139 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:39:06,591 ERROR [master-db] master db not found.
+
+2020-01-09 11:39:11,155 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:39:20,612 ERROR [master-db] master db not found.
+
+2020-01-09 11:39:25,168 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:39:34,636 ERROR [master-db] master db not found.
+
+2020-01-09 11:39:39,193 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:39:48,655 ERROR [master-db] master db not found.
+
+2020-01-09 11:39:53,210 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:40:02,677 ERROR [master-db] master db not found.
+
+2020-01-09 11:40:07,230 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:40:16,695 ERROR [master-db] master db not found.
+
+2020-01-09 11:40:21,251 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:40:30,717 ERROR [master-db] master db not found.
+
+2020-01-09 11:40:35,269 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:40:44,736 ERROR [master-db] master db not found.
+
+2020-01-09 11:40:49,291 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:40:58,761 ERROR [master-db] master db not found.
+
+2020-01-09 11:41:03,305 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:41:12,779 ERROR [master-db] master db not found.
+
+2020-01-09 11:41:17,322 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:41:26,803 ERROR [master-db] master db not found.
+
+2020-01-09 11:41:31,334 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:41:40,825 ERROR [master-db] master db not found.
+
+2020-01-09 11:41:45,356 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:41:54,844 ERROR [master-db] master db not found.
+
+2020-01-09 11:41:59,371 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:42:08,865 ERROR [master-db] master db not found.
+
+2020-01-09 11:42:13,391 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:42:22,888 ERROR [master-db] master db not found.
+
+2020-01-09 11:42:27,408 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:42:36,913 ERROR [master-db] master db not found.
+
+2020-01-09 11:42:41,426 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:42:50,929 ERROR [master-db] master db not found.
+
+2020-01-09 11:42:55,446 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:43:04,951 ERROR [master-db] master db not found.
+
+2020-01-09 11:43:09,468 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:43:18,974 ERROR [master-db] master db not found.
+
+2020-01-09 11:43:23,490 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:43:32,997 ERROR [master-db] master db not found.
+
+2020-01-09 11:43:37,511 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:43:47,016 ERROR [master-db] master db not found.
+
+2020-01-09 11:43:51,528 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:44:01,037 ERROR [master-db] master db not found.
+
+2020-01-09 11:44:05,547 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:44:15,057 ERROR [master-db] master db not found.
+
+2020-01-09 11:44:19,564 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:44:29,074 ERROR [master-db] master db not found.
+
+2020-01-09 11:44:33,587 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:44:43,097 ERROR [master-db] master db not found.
+
+2020-01-09 11:44:47,606 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:44:57,115 ERROR [master-db] master db not found.
+
+2020-01-09 11:45:01,626 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:45:11,139 ERROR [master-db] master db not found.
+
+2020-01-09 11:45:15,645 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:45:25,156 ERROR [master-db] master db not found.
+
+2020-01-09 11:45:29,665 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:45:39,177 ERROR [master-db] master db not found.
+
+2020-01-09 11:45:43,681 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:45:53,202 ERROR [master-db] master db not found.
+
+2020-01-09 11:45:57,694 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:46:07,221 ERROR [master-db] master db not found.
+
+2020-01-09 11:46:11,708 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:46:21,246 ERROR [master-db] master db not found.
+
+2020-01-09 11:46:25,725 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:46:35,269 ERROR [master-db] master db not found.
+
+2020-01-09 11:46:39,743 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:46:49,288 ERROR [master-db] master db not found.
+
+2020-01-09 11:46:53,757 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:47:03,310 ERROR [master-db] master db not found.
+
+2020-01-09 11:47:07,774 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:47:17,327 ERROR [master-db] master db not found.
+
+2020-01-09 11:47:21,789 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:47:31,348 ERROR [master-db] master db not found.
+
+2020-01-09 11:47:35,802 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:47:45,368 ERROR [master-db] master db not found.
+
+2020-01-09 11:47:49,817 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:47:59,383 ERROR [master-db] master db not found.
+
+2020-01-09 11:48:03,834 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:48:13,403 ERROR [master-db] master db not found.
+
+2020-01-09 11:48:17,852 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:48:27,425 ERROR [master-db] master db not found.
+
+2020-01-09 11:48:31,866 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:48:41,440 ERROR [master-db] master db not found.
+
+2020-01-09 11:48:45,881 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:48:55,459 ERROR [master-db] master db not found.
+
+2020-01-09 11:48:59,901 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:49:09,476 ERROR [master-db] master db not found.
+
+2020-01-09 11:49:13,918 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:49:23,499 ERROR [master-db] master db not found.
+
+2020-01-09 11:49:27,935 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:49:37,517 ERROR [master-db] master db not found.
+
+2020-01-09 11:49:41,953 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:49:51,533 ERROR [master-db] master db not found.
+
+2020-01-09 11:49:55,969 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:50:05,547 ERROR [master-db] master db not found.
+
+2020-01-09 11:50:09,987 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:50:19,565 ERROR [master-db] master db not found.
+
+2020-01-09 11:50:24,005 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:50:33,587 ERROR [master-db] master db not found.
+
+2020-01-09 11:50:38,026 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:50:47,617 ERROR [master-db] master db not found.
+
+2020-01-09 11:50:52,047 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:51:01,642 ERROR [master-db] master db not found.
+
+2020-01-09 11:51:06,064 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:51:15,667 ERROR [master-db] master db not found.
+
+2020-01-09 11:51:20,084 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:51:29,689 ERROR [master-db] master db not found.
+
+2020-01-09 11:51:34,103 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:51:43,712 ERROR [master-db] master db not found.
+
+2020-01-09 11:51:48,128 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:51:57,734 ERROR [master-db] master db not found.
+
+2020-01-09 11:52:02,149 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:52:11,756 ERROR [master-db] master db not found.
+
+2020-01-09 11:52:16,164 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:52:25,772 ERROR [master-db] master db not found.
+
+2020-01-09 11:52:30,177 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:52:39,792 ERROR [master-db] master db not found.
+
+2020-01-09 11:52:44,197 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:52:53,814 ERROR [master-db] master db not found.
+
+2020-01-09 11:52:58,208 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:53:07,836 ERROR [master-db] master db not found.
+
+2020-01-09 11:53:12,226 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:53:21,851 ERROR [master-db] master db not found.
+
+2020-01-09 11:53:26,247 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:53:35,872 ERROR [master-db] master db not found.
+
+2020-01-09 11:53:40,269 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:53:49,893 ERROR [master-db] master db not found.
+
+2020-01-09 11:53:54,287 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:54:03,913 ERROR [master-db] master db not found.
+
+2020-01-09 11:54:08,302 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:54:17,935 ERROR [master-db] master db not found.
+
+2020-01-09 11:54:22,319 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:54:31,959 ERROR [master-db] master db not found.
+
+2020-01-09 11:54:36,344 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:54:45,986 ERROR [master-db] master db not found.
+
+2020-01-09 11:54:50,363 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:55:00,003 ERROR [master-db] master db not found.
+
+2020-01-09 11:55:04,378 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:55:14,024 ERROR [master-db] master db not found.
+
+2020-01-09 11:55:18,403 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:55:28,044 ERROR [master-db] master db not found.
+
+2020-01-09 11:55:32,422 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:55:42,064 ERROR [master-db] master db not found.
+
+2020-01-09 11:55:46,442 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:55:56,082 ERROR [master-db] master db not found.
+
+2020-01-09 11:56:00,463 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:56:10,106 ERROR [master-db] master db not found.
+
+2020-01-09 11:56:14,476 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:56:24,125 ERROR [master-db] master db not found.
+
+2020-01-09 11:56:28,494 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:56:38,141 ERROR [master-db] master db not found.
+
+2020-01-09 11:56:42,513 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:56:52,161 ERROR [master-db] master db not found.
+
+2020-01-09 11:56:56,532 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:57:06,184 ERROR [master-db] master db not found.
+
+2020-01-09 11:57:10,547 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:57:20,203 ERROR [master-db] master db not found.
+
+2020-01-09 11:57:24,568 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:57:34,233 ERROR [master-db] master db not found.
+
+2020-01-09 11:57:38,586 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:57:48,261 ERROR [master-db] master db not found.
+
+2020-01-09 11:57:52,603 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:58:02,291 ERROR [master-db] master db not found.
+
+2020-01-09 11:58:06,627 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:58:16,313 ERROR [master-db] master db not found.
+
+2020-01-09 11:58:20,641 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:58:30,342 ERROR [master-db] master db not found.
+
+2020-01-09 11:58:34,669 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:58:44,364 ERROR [master-db] master db not found.
+
+2020-01-09 11:58:48,693 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:58:58,387 ERROR [master-db] master db not found.
+
+2020-01-09 11:59:02,723 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:59:12,411 ERROR [master-db] master db not found.
+
+2020-01-09 11:59:16,745 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:59:26,432 ERROR [master-db] master db not found.
+
+2020-01-09 11:59:30,770 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:59:40,464 ERROR [master-db] master db not found.
+
+2020-01-09 11:59:44,791 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 11:59:54,485 ERROR [master-db] master db not found.
+
+2020-01-09 11:59:58,812 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:00:08,513 ERROR [master-db] master db not found.
+
+2020-01-09 12:00:12,851 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:00:22,542 ERROR [master-db] master db not found.
+
+2020-01-09 12:00:26,877 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:00:36,566 ERROR [master-db] master db not found.
+
+2020-01-09 12:00:40,896 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:00:50,587 ERROR [master-db] master db not found.
+
+2020-01-09 12:00:54,917 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:01:04,612 ERROR [master-db] master db not found.
+
+2020-01-09 12:01:08,945 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:01:18,634 ERROR [master-db] master db not found.
+
+2020-01-09 12:01:22,968 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:01:32,656 ERROR [master-db] master db not found.
+
+2020-01-09 12:01:36,988 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:01:46,682 ERROR [master-db] master db not found.
+
+2020-01-09 12:01:51,006 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:02:00,707 ERROR [master-db] master db not found.
+
+2020-01-09 12:02:05,025 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:02:14,725 ERROR [master-db] master db not found.
+
+2020-01-09 12:02:19,046 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:02:28,764 ERROR [master-db] master db not found.
+
+2020-01-09 12:02:33,068 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:02:42,783 ERROR [master-db] master db not found.
+
+2020-01-09 12:02:47,092 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:02:56,809 ERROR [master-db] master db not found.
+
+2020-01-09 12:03:01,112 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:03:10,828 ERROR [master-db] master db not found.
+
+2020-01-09 12:03:15,130 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:03:24,850 ERROR [master-db] master db not found.
+
+2020-01-09 12:03:29,155 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:03:38,870 ERROR [master-db] master db not found.
+
+2020-01-09 12:03:43,168 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:03:52,893 ERROR [master-db] master db not found.
+
+2020-01-09 12:03:57,187 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:04:06,915 ERROR [master-db] master db not found.
+
+2020-01-09 12:04:11,206 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:04:20,934 ERROR [master-db] master db not found.
+
+2020-01-09 12:04:25,224 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:04:34,955 ERROR [master-db] master db not found.
+
+2020-01-09 12:04:39,236 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:04:48,974 ERROR [master-db] master db not found.
+
+2020-01-09 12:04:53,247 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:05:02,994 ERROR [master-db] master db not found.
+
+2020-01-09 12:05:07,264 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:05:17,015 ERROR [master-db] master db not found.
+
+2020-01-09 12:05:21,287 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:05:31,038 ERROR [master-db] master db not found.
+
+2020-01-09 12:05:35,305 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:05:45,061 ERROR [master-db] master db not found.
+
+2020-01-09 12:05:49,327 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:05:59,090 ERROR [master-db] master db not found.
+
+2020-01-09 12:06:03,352 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:06:13,118 ERROR [master-db] master db not found.
+
+2020-01-09 12:06:17,376 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:06:27,148 ERROR [master-db] master db not found.
+
+2020-01-09 12:06:31,396 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:06:41,177 ERROR [master-db] master db not found.
+
+2020-01-09 12:06:45,418 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:06:55,202 ERROR [master-db] master db not found.
+
+2020-01-09 12:06:59,440 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:07:09,220 ERROR [master-db] master db not found.
+
+2020-01-09 12:07:13,462 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:07:23,245 ERROR [master-db] master db not found.
+
+2020-01-09 12:07:27,485 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:07:37,268 ERROR [master-db] master db not found.
+
+2020-01-09 12:07:41,505 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:07:51,289 ERROR [master-db] master db not found.
+
+2020-01-09 12:07:55,527 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:08:05,311 ERROR [master-db] master db not found.
+
+2020-01-09 12:08:09,546 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:08:19,332 ERROR [master-db] master db not found.
+
+2020-01-09 12:08:23,566 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:08:33,352 ERROR [master-db] master db not found.
+
+2020-01-09 12:08:37,589 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:08:47,373 ERROR [master-db] master db not found.
+
+2020-01-09 12:08:51,609 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:09:01,398 ERROR [master-db] master db not found.
+
+2020-01-09 12:09:05,626 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:09:15,417 ERROR [master-db] master db not found.
+
+2020-01-09 12:09:19,642 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:09:29,438 ERROR [master-db] master db not found.
+
+2020-01-09 12:09:33,662 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:09:43,460 ERROR [master-db] master db not found.
+
+2020-01-09 12:09:47,683 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:09:57,485 ERROR [master-db] master db not found.
+
+2020-01-09 12:10:01,701 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:10:11,505 ERROR [master-db] master db not found.
+
+2020-01-09 12:10:15,719 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:10:25,524 ERROR [master-db] master db not found.
+
+2020-01-09 12:10:29,737 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:10:39,541 ERROR [master-db] master db not found.
+
+2020-01-09 12:10:43,755 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:10:53,561 ERROR [master-db] master db not found.
+
+2020-01-09 12:10:57,769 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:11:07,581 ERROR [master-db] master db not found.
+
+2020-01-09 12:11:11,786 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:11:21,598 ERROR [master-db] master db not found.
+
+2020-01-09 12:11:25,806 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:11:35,615 ERROR [master-db] master db not found.
+
+2020-01-09 12:11:39,825 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:11:49,630 ERROR [master-db] master db not found.
+
+2020-01-09 12:11:53,836 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:12:03,645 ERROR [master-db] master db not found.
+
+2020-01-09 12:12:07,851 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:12:17,665 ERROR [master-db] master db not found.
+
+2020-01-09 12:12:21,867 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:12:31,683 ERROR [master-db] master db not found.
+
+2020-01-09 12:12:35,885 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:12:45,700 ERROR [master-db] master db not found.
+
+2020-01-09 12:12:49,905 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:12:59,724 ERROR [master-db] master db not found.
+
+2020-01-09 12:13:03,920 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:13:13,739 ERROR [master-db] master db not found.
+
+2020-01-09 12:13:17,936 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:13:27,758 ERROR [master-db] master db not found.
+
+2020-01-09 12:13:31,949 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:13:41,781 ERROR [master-db] master db not found.
+
+2020-01-09 12:13:45,965 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:13:55,802 ERROR [master-db] master db not found.
+
+2020-01-09 12:13:59,983 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:14:09,817 ERROR [master-db] master db not found.
+
+2020-01-09 12:14:14,002 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:14:23,834 ERROR [master-db] master db not found.
+
+2020-01-09 12:14:28,021 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:14:37,855 ERROR [master-db] master db not found.
+
+2020-01-09 12:14:42,041 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:14:51,880 ERROR [master-db] master db not found.
+
+2020-01-09 12:14:56,063 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:15:05,915 ERROR [master-db] master db not found.
+
+2020-01-09 12:15:10,081 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:15:19,939 ERROR [master-db] master db not found.
+
+2020-01-09 12:15:24,094 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:15:33,961 ERROR [master-db] master db not found.
+
+2020-01-09 12:15:38,117 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:15:47,984 ERROR [master-db] master db not found.
+
+2020-01-09 12:15:52,136 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:16:02,011 ERROR [master-db] master db not found.
+
+2020-01-09 12:16:06,151 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:16:16,032 ERROR [master-db] master db not found.
+
+2020-01-09 12:16:20,169 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:16:30,050 ERROR [master-db] master db not found.
+
+2020-01-09 12:16:34,184 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:16:44,067 ERROR [master-db] master db not found.
+
+2020-01-09 12:16:48,203 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:16:58,083 ERROR [master-db] master db not found.
+
+2020-01-09 12:17:02,216 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:17:12,101 ERROR [master-db] master db not found.
+
+2020-01-09 12:17:16,231 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:17:26,114 ERROR [master-db] master db not found.
+
+2020-01-09 12:17:30,245 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:17:40,133 ERROR [master-db] master db not found.
+
+2020-01-09 12:17:44,264 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:17:54,154 ERROR [master-db] master db not found.
+
+2020-01-09 12:17:58,282 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:18:08,174 ERROR [master-db] master db not found.
+
+2020-01-09 12:18:12,304 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:18:22,193 ERROR [master-db] master db not found.
+
+2020-01-09 12:18:26,323 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:18:36,212 ERROR [master-db] master db not found.
+
+2020-01-09 12:18:40,341 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:18:50,235 ERROR [master-db] master db not found.
+
+2020-01-09 12:18:54,361 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:19:04,257 ERROR [master-db] master db not found.
+
+2020-01-09 12:19:08,385 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:19:18,276 ERROR [master-db] master db not found.
+
+2020-01-09 12:19:22,400 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:19:32,296 ERROR [master-db] master db not found.
+
+2020-01-09 12:19:36,419 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:19:46,314 ERROR [master-db] master db not found.
+
+2020-01-09 12:19:50,438 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:20:00,335 ERROR [master-db] master db not found.
+
+2020-01-09 12:20:04,456 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:20:14,358 ERROR [master-db] master db not found.
+
+2020-01-09 12:20:18,470 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:20:28,386 ERROR [master-db] master db not found.
+
+2020-01-09 12:20:32,491 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:20:42,404 ERROR [master-db] master db not found.
+
+2020-01-09 12:20:46,508 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:20:56,422 ERROR [master-db] master db not found.
+
+2020-01-09 12:21:00,526 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:21:10,440 ERROR [master-db] master db not found.
+
+2020-01-09 12:21:14,546 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:21:24,465 ERROR [master-db] master db not found.
+
+2020-01-09 12:21:28,563 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:21:38,489 ERROR [master-db] master db not found.
+
+2020-01-09 12:21:42,578 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:21:52,518 ERROR [master-db] master db not found.
+
+2020-01-09 12:21:56,610 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:22:06,543 ERROR [master-db] master db not found.
+
+2020-01-09 12:22:10,634 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:22:20,566 ERROR [master-db] master db not found.
+
+2020-01-09 12:22:24,650 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:22:34,587 ERROR [master-db] master db not found.
+
+2020-01-09 12:22:38,671 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:22:48,611 ERROR [master-db] master db not found.
+
+2020-01-09 12:22:52,695 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:23:02,637 ERROR [master-db] master db not found.
+
+2020-01-09 12:23:06,715 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:23:16,658 ERROR [master-db] master db not found.
+
+2020-01-09 12:23:20,734 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:23:30,679 ERROR [master-db] master db not found.
+
+2020-01-09 12:23:34,757 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:23:44,705 ERROR [master-db] master db not found.
+
+2020-01-09 12:23:48,779 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:23:58,725 ERROR [master-db] master db not found.
+
+2020-01-09 12:24:02,799 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:24:12,745 ERROR [master-db] master db not found.
+
+2020-01-09 12:24:16,822 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:24:26,768 ERROR [master-db] master db not found.
+
+2020-01-09 12:24:30,839 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:24:40,786 ERROR [master-db] master db not found.
+
+2020-01-09 12:24:44,859 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:24:54,826 ERROR [master-db] master db not found.
+
+2020-01-09 12:24:58,876 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:25:08,846 ERROR [master-db] master db not found.
+
+2020-01-09 12:25:12,889 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:25:22,869 ERROR [master-db] master db not found.
+
+2020-01-09 12:25:26,909 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:25:37,121 ERROR [master-db] master db not found.
+
+2020-01-09 12:25:41,134 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:25:51,145 ERROR [master-db] master db not found.
+
+2020-01-09 12:25:55,160 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:26:05,165 ERROR [master-db] master db not found.
+
+2020-01-09 12:26:09,182 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:26:19,178 ERROR [master-db] master db not found.
+
+2020-01-09 12:26:23,205 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:26:33,200 ERROR [master-db] master db not found.
+
+2020-01-09 12:26:37,219 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:26:47,222 ERROR [master-db] master db not found.
+
+2020-01-09 12:26:51,232 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:27:01,247 ERROR [master-db] master db not found.
+
+2020-01-09 12:27:05,251 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:27:15,268 ERROR [master-db] master db not found.
+
+2020-01-09 12:27:19,280 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:27:29,292 ERROR [master-db] master db not found.
+
+2020-01-09 12:27:33,307 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:27:43,318 ERROR [master-db] master db not found.
+
+2020-01-09 12:27:47,327 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:27:57,337 ERROR [master-db] master db not found.
+
+2020-01-09 12:28:01,355 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:28:11,363 ERROR [master-db] master db not found.
+
+2020-01-09 12:28:15,375 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:28:25,379 ERROR [master-db] master db not found.
+
+2020-01-09 12:28:29,391 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:28:39,416 ERROR [master-db] master db not found.
+
+2020-01-09 12:28:43,434 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:28:53,452 ERROR [master-db] master db not found.
+
+2020-01-09 12:28:57,477 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:29:07,506 ERROR [master-db] master db not found.
+
+2020-01-09 12:29:11,518 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:29:21,531 ERROR [master-db] master db not found.
+
+2020-01-09 12:29:25,547 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:29:35,557 ERROR [master-db] master db not found.
+
+2020-01-09 12:29:39,572 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:29:49,574 ERROR [master-db] master db not found.
+
+2020-01-09 12:29:53,595 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:30:03,613 ERROR [master-db] master db not found.
+
+2020-01-09 12:30:07,625 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:30:17,671 ERROR [master-db] master db not found.
+
+2020-01-09 12:30:21,686 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:30:31,683 ERROR [master-db] master db not found.
+
+2020-01-09 12:30:35,712 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:45:26,670 ERROR [master-db] master db not found.
+
+2020-01-09 12:45:30,681 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:45:40,687 ERROR [master-db] master db not found.
+
+2020-01-09 12:45:44,700 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:45:54,708 ERROR [master-db] master db not found.
+
+2020-01-09 12:45:58,716 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:46:08,732 ERROR [master-db] master db not found.
+
+2020-01-09 12:46:12,747 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:46:22,753 ERROR [master-db] master db not found.
+
+2020-01-09 12:46:26,767 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:46:36,776 ERROR [master-db] master db not found.
+
+2020-01-09 12:46:40,789 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:46:50,791 ERROR [master-db] master db not found.
+
+2020-01-09 12:46:54,805 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:47:04,811 ERROR [master-db] master db not found.
+
+2020-01-09 12:47:08,828 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:47:18,841 ERROR [master-db] master db not found.
+
+2020-01-09 12:47:22,856 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:47:32,862 ERROR [master-db] master db not found.
+
+2020-01-09 12:47:36,869 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:47:46,882 ERROR [master-db] master db not found.
+
+2020-01-09 12:47:50,895 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:48:00,902 ERROR [master-db] master db not found.
+
+2020-01-09 12:48:04,916 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:48:14,920 ERROR [master-db] master db not found.
+
+2020-01-09 12:48:18,936 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:48:28,943 ERROR [master-db] master db not found.
+
+2020-01-09 12:48:32,957 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:48:42,962 ERROR [master-db] master db not found.
+
+2020-01-09 12:48:46,978 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:48:56,982 ERROR [master-db] master db not found.
+
+2020-01-09 12:49:00,993 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:49:11,002 ERROR [master-db] master db not found.
+
+2020-01-09 12:49:15,013 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:49:25,021 ERROR [master-db] master db not found.
+
+2020-01-09 12:49:29,032 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:49:39,045 ERROR [master-db] master db not found.
+
+2020-01-09 12:49:43,055 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:49:53,063 ERROR [master-db] master db not found.
+
+2020-01-09 12:49:57,075 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:50:07,081 ERROR [master-db] master db not found.
+
+2020-01-09 12:50:11,094 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:50:21,098 ERROR [master-db] master db not found.
+
+2020-01-09 12:50:25,110 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:50:35,114 ERROR [master-db] master db not found.
+
+2020-01-09 12:50:39,127 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:50:49,137 ERROR [master-db] master db not found.
+
+2020-01-09 12:50:53,150 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:51:03,159 ERROR [master-db] master db not found.
+
+2020-01-09 12:51:07,170 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:51:17,181 ERROR [master-db] master db not found.
+
+2020-01-09 12:51:21,191 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:51:31,202 ERROR [master-db] master db not found.
+
+2020-01-09 12:51:35,216 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:51:45,222 ERROR [master-db] master db not found.
+
+2020-01-09 12:51:49,233 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:51:59,244 ERROR [master-db] master db not found.
+
+2020-01-09 12:52:03,259 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:52:13,267 ERROR [master-db] master db not found.
+
+2020-01-09 12:52:17,280 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:52:27,291 ERROR [master-db] master db not found.
+
+2020-01-09 12:52:31,304 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:52:41,310 ERROR [master-db] master db not found.
+
+2020-01-09 12:52:45,324 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:52:55,331 ERROR [master-db] master db not found.
+
+2020-01-09 12:52:59,346 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:53:09,352 ERROR [master-db] master db not found.
+
+2020-01-09 12:53:13,367 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:53:23,371 ERROR [master-db] master db not found.
+
+2020-01-09 12:53:27,385 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:53:37,393 ERROR [master-db] master db not found.
+
+2020-01-09 12:53:41,403 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:53:51,409 ERROR [master-db] master db not found.
+
+2020-01-09 12:53:55,422 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:54:05,430 ERROR [master-db] master db not found.
+
+2020-01-09 12:54:09,440 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:54:19,447 ERROR [master-db] master db not found.
+
+2020-01-09 12:54:23,463 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:54:33,466 ERROR [master-db] master db not found.
+
+2020-01-09 12:54:37,479 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:54:47,485 ERROR [master-db] master db not found.
+
+2020-01-09 12:54:51,495 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:55:01,510 ERROR [master-db] master db not found.
+
+2020-01-09 12:55:05,528 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:55:15,537 ERROR [master-db] master db not found.
+
+2020-01-09 12:55:19,550 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:55:29,560 ERROR [master-db] master db not found.
+
+2020-01-09 12:55:33,571 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:55:43,586 ERROR [master-db] master db not found.
+
+2020-01-09 12:55:47,599 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:55:57,607 ERROR [master-db] master db not found.
+
+2020-01-09 12:56:01,620 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:56:11,630 ERROR [master-db] master db not found.
+
+2020-01-09 12:56:15,643 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:56:25,647 ERROR [master-db] master db not found.
+
+2020-01-09 12:56:29,664 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:56:39,667 ERROR [master-db] master db not found.
+
+2020-01-09 12:56:43,680 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:56:53,688 ERROR [master-db] master db not found.
+
+2020-01-09 12:56:57,697 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:57:07,709 ERROR [master-db] master db not found.
+
+2020-01-09 12:57:11,720 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:57:21,730 ERROR [master-db] master db not found.
+
+2020-01-09 12:57:25,746 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:57:35,749 ERROR [master-db] master db not found.
+
+2020-01-09 12:57:39,761 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:57:49,768 ERROR [master-db] master db not found.
+
+2020-01-09 12:57:53,782 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:58:03,787 ERROR [master-db] master db not found.
+
+2020-01-09 12:58:07,801 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:58:17,807 ERROR [master-db] master db not found.
+
+2020-01-09 12:58:21,818 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:58:31,830 ERROR [master-db] master db not found.
+
+2020-01-09 12:58:35,840 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:58:45,856 ERROR [master-db] master db not found.
+
+2020-01-09 12:58:49,868 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:58:59,875 ERROR [master-db] master db not found.
+
+2020-01-09 12:59:03,889 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:59:13,891 ERROR [master-db] master db not found.
+
+2020-01-09 12:59:17,898 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:59:27,917 ERROR [master-db] master db not found.
+
+2020-01-09 12:59:31,924 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:59:41,940 ERROR [master-db] master db not found.
+
+2020-01-09 12:59:45,952 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 12:59:55,961 ERROR [master-db] master db not found.
+
+2020-01-09 12:59:59,974 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:00:09,977 ERROR [master-db] master db not found.
+
+2020-01-09 13:00:13,990 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:00:24,000 ERROR [master-db] master db not found.
+
+2020-01-09 13:00:28,015 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:00:38,022 ERROR [master-db] master db not found.
+
+2020-01-09 13:00:42,037 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:00:52,040 ERROR [master-db] master db not found.
+
+2020-01-09 13:00:56,053 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:01:06,058 ERROR [master-db] master db not found.
+
+2020-01-09 13:01:10,073 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:01:20,071 ERROR [master-db] master db not found.
+
+2020-01-09 13:01:24,087 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:01:34,092 ERROR [master-db] master db not found.
+
+2020-01-09 13:01:38,105 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:01:48,115 ERROR [master-db] master db not found.
+
+2020-01-09 13:01:52,126 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:02:02,136 ERROR [master-db] master db not found.
+
+2020-01-09 13:02:06,148 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:02:16,157 ERROR [master-db] master db not found.
+
+2020-01-09 13:02:20,168 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:02:30,174 ERROR [master-db] master db not found.
+
+2020-01-09 13:02:34,187 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:02:44,197 ERROR [master-db] master db not found.
+
+2020-01-09 13:02:48,212 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:02:58,214 ERROR [master-db] master db not found.
+
+2020-01-09 13:03:02,224 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:03:12,233 ERROR [master-db] master db not found.
+
+2020-01-09 13:03:16,248 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:03:26,256 ERROR [master-db] master db not found.
+
+2020-01-09 13:03:30,266 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:03:40,277 ERROR [master-db] master db not found.
+
+2020-01-09 13:03:44,289 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:03:54,292 ERROR [master-db] master db not found.
+
+2020-01-09 13:03:58,306 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:04:08,307 ERROR [master-db] master db not found.
+
+2020-01-09 13:04:12,316 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:04:22,332 ERROR [master-db] master db not found.
+
+2020-01-09 13:04:26,343 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:04:36,346 ERROR [master-db] master db not found.
+
+2020-01-09 13:04:40,356 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:04:50,369 ERROR [master-db] master db not found.
+
+2020-01-09 13:04:54,379 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:05:04,389 ERROR [master-db] master db not found.
+
+2020-01-09 13:05:08,401 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:05:18,411 ERROR [master-db] master db not found.
+
+2020-01-09 13:05:22,428 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:05:32,430 ERROR [master-db] master db not found.
+
+2020-01-09 13:05:36,446 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:05:46,450 ERROR [master-db] master db not found.
+
+2020-01-09 13:05:50,460 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:06:00,468 ERROR [master-db] master db not found.
+
+2020-01-09 13:06:04,480 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:06:14,489 ERROR [master-db] master db not found.
+
+2020-01-09 13:06:18,502 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:06:28,504 ERROR [master-db] master db not found.
+
+2020-01-09 13:06:32,519 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:06:42,523 ERROR [master-db] master db not found.
+
+2020-01-09 13:06:46,534 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:06:56,542 ERROR [master-db] master db not found.
+
+2020-01-09 13:07:00,555 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:07:10,562 ERROR [master-db] master db not found.
+
+2020-01-09 13:07:14,571 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:07:24,580 ERROR [master-db] master db not found.
+
+2020-01-09 13:07:28,591 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:07:38,601 ERROR [master-db] master db not found.
+
+2020-01-09 13:07:42,611 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:07:52,623 ERROR [master-db] master db not found.
+
+2020-01-09 13:07:56,634 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:08:06,643 ERROR [master-db] master db not found.
+
+2020-01-09 13:08:10,657 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:08:20,661 ERROR [master-db] master db not found.
+
+2020-01-09 13:08:24,673 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:08:34,676 ERROR [master-db] master db not found.
+
+2020-01-09 13:08:38,687 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:08:48,705 ERROR [master-db] master db not found.
+
+2020-01-09 13:08:52,719 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:32:52,201 ERROR [master-db] master db not found.
+
+2020-01-09 13:32:56,212 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:33:06,226 ERROR [master-db] master db not found.
+
+2020-01-09 13:33:10,237 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:33:20,248 ERROR [master-db] master db not found.
+
+2020-01-09 13:33:24,253 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:33:34,267 ERROR [master-db] master db not found.
+
+2020-01-09 13:33:38,282 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:33:48,291 ERROR [master-db] master db not found.
+
+2020-01-09 13:33:52,305 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:34:02,306 ERROR [master-db] master db not found.
+
+2020-01-09 13:34:06,321 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:34:16,328 ERROR [master-db] master db not found.
+
+2020-01-09 13:34:20,338 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:34:30,351 ERROR [master-db] master db not found.
+
+2020-01-09 13:34:34,364 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:34:44,367 ERROR [master-db] master db not found.
+
+2020-01-09 13:34:48,379 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:34:58,393 ERROR [master-db] master db not found.
+
+2020-01-09 13:35:02,402 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:35:12,418 ERROR [master-db] master db not found.
+
+2020-01-09 13:35:16,430 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:35:26,435 ERROR [master-db] master db not found.
+
+2020-01-09 13:35:30,450 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:35:40,454 ERROR [master-db] master db not found.
+
+2020-01-09 13:35:44,469 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:35:54,479 ERROR [master-db] master db not found.
+
+2020-01-09 13:35:58,489 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:36:08,501 ERROR [master-db] master db not found.
+
+2020-01-09 13:36:12,509 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:36:22,515 ERROR [master-db] master db not found.
+
+2020-01-09 13:36:26,528 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:36:36,533 ERROR [master-db] master db not found.
+
+2020-01-09 13:36:40,539 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:36:50,551 ERROR [master-db] master db not found.
+
+2020-01-09 13:36:54,564 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:37:04,567 ERROR [master-db] master db not found.
+
+2020-01-09 13:37:08,579 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:37:18,590 ERROR [master-db] master db not found.
+
+2020-01-09 13:37:22,601 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:37:32,607 ERROR [master-db] master db not found.
+
+2020-01-09 13:37:36,622 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:37:46,625 ERROR [master-db] master db not found.
+
+2020-01-09 13:37:50,635 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:38:00,648 ERROR [master-db] master db not found.
+
+2020-01-09 13:38:04,659 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:38:14,666 ERROR [master-db] master db not found.
+
+2020-01-09 13:38:18,677 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:38:28,683 ERROR [master-db] master db not found.
+
+2020-01-09 13:38:32,695 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:38:42,699 ERROR [master-db] master db not found.
+
+2020-01-09 13:38:46,713 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:38:56,718 ERROR [master-db] master db not found.
+
+2020-01-09 13:39:00,734 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:39:10,737 ERROR [master-db] master db not found.
+
+2020-01-09 13:39:14,752 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:39:24,759 ERROR [master-db] master db not found.
+
+2020-01-09 13:39:28,775 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:39:38,784 ERROR [master-db] master db not found.
+
+2020-01-09 13:39:42,794 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:39:52,804 ERROR [master-db] master db not found.
+
+2020-01-09 13:39:56,815 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:40:06,820 ERROR [master-db] master db not found.
+
+2020-01-09 13:40:10,833 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:40:20,838 ERROR [master-db] master db not found.
+
+2020-01-09 13:40:24,852 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:40:34,858 ERROR [master-db] master db not found.
+
+2020-01-09 13:40:38,871 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:40:48,881 ERROR [master-db] master db not found.
+
+2020-01-09 13:40:52,890 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:41:02,897 ERROR [master-db] master db not found.
+
+2020-01-09 13:41:06,907 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:41:16,918 ERROR [master-db] master db not found.
+
+2020-01-09 13:41:20,929 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:41:30,940 ERROR [master-db] master db not found.
+
+2020-01-09 13:41:34,950 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:41:44,963 ERROR [master-db] master db not found.
+
+2020-01-09 13:41:48,973 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:41:58,986 ERROR [master-db] master db not found.
+
+2020-01-09 13:42:02,996 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:42:13,003 ERROR [master-db] master db not found.
+
+2020-01-09 13:42:17,016 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:42:27,024 ERROR [master-db] master db not found.
+
+2020-01-09 13:42:31,037 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:42:41,039 ERROR [master-db] master db not found.
+
+2020-01-09 13:42:45,052 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:42:55,065 ERROR [master-db] master db not found.
+
+2020-01-09 13:42:59,075 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:43:09,081 ERROR [master-db] master db not found.
+
+2020-01-09 13:43:13,096 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:43:23,097 ERROR [master-db] master db not found.
+
+2020-01-09 13:43:27,112 ERROR [db-error] master db 127.0.0.1 down.
+
+2020-01-09 13:54:13,929 ERROR [master-db] master db not found.
+
+2020-01-09 13:54:17,952 ERROR [db-error] master db  down.
+
+2020-01-09 13:54:18,266 WARN useAddressServer:true
+
+2020-01-09 13:54:18,335 WARN isQuickStart:false
+
+2020-01-09 13:54:18,365 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2020-01-09 13:54:31,976 ERROR [master-db] master db not found.
+
+2020-01-09 13:54:35,988 ERROR [db-error] master db  down.
+
+2020-01-09 13:54:45,997 ERROR [master-db] master db not found.
+
+2020-01-09 13:54:50,011 ERROR [db-error] master db  down.
+
+2020-01-09 13:55:00,020 ERROR [master-db] master db not found.
+
+2020-01-09 13:55:04,035 ERROR [db-error] master db  down.
+
+2020-01-09 13:55:35,561 WARN useAddressServer:true
+
+2020-01-09 13:55:35,647 WARN isQuickStart:false
+
+2020-01-09 14:29:15,726 WARN useAddressServer:true
+
+2020-01-09 14:29:15,834 WARN isQuickStart:false
+
+2020-01-09 14:30:55,866 WARN useAddressServer:true
+
+2020-01-09 14:30:55,955 WARN isQuickStart:false
+
+2020-01-09 14:32:56,140 WARN useAddressServer:true
+
+2020-01-09 14:32:56,230 WARN isQuickStart:false
+
